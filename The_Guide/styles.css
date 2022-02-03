@@ -1,0 +1,49 @@
+.f_h1 {
+    background: none;
+    color: #000;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 1em;
+    padding-bottom: 0.17em;
+    font-family: "Linux Libertine", "Georgia", "Times", serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    border-bottom: 1px solid #0074f9;
+}
+
+.f_h2 {
+    background: none;
+    color: #000;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    font-family: "Linux Libertine", "Georgia", "Times", serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    border-bottom: 1px solid #0074f9;
+}
+
+.f_h3 {
+    background: none;
+    border-bottom: 0;
+    color: #000;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 0.3em;
+    overflow: hidden;
+    padding-top: 0.5em;
+}
+
+.f_h4,
+.f_h5,
+.f_h6 {
+    background: none;
+    border-bottom: 0;
+    color: #000;
+    font-weight: bold;
+    font-size: 100%;
+    margin-top: 0.3em;
+    overflow: hidden;
+    padding-top: 0.5em;
+}

@@ -1,0 +1,47 @@
+<!--
+    [[User:Kafe523/Sandbox4#|]]
+    <div class="f_h1"></div> 
+    <div class="f_h2"></div> 
+    <div class="f_h3"></div>
+    <div class="f_h4"></div> 
+    <div class="f_h5"></div> 
+    <div class="f_h6"></div> 
+
+    <div class="f_h1">[[User:Kafe523/Sandbox4#|]]</div> 
+    <div class="f_h2">[[User:Kafe523/Sandbox4#|]]</div> 
+    <div class="f_h3">[[User:Kafe523/Sandbox4#|]]</div>
+    <div class="f_h4">[[User:Kafe523/Sandbox4#|]]</div> 
+    <div class="f_h5">[[User:Kafe523/Sandbox4#|]]</div> 
+    <div class="f_h6">[[User:Kafe523/Sandbox4#|]]</div> 
+--><templatestyles src=":User:Kafe523/Sandbox4/doc/styles.css"/>
+
+<div class="f_h1">THINKR及相關事宜編輯指引 説明簡章</div>
+
+本説明文檔乃方便任何人士快速查詢、瞭解編輯指引内容而設立. 本説明文檔所撰寫之内容若與編輯指引有所分歧, 一律以編輯指引條文為主.<br><br>
+本簡章前半部簡介編輯指引各章節之内容, 後半部設常見問題集.
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#簡稱及適用範圍|簡稱及適用範圍]]</div>
+
+指引又名「THINKR編輯指引」.<br>
+本指引適用與任何與 THINKR 公司相關内容.
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#釋義|釋義]]</div>
+
+本章解釋指引内所用部分用字之定義. 除非指引内另指新意, 否則本章内定義全指引適用.
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#原則|原則]]</div> 
+
+任何有意、現正參與 THINKR 相關條目之編輯者必須遵從之條文.<br>
+任何與 THINKR 相關之衝突及爭議需按本章内容為方向處理.<br>
+原則重輕按順序排列, 第(1)條為最重要, 如此類推.
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#收錄範圍及分類|收錄範圍]]</div> 
+
+本章内任何可為收錄對象之内容作詳盡解釋, 大部分編輯疑難均於本章節可見解答.<br>
+若有需要收錄未曾提及之内容或分類, 請餐卡空指引「收錄原則」.
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#|]]</div> 
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#|]]</div> 
+
+<div class="f_h2">[[User:Kafe523/Sandbox4#|]]</div> 

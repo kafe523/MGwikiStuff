@@ -1,0 +1,447 @@
+{{不完整
+|補充Bilibili播放鏈接
+|補充Niconico播放鏈接
+}}
+{{长期关注及更新}}
+{{信息栏2.0
+|top-bcolor=#0039e6
+|t-bcolor=#757575
+|l-bcolor=#4d79ff
+|title= '''可不'''
+|image=KAFU.jpg
+|图片说明=
+|别号=KAFU
+|发色=白
+|多种瞳色={{Cate|[[異色瞳]]|異色瞳}}
+|語言=日語<ref group="注">營運沒有提及其他語言，因此僅考慮製作地區推論只有日語。</ref>
+|身高=
+|体重=
+|三围=
+|年龄= 0
+|生日= 2021/07/07
+|星座=
+|血型=
+|声优=[[花譜]]
+|出身地区=[[日本]]
+|活动范围=
+|所属团体=
+|个人状态=
+|相关人士=[[花譜]]
+|-橫欄1= 媒體
+|_文字框=
+|Youtube = [https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA 音楽的同位体「可不」 KAFU]
+|Twitter = [https://twitter.com/kaf_you @kaf_you]
+|Bilibili =
+|Weibo = 
+|Official Website = [http://kaf-u.kamitsubaki.jp/ 音楽的同位体 可不(KAFU)]
+|-橫欄2= 代表作
+|_文字框2=[https://www.youtube.com/watch?v=PJMIeydxHU8 {{lj|【音楽的同位体】心臓と絡繰 covered by 可不(KAFU)}}]
+|_文字框3={{center|[[キュートなカノジョ]]}}
+|_文字框4={{center|[[朝日]]}}
+}}
+
+<div class="kaf-hover-change">
+<span class="kaf-hover-change-before">{{Cquote|{{color|#ed99a6|{{lj|<big>'''私から生まれた、もう一人の私。<br>新しい音楽を、君と一緒に。'''</big>}}}}|{{lj|[[花譜]]}}|<ref name="PreOrder_YT_Link">{{cite web |url=https://www.youtube.com/watch?v=f-uMlE4L9Co |access-date=2021-07-11 |website=YouTube |script-title=ja:CeVIO AI 音楽的同位体 可不(KAFU) 予約開始！ |archive-url=http://web.archive.org/web/20210313132356/https://www.youtube.com/watch?v=f-uMlE4L9Co |archive-date=2021-03-13}}</ref>|width=400px}}</span>
+<span class="kaf-hover-change-after">{{Cquote|{{color|#ed99a6|<!--若有更好翻譯,敬請協助改善--><big>'''{{lang|zh-hant|吾軀而誕,余之分身.<br>雛青之章, 與汝共鳴}}.'''</big>}}<ref group="注">字面直譯:"從我誕生的另一我自己,新的音樂，和你一起."<br>譯者理解:此律詩為花譜向可不發出之邀請,兩位一同演唱更多歌曲.<br></ref> |{{lj|[[花譜]]}}|<ref name="PreOrder_YT_Link"/>|width=300px}}</span>
+</div>
+{{Float|}}
+
+'''可不(KAFU)''' 是以Vtuber[[花譜]]為原型創造出的[[CeVIO|CeVIO聲源]]，於2021年7月7日發售。
+
+== 简介 ==
+
+以花譜的歌聲爲基礎、與「Cevio AI」合作製作出來的、歌曲合成軟件。<br>
+是花譜的「音楽的同位体」、并不是花譜本人<ref>{{Cite web|url=https://kamitsubaki.jp/words/|script-title=ja:音楽的同位体 可不|access-date=2020-10-13|work=KAMITSUBAKI STUDIO words|quote={{lj|花譜の歌声をベースに、「Cevio AI」とのコラボレーションで作られた、歌合成ソフトウェア。花譜の「音楽的同位体」であり、花譜そのものではない。}}}}</ref>。
+
+KAFU 名字概念為 "KAF + YOU" <ref name="PreOrder_YT_Link"/>.
+
+==人設相關==
+
+[[File: 可不设定1.jpg |265px|left|可不人设图（服）]] 
+{{stack|[[File: 可不设定2.jpg |265px|right|可不人设图（便服）]]}}
+<!--語文苦手 望眾編輯者協助改善-->
+白髮 一對菱形黑黃色半掏空頭飾 黃色扎髮繩索 雙辮置肩前, 藍粉色孔膜 黃色瞳孔.
+
+外套為白黑藍形態 拉普拉斯,内側兩條黃色繩索.
+
+内衣為長至膝蓋黑色大衣, 正面六對裝飾白色紐扣, 後方兩對白色鈕扣.
+
+白色腿部關節,小腿前側各有兩隊菱形透氣孔.
+
+穿著藍黃色類籃球鞋, 沒有鞋帶.
+{{clear}}
+
+== 重大曆程 ==
+{{Timeline|timeweight=bold
+
+|2020年
+
+|in2020年10月10日=在{{lj|[[花谱#「Q1」|「不可解•弐Q1」]]}}製作名單后，播出宣傳短評。首次公佈了「音楽的同位体」可不(KAFU)之存在，並預計2020冬亮相<ref>{{Cite web|url=https://www.youtube.com/watch?v=xnmpQ7za2dk |script-title=ja:音楽的同位体「可不(KAFU)」2020年冬にデビュー予定！ |date=2020-10-13 |access-date=2020-12-15|work=Youtube}}</ref>。<br>
+|in2020年10月13日=公開[https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA/ 同名Youtube頻道]<ref> {{Cite web|url=https://twitter.com/kaf_you/status/1315964766897074177 |script-title=ja:「可不のYouTubeチャンネルを開設しました。ご登録お願いします！(運営スタッフ)」|date=2020-10-13 |access-date=2020-12-15 |author=@kaf_you |work=Twitter}}</ref>。
+
+|in2020年10月15日=可不Twitter發佈調查問卷，公佈可不音源有3三種演唱方式，分別爲'''Type A''' '''Type B''' '''Type C'''<ref>{{Cite web|url=https://twitter.com/kaf_you/status/1316665118428725248 |script-title=ja:アンケート回答方法 動画内の音声をお聴きいただき、こちらのフォームより回答をお願いいたします。 沢山の御意見お待ちしております！(可不運営スタッフ) |quote=https://docs.google.com/forms/d/e/1FAIpQLScisbRvZjHdwsHnXbJcMxub5TBVDINl3CfwX9Ij0TUn9Jz4fA/viewform {{lj|■アンケート実施期間 2020年10月15日(木)18:00 〜 10月17日(土) 23:59}} |author=@kaf_you |work=Twitter |date=2020-10-15 |access-date=2020-12-16}}</ref>。 將會根據統計結果決定[[花譜]]的演唱風格<ref>{{Cite web|url=https://twitter.com/kaf_you/status/1316664861993119745 |script-title=ja:音声創作ソフトウェア「CeVIO AI」とのコラボによって実現したプロジェクト、音楽的同位体「可不(KAFU)」の歌声を皆様と一緒に決めていくアンケート実施をお知らせします。皆様の御意見を元に、花譜ちゃん本人と歌声を決定したいです！下記内容をご確認の上、アンケートにご協力をお願いいたします！|author=@kaf_you |work=Twitter |date=2020-10-15 |access-date=2020-12-16}}</ref>。其中'''Type A'''最像本人。
+
+|in2020年10月18日=PIEDPIPER/KAMITSUBAKI P 公佈統計數字，總回應數目有近5500件。選擇'''Type A'''有65%，選擇'''Type B'''有25.3%，選擇'''Type C'''有9.7%。 而最終結果將於19日由[[花譜]]本人公佈<ref>{{Cite web|url=https://twitter.com/PIEDPIPER2045/status/1317751568465154048 |script-title=ja:可不の歌声について御意見ありがとうございました。賛否両論の5500件近くのコメントを頂き大変感謝しております。結果としてAが65%、Bが25.3%、Cが9.7%という投票結果となりました。これを踏まえ頂いたコメントも参考に花譜本人に最終結論を委ねます。明日の本人発表をお待ち下さい。#花譜 #可不 #KAFU |author=@PIEDPIPER2045 |work=Twitter |date=2020-10-18 |access-date=2020-12-16}}</ref>。
+
+|in2020年10月19日=[[花譜]]公佈，決定可不音源將選擇'''Type B'''音調為基礎進行製作<ref>{{Cite web|url=https://twitter.com/virtual_kaf/status/1318145530577395718 |script-title=ja:花譜の音楽的同位体「可不」について、今の私の気持ちをお話します。#花譜 #可不 #KAFU #CeVIO #KAMITSUBAKI_STUDIO|author=@virtual_kaf |work=Twitter |date=2020-10-19|access-date=2020-12-16}}</ref>。 在稍後，PIEDPIPER/KAMITSUBAKI P 於Twitter交代本次決定的理據. 和[[花譜]]商談之後認爲'''Type A'''在未來有其他發展潛質，因此今回采用了'''Type B'''音調，並再次向參與統計的各位表達謝意<ref>{{Cite web|url=https://twitter.com/PIEDPIPER2045/status/1318149354025201665 |script-title=ja:先程の花譜の発表を受けまして、音楽的同位体「可不」の音声は「B」に決まりました。|author=@PIEDPIPER2045 |work=Twitter |date=2020-10-19 |access-date=2020-12-16|quote={{lj|沢山の御意見を参考にさせて頂き本人が最終決定しました。「A」が産みだせた別の未来も有ると思いますが今回は「B」で進め「A」はひとまず封印します。沢山の御意見本当にありがとうございました。#花譜 #可不 #KAFU}}}}</ref>。
+
+|in2020年10月26日={{lj|不確かなものをつくります。}}宣佈，可不音源開發延遲.預計2021年前半可以發佈<ref name=1st_Delay>{{lj|不確かなものをつくります。}} {{Cite web|url=https://note.com/futashika/n/n004c266b54e1 |script-title=ja:10/25「花達と椿と君。Vol.5」内での発表について、他。|date=2020-10-26 |work=Note.com |access-date=2020-12-16}}</ref>。
+
+|in2020年11月14日=可不Youtube channel發佈第一首Cover曲 {{lj|「[[雛鳥]]」covered by 可不(KAFU)}}<ref>{{Cite web|url=https://twitter.com/kaf_you/status/1327536895698485252 |script-title=ja:はじめて可不ちゃんの歌でお届けする名曲「雛鳥」。|quote={{lj|是非沢山の皆様に聴いて頂けると嬉しいです！(可不運営スタッフ) 【音楽的同位体】雛鳥 covered by 可不(KAFU) https://youtu.be/EvZzGa6WDxI #AI可不 #AI KAFU #カンザキイオリ #雛鳥}}|author=@kaf_you |work=Twitter|date=2020-11-14|access-date=2020-12-16}}</ref>。
+
+|in2020年11月28日=可不Youtube channel發佈第二首Cover曲 {{lj|「[[心臓と絡繰]]」covered by 可不(KAFU)}}<ref>{{Cite web|url=https://twitter.com/kaf_you/status/1332610185693601794 |script-title=ja:我らが可不ちゃんの歌でお届けする花譜ちゃんカバー第二弾は初期の名曲「心臓と絡繰」|quote={{lj|是非沢山の皆様に聴いて頂けると嬉しいです！(可不運営スタッフ) 【音楽的同位体】心臓と絡繰 covered by 可不(KAFU) https://youtu.be/PJMIeydxHU8 #AI可不 #AI_KAFU #CeVIOAI #カンザキイオリ #花譜 #心臓と絡繰}} |author=@kaf_you |work=Twitter |date=2020-11-28|access-date=2020-12-16}}</ref>。
+
+|in2020年12月12日=可不Youtube channel發佈第三首Cover曲 {{lj|「[[過去を喰らう]]」covered by 可不(KAFU)}}<ref>{{Cite web|url=https://twitter.com/kaf_you/status/1337683610644533248 |script-title=ja:可不ちゃんの歌でお届けするカバー第三弾は花譜ちゃんの大人気曲「過去を喰らう」。|quote={{lj|是非沢山の皆様に聴いて頂けると嬉しいです！(可不運営スタッフ) 【音楽的同位体】過去を喰らう covered by 可不(KAFU) https://youtu.be/du77j06KPeU #AI可不 #AI_KAFU #CeVIOAI #カンザキイオリ #花譜 #過去を喰らう}}|author=@kaf_you |work=Twitter |date=2020-12-12 |access-date=2020-12-16}}</ref>。
+
+|in2020年12月25日=「花達と椿と君。vol.6」公佈可不的第一首原創曲，由{{lj|[[煮ル果実]]}}創作的{{lj|「[[Night Rule]]」}}<ref>[https://www.youtube.com/watch?v=MLE6Fvg7ci0 {{lj|∴KAFU『ナイトルール』- Night Rule 【Official】}}]，{{cite web |url=https://www.youtube.com/watch?v=2TqNnDYiT-c |access-date=2020-12-26 |website=YouTube |script-title=ja:KAMITSUBAKI STUDIO特別番組「花達と椿と君。vol.6」 - YouTube |archive-url=http://web.archive.org/web/20201225031441/https://www.youtube.com/watch?v=2TqNnDYiT-c&gl=US&hl=en |archive-date=2020-12-25 |author=KAMITSUBAKI STUDIO}}</ref>。
+
+|2021年
+
+|in2021年1月9日=可不第二首原創曲發佈，由{{lj|[[一二三(P主)|一二三]]}}創 作的{{lj|「[[Hologram(一二三)|ホログラム]]」}}<ref>{{cite web |url=https://twitter.com/Hihumi_v/status/1347831181786578944 |access-date=2021-01-10 |script-title=ja:【新曲】 |archive-url=http://web.archive.org/web/20210109090304/https://twitter.com/Hihumi_v/status/1347831181786578944 |archive-date=2021-01-09 |author=@Hihumi_v
+|work=Twitter|quote={{lj|ホログラム / 一二三 feat.可不絵 : 慧子投稿しました～！ボーカルは花譜ちゃんの声をもとに制作されたCeVIO AIの「可不」です今回もよろしくお願いしますn}} : http://nicovideo.jp/watch/sm38086642y : http://youtu.be/NgEXMtQh_Gs#vocaloPost#花譜 #AI可不 #AI_KAFU #CeVIOAI}}</ref>。
+
+|in2021年2月6日=可不第三首原創曲發佈，由[[Police Piccadilly|ポリスピカデリー]]創作的「[[荒谬的喝彩|{{lj|不埒な喝采}}]]」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1357978468697268225 |access-date=2021-02-06 |script-title=ja:可不ちゃんオリジナル楽曲をポリスピカデリーさんに作っていただきました！|author=@kaf_you |work=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}<br>https://youtu.be/m10mNB8L9Kw}}</ref>。 本曲為可不第一首合唱曲<ref group="注" name="jts">以 {{lj|不可解·弐Q2}} 合唱開始計算</ref>。
+
+|in2021年2月20日=可不第四首原創曲發佈，由{{lang|en|[[syudou]]}}創作的「[[可爱女友|{{lj|キュートなカノジョ}}]]」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1363055742522068993 |access-date=2021-02-20 |script-title=ja:今回は可不ちゃんオリジナル楽曲をsyudouさんに作っていただきました！キュートな楽曲ありがとうございます！|author=@kaf_you |work=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}<br>https://www.youtube.com/watch?v=oFmup8lxUHw}}</ref>。
+
+|in2021年3月7日=可不第五首原創曲發佈，由{{lang|en|[[Guiano]]}}創作的「{{lang|en|[[ice cream]]}}」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1368496349071564801 |access-date=2021-03-20 |script-title=ja:可不ちゃんオリジナル楽曲をGuianoさんに作っていただきました！今日19時半に公開予定している可不ちゃんのHOW TO動画の楽曲にもなっています！ |author=@kaf_you |work=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}<br>https://www.youtube.com/watch?v=L9GEC4jFAsA}}</ref>。
+
+|in2021年3月13日=可不第六首原創曲發佈，由{{lang|en|[[koyori]]}}創作的「{{lj|[[小点心|はなぐすり]]}}」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1370725511270305793 |access-date=2021-03-20 |script-title=ja:可不ちゃんオリジナル楽曲をkoyori(電ポルP)さんに作っていただきました！素敵な楽曲ありがとうございます！ |author=@kaf_you |work=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}<br>https://www.youtube.com/watch?v=upxd9QoXTUI}}</ref>。
+*随后公布第一张专辑《KAF+YOU KAFU COMPILATION ALBUM》预计在2021年5月31日发布，包括{{lj|[[すりぃ]]}}、R Sound Design、[[雄之助]]等P主受邀来作<ref>{{cite web |url=https://kamitsubaki.booth.pm/items/2795536 |access-date=2021-05-14 |script-title=ja:KAMITSUBAKI STUDIO音楽的同位体 可不(KAFU) スターターパッケージ【2021年7月7日発売】音楽的同位体 可不(KAFU) スターターパッケージ【2021年7月7日発売】|website=BOOTH}}</ref>。
+
+|in2021年3月14日=可不預售開啓。
+
+|in2021年3月20日=可不第七首原创曲发布，由{{lang|en|[[Chinozo]]}}创作的「{{lj|[[嫉妒(Chinozo)|ジェラシス]]}}」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1373198926342283265 |access-date=2021-03-20 |script-title=ja:今週の可不ちゃんオリジナル楽曲はChinozoさん「ジェラシス」です！とてもかわいい楽曲ありがとうございます！https://youtu.be/UxUe_CIYqWE |author=@kaf_you |work=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}<br>https://www.youtube.com/watch?v=UxUe_CIYqWE}}</ref>。
+
+|in2021年3月27日=可不第八首原創曲發佈，由{{lj|[[水野あつ]]}}創作的「{{lj|[[独り夜がり]]}}」.<ref>{{cite web |url=https://twitter.com/kaf_you/status/1375735435985477635 |script-title=ja:今週の可不ちゃんオリジナル楽曲は水野あつさん「独り夜がり」です！可不ちゃん初のデュエット曲です！https://youtu.be/HPR9IS5PU2U |access-date=2021-03-27 |author=@kaf_you|website=Twitter|quote={{lj|皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref> 本曲為可不第二首合唱曲<ref group="注" name="jts" />。
+
+|in2021年4月10日=可不第九首原創曲發佈， 由{{lang|en|[[R Sound Design]]}}創作的{{lj|「[[新人生|レトロポリス]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1380808600331853829 |script-title=ja:今週の可不ちゃんオリジナル楽曲はR Sound Designさん「レトロポリス」です！素敵な楽曲ありがとうございます！ |access-date=2021-04-10 |website=Twitter|author=@kaf_you|quote={{lj|https://youtu.be/YGlAWg1YmQ8<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年4月17日=可不第十首原創曲發佈， 由{{lj|[[郁P|鬱P]]}}創作的「{{lang|en|[[ATARI FRONT PROGRAM]]}}」<ref>{{cite web |url=https://twitter.com/kaf_you/status/1383345575777558530 |script-title=ja:今週の可不ちゃんオリジナル楽曲は鬱Pさんによる「ATARI FRONT PROGRAM」です！ |access-date=2021-05-14 |website=Twitter |archive-url=http://web.archive.org/web/20210418015116/https://twitter.com/kaf_you/status/1383345575777558530 |archive-date=2021-04-18 |author=@kaf_you|quote={{lj|http://youtu.be/lupVveArye8<br>かっこいい楽曲になっています！<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月1日=可不第十一首原創曲發佈， 由{{lj|[[雄之助]]}}創作的{{lj|「[[成花|花となれ]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1388428075310874624|script-title=ja:今週の可不ちゃんオリジナル楽曲は雄之助さんによる「花となれ」です！素敵な楽曲をありがとうございます！ |access-date=2021-05-14 |website=Twitter |archive-url=http://web.archive.org/web/20210501094042/https://twitter.com/kaf_you/status/1388428075310874624 |archive-date=2021-05-01 |author=@kaf_you|quote={{lj|https://youtu.be/XqKbuEDvaf8<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+:同晚{{lj|「花達と椿と君。vol.10 -生放送-」}}， 因製作工地發生事故<ref>{{cite web |url=https://www.youtube.com/watch?v=4VVR6ILh4Lo |access-date=2021-05-14 |script-title=ja: KAMITSUBAKI STUDIO特別番組「花達と椿と君。vol.10 -生放送-」 |archive-url=http://web.archive.org/web/20210501110426/https://www.youtube.com/watch?v=4VVR6ILh4Lo |archive-date=2021-05-01}}</ref>， '''可不發售日期將延後至同年7月7日'''<ref>{{cite web |url=https://twitter.com/kaf_you/status/1388470759740166147 |script-title=ja:先ほど発表となりましたが、生産上の不具合で発売を7/7(水)に延期致しました。|access-date=2021-05-14 |website=Twitter |archive-url=http://web.archive.org/web/20210511141353/https://twitter.com/kaf_you/status/1388470759740166147 |archive-date=2021-05-11 |author=@kaf_you|quote={{lj|待っていてくださってる皆さま本当にごめんなさい。<br>もうしばらく発売をお待ちください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月5日=可不第十二首原創曲發佈， 由{{lang|en|[[40mP]]}}創作的{{lj|「[[社会距离|社会距離]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1389869730199007235|script-title=ja:今週の可不ちゃんオリジナル楽曲は40mPさんによる「社会距離」です！素敵な楽曲をありがとうございます！ |access-date=2021-05-14 |website=Twitter |archive-url=http://web.archive.org/web/20210505091152/https://twitter.com/kaf_you/status/1389869730199007235 |archive-date=2021-05-05 |author=@kaf_you|quote={{lj|youtu.be/aDJwK3G72Po<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月8日=可不第十三首原創曲發佈， 由 {{lj|[[大沼パセリ]]}}創作的{{lj|「[[水面下]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1390959518532521986|script-title=ja:今日の可不ちゃんオリジナル楽曲は大沼パセリさんの「水面下」です！大沼パセリさんと可不ちゃんのデュエット曲です！ |access-date=2021-05-14 |website=Twitter |archive-url=http://web.archive.org/web/20210508235218/https://twitter.com/kaf_you/status/1390959518532521986 |archive-date=2021-05-08 |author=@kaf_you|quote={{lj|http://youtu.be/PdomeUcKsOc<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月15日=可不第十四首原創曲發佈， 由{{lj|[[栗山夕璃]]}}創作的{{lj|「[[フーリッシュフール]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1393507879970230275 |script-title=ja:今日の可不ちゃんオリジナル楽曲は栗山夕璃さんの「フーリッシュフー」です！素敵な楽曲をありがとうございます！ |access-date=2021-05-20 |website=Twitter |archive-url=http://web.archive.org/web/20210515101044/https://twitter.com/kaf_you/status/1393507879970230275 |archive-date=2021-05-15 |author=@kaf_you|quote={{lj|https://youtu.be/kQcPRa4afjc<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月19日=可不第十五首原創曲發佈， 由{{lj|[[すりぃ]]}}創作的{{lj|「[[めめしぃ]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1394993596495843331 |script-title=ja:今日の可不ちゃんオリジナル楽曲はすりぃさんの「めめしぃ」です！ありがとうございます！|access-date=2021-05-29 |website=Twitter |archive-url=http://web.archive.org/web/20210529104649/https://twitter.com/kaf_you/status/1394993596495843331 |archive-date=2021-05-29 |author=@kaf_you|quote={{lj|https://youtu.be/mkP5Myd-YZU<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月22日=可不第十六首原創曲發佈， 由{{lang|en|[[ATOLS]]}}創作的{{lj|「[[色彩(可不)|色彩]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1396028577246707716 |script-title=ja:今日の可不ちゃんオリジナル楽曲はATOLSさんの「色彩」です！ありがとうございます！|access-date=2021-05-29 |website=Twitter |archive-url=http://web.archive.org/web/20210529104617/https://twitter.com/kaf_you/status/1396028577246707716 |archive-date=2021-05-29 |author=@kaf_you|quote={{lj|youtu.be/8j8BTyXyhV8<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月26日=可不第十七首原創曲發佈， 由{{lang|en|[[sasakure.UK]]}}創作的{{lj|「[[化孵化]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1397529953877467144 |script-title=ja:今日の可不ちゃんオリジナル楽曲はsasakure.UKさんの「化孵化」です！ありがとうございます！|access-date=2021-05-29 |website=Twitter |archive-url=http://web.archive.org/web/20210529104602/https://twitter.com/kaf_you/status/1397529953877467144 |archive-date=2021-05-29 |author=@kaf_you|quote={{lj|youtu.be/fOKe8zhTBDM<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年5月29日=可不第十八首原創曲發佈， 由{{lang|en|[[aqu3ra]]}}創作的{{lj|「[[Nostalgic Blue|ノスタルジック・ブルー]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1398568091152388097 |script-title=ja:今日の可不ちゃんオリジナル楽曲はaqu3raさんの「ノスタルジック・ブルー」です！ありがとうございます！|access-date=2021-05-29 |website=Twitter |archive-url=http://web.archive.org/web/20210529104551/https://twitter.com/kaf_you/status/1398568091152388097 |archive-date=2021-05-29 |author=@kaf_you|quote={{lj|https://youtu.be/ZhoH2uVMskM<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月5日=可不第十九首原創曲發佈， 由{{lj|[[ツミキ]]}}創作的{{lj|「[[フォニイ]]」}} <ref>{{cite web |url=https://twitter.com/kaf_you/status/1401119963482509312 |script-title=ja:今日の可不ちゃんオリジナル楽曲はツミキさんの「phony」です！ありがとうございます！|access-date=2021-06-07 |website=Twitter |archive-url=http://web.archive.org/web/20210606105835/https://twitter.com/kaf_you/status/1401119963482509312 |archive-date=2021-06-06 |author=@kaf_you|quote={{lj|http://youtu.be/9QLT1Aw_45s<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月9日=可不第二十首原創曲發佈，由{{lang|en|[[Hylen]]}}創作的{{lj|「[[わるいくせだよ。]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1402599887414317058 |script-title=ja:今日の可不ちゃんオリジナル楽曲はHylenさんの「わるいくせだよ。」です！Hylenさん初のMVになります！ |access-date=2021-06-15 |website=Twitter |archive-url=http://web.archive.org/web/20210609122450/https://twitter.com/kaf_you/status/1402599887414317058 |archive-date=2021-06-09 |author=@kaf_you|quote={{lj|素敵な楽曲ありがとうございます！<br>https://youtu.be/iiNB93EMOEQ<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月18日=可不第二十一首原創曲發佈，由[[164]]創作的{{lj|「[[全部全部全部]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1405872688602570758 |script-title=ja:今日の可不ちゃんオリジナル楽曲は164さんの「全部全部全部」です！素敵な楽曲ありがとうございます！|access-date=2021-06-23 |website=Twitter |archive-url=http://web.archive.org/web/20210623103517/https://twitter.com/kaf_you/status/1405872688602570758 |archive-date=2021-06-23 |author=@kaf_you|quote={{lj|https://youtu.be/GeGlTNfPCTg<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月19日=可不第二十二首原創曲發佈，由{{lj|[[みきとP]]}}創作的{{lang|en|「[[YONAKI]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1406218508090765313 |script-title=ja:今日の可不ちゃんオリジナル楽曲はみきとPさんの「YONAKI」です！素敵な楽曲ありがとうございます！|access-date=2021-06-23 |website=Twitter |archive-url=http://web.archive.org/web/20210623103514/https://twitter.com/kaf_you/status/1406218508090765313 |archive-date=2021-06-23 |author=@kaf_you|quote={{lj|https://youtu.be/YU5Hnf2gh_E<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月23日=可不第二十三首原創曲發佈，由{{lj|[[100回嘔吐]]}}創作的{{lj|「[[最底辺の嫌がらせ]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1407639472372543488 |script-title=ja:今日の可不ちゃんオリジナル楽曲は100回嘔吐さんの「最底辺の嫌がらせ」です！素敵な楽曲ありがとうございます！|access-date=2021-06-23 |website=Twitter |archive-url=http://web.archive.org/web/20210623104837/https://twitter.com/kaf_you/status/1407639472372543488 |archive-date=2021-06-23 |author=@kaf_you|quote={{lj|https://youtu.be/BJXy_IWmBoE<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月26日= 可不第二十四首原創曲發佈，由{{lang|en|[[DIVELA]]}}創作的{{lj|「[[我的分身|私のドッペルゲンガー]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1408742773847564288 |script-title=ja:今日の可不ちゃんオリジナル楽曲はDIVELAさん(@MIX_Destroy )の「私のドッペルゲンガー」です！素敵な楽曲ありがとうございます！|access-date=2021-06-30 |website=Twitter |archive-url=http://web.archive.org/web/20210626121956/https://twitter.com/kaf_you/status/1408742773847564288 |archive-date=2021-06-26 |author=@kaf_you|quote={{lj|https://youtu.be/QggCIx9mHwc<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年6月30日= 可不第二十五首原創曲發佈，由{{lang|en|[[Peg]]}}創作的{{lj|「[[邪道]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1410165984246124544 |script-title=ja:今日の可不ちゃんオリジナル楽曲はPegさん(@Peeeeg_444 )の「邪道」です！素敵な楽曲ありがとうございます！|access-date=2021-06-30 |website=Twitter |archive-url=http://web.archive.org/web/20210630092855/https://twitter.com/kaf_you/status/1410165984246124544 |archive-date=2021-06-30 |author=@kaf_you|quote={{lj|youtu.be/Z8U9pO-6r-w <br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+*可不Twitter開始發售日倒數<ref group="注">可不Twitter轉推忠畫師繪製之賀圖</ref>.
+
+|in2021年7月3日= 可不第二十六首原創曲發佈，由{{lang|en|[[wotaku]]}}創作的{{lj|「[[コールドケース]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1411252344059174916 |script-title=ja:今日の可不ちゃんオリジナル楽曲はwotakuさん(@wotaku_aaa)の「コールドケース」です！素敵な楽曲ありがとうございます！|access-date=2021-06-30 |website=Twitter |archive-url=http://web.archive.org/web/20210630092855/https://twitter.com/kaf_you/status/1410165984246124544 |archive-date=2021-06-30 |author=@kaf_you|quote={{lj|youtu.be/Z8U9pO-6r-w <br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>。
+
+|in2021年7月7日= 可不正式发售。
+*同晚正式公開{{lj|[[朝日]]}}MV.
+
+|in2021年7月10日= 可不第二十八首原創曲發佈，由{{lj|[[しとお]]}}創作的{{lj|「[[第四の壁、向こうより]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1413796104311689216 |script-title=ja:今日の可不ちゃんオリジナル楽曲はしとおさん(@xxxshitoo)の「第四の壁、向こうより」です！素敵な楽曲ありがとうございます！|access-date=2021-07-10 |website=Twitter |archive-url=http://web.archive.org/web/20210710095319/https://twitter.com/kaf_you/status/1413796104311689216 |archive-date=2021-07-10 |author=@kaf_you|quote={{lj|https://youtu.be/pDGhHbIVl1w<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年7月14日= 可不第二十九首原創曲發佈， 由{{lj|[[かいりきベア]]}}創作的{{lj|「[[メスト]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1415234790702284815 |script-title=ja:今日の可不ちゃんオリジナル楽曲はかいりきベアさん(@kairiki_bear)の「メスト」です！素敵な楽曲ありがとうございます！|access-date=2021-07-16 |website=Twitter |archive-url=http://web.archive.org/web/20210714111203/https://twitter.com/kaf_you/status/1415234790702284815 |archive-date=2021-07-14 |author=@kaf_you|quote={{lj|https://youtu.be/mEoy3n-DgF0<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>
+
+|in2021年7月17日= 可不第三十首原創曲發佈, 由{{lj|[[香椎モイミ]]}}創作的{{lj|「[[キャットラビング]]」}}<ref><{{cite web |url=https://twitter.com/kaf_you/status/1416322172289576963 |script-title=ja:今日の可不ちゃんオリジナル楽曲は香椎モイミさん(@moi__moimi)の「キャットラビング」です！素敵な楽曲ありがとうございます！|access-date=2021-08-06 |website=Twitter |archive-url=http://web.archive.org/web/20210717094208/https://twitter.com/kaf_you/status/1416322172289576963 |archive-date=2021-07-17 |author=@kaf_you|quote={{lj|https://youtu.be/7gwvBrlUiww<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年7月22日= 3000Retweet紀念, KAFU ORIGINAL Illust CONTEST 開催 <ref>{{cite web |url=http://kaf-u.kamitsubaki.jp/illust_contest/ |title=Illust Contest |access-date=2021-08-07 |website=音楽的同位体 可不(KAFU)|archive-url=http://web.archive.org/web/20210806160816/http://kaf-u.kamitsubaki.jp/illust_contest/ |archive-date=2021-08-06}}</ref>
+*応募期間: 2021年7月22日〜2021年8月5日
+*当選者数: 大賞1名 入賞10名 PALOW.賞10名
+
+|in2021年7月24日= 可不第三十一首原創曲發佈, 由{{lj|[[はれるりり]]}}創作的{{lj|「[[しあわせのレシピ]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1418876109374988288 |script-title=ja:今日の可不ちゃんオリジナル楽曲はれるりりさん(@rerulili)の「しあわせのレシピ」です！素敵な楽曲ありがとうございます！|access-date=2021-08-06 |website=Twitter |archive-url=http://web.archive.org/web/20210724143219/https://twitter.com/kaf_you/status/1418876109374988288 |archive-date=2021-07-24 |author=@kaf_you|quote={{lj|http://youtu.be/X2TEp0qwqdg<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年7月28日= 可不第三十二首原創曲發佈, 由{{lj|[[ナナホシ管弦楽団]]}}創作的{{lj|「[[変身(ナナホシ管弦楽団)|変身]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1420357245892653060 |script-title=ja:今日の可不ちゃんオリジナル楽曲はナナホシ管弦楽団さん(@sosite_iwamikun)の「変身」です！素敵な楽曲ありがとうございます！|access-date=2021-08-06 |website=Twitter |archive-url=http://web.archive.org/web/20210728130745/https://twitter.com/kaf_you/status/1420357245892653060 |archive-date=2021-07-28 |author=@kaf_you|quote={{lj|https://youtu.be/dub9h9qmMEg<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年7月31日= 可不第三十三首原創曲發佈, 由{{lj|[[とあ]]}}創作的{{lj|「[[ココロガール]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1421399620526084098 |access-date=2021-08-06 |script-title=ja:今日の可不ちゃんオリジナル楽曲はとあさん(@o0toa0o)の「ココロガール」です！素敵な楽曲ありがとうございます！|website=Twitter |archive-url=http://web.archive.org/web/20210731091753/https://twitter.com/kaf_you/status/1421399620526084098 |archive-date=2021-07-31 |author=@kaf_you|quote={{lj|https://youtu.be/SXq5eH350_s<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年8月4日= 可不第三十四首原創曲發佈, 由{{lj|[[蝶々P]]}}創作的{{lang|en|「[[SCREW]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1422894476318568450 |access-date=2021-08-06 |script-title=ja:今日の可不ちゃんオリジナル楽曲は蝶々Pさん(@papiyon_cyoucyo)の「SCREW」です！素敵な楽曲ありがとうございます！|website=Twitter |archive-url=http://web.archive.org/web/20210804122002/https://twitter.com/kaf_you/status/1422894476318568450 |archive-date=2021-08-04 |author=@kaf_you|quote={{lj|https://youtu.be/J10m-9iJo-Y<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年8月9日= 可不第三十五首原創曲發佈. 由{{lang|en|[[MIMI]]}}創作的{{lj|「[[いっせーのーで]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1424681292243689484 |script-title=ja:今日の可不ちゃんオリジナル楽曲はMIMIさん(@mimi_3mi)の「いっせーのーで」です！素敵な楽曲ありがとうございます！ |access-date=2021-08-15 |website=Twitter |archive-url=http://web.archive.org/web/20210809104920/https://twitter.com/kaf_you/status/1424681292243689484 |archive-date=2021-08-09 |author=@kaf_you |quote={{lj|https://youtu.be/vLigCJOcHOE<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年8月10日={{lj|オリジナル楽曲コンテスト}}開催<ref>{{cite web |url=http://kaf-u.kamitsubaki.jp/music_contest/ |access-date=2021-08-14 |website=音楽的同位体 可不(KAFU) |title= Music Contest |archive-url=http://web.archive.org/web/20210810094606/http://kaf-u.kamitsubaki.jp/music_contest/ |archive-date=2021-08-10}}</ref>
+*期間: 2021/08/10〜2021/09/09 
+*{{lj|大賞}} 1名 MV製作/30萬{{lj|円}}獎金, 作品會於{{lj|可不}}Channel公開.
+*{{lj|花譜賞}} 1名 花譜本人演唱, 會於{{lj|花譜}}Channel公開.
+*{{lj|入賞}} 10名 花譜本人{{lj|音声感想ュメント}}.
+
+|in2021年8月11日= 可不第三十六首原創曲發佈. 由{{lj|[[葵木ゴウ]]}}創作的{{lj|「[[毒吐く]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1425396691163746304 |script-title=ja:今日の可不ちゃんオリジナル楽曲は葵木ゴウさん(@gogotea_nicogt)の「毒吐く」です！素敵な楽曲ありがとうございます！ |access-date=2021-08-15 |website=Twitter |archive-url=http://web.archive.org/web/20210811100046/https://twitter.com/kaf_you/status/1425396691163746304 |archive-date=2021-08-11 |author=@kaf_you |quote={{lj|https://youtu.be/NWicp-4RP14<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+|in2021年8月18日= 可不第三十七首原創曲發佈, 由{{lj|[[ナユタン星人]]}}創作的{{lj|「[[ひみつのユーフォー]]」}}<ref>{{cite web |url=https://twitter.com/kaf_you/status/1427962613305012229 |script-title=ja:今日の可不ちゃんオリジナル楽曲はナユタン星人さん(@NayutalieN)の「ひみつのユーフォー」です！素敵な楽曲ありがとうございます！|access-date=2021-08-19 |website=Twitter |archive-url=http://web.archive.org/web/20210818170349/https://twitter.com/kaf_you/status/1427962613305012229 |archive-date=2021-08-18 |author=@kaf_you |quote={{lj|https://youtu.be/h-HMdNsCFus<br>皆様、是非たくさんお聴きください！（可不運営スタッフ）}}}}</ref>.
+
+}}
+
+== 音樂 ==
+
+=== 原創曲 ===
+<div style="display: none;">
+<!--鏈接圖標代碼-->
+{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}
+{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]] }}
+{{#vardefine: nico-logo | [[File:Niconico-2021-black.png|20px|link=]] }} 
+{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
+
+<!--
+鏈接編寫方法
+Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
+Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Niconico : {{plain link | url= Niconico鏈接 {{#var: nico-logo}}}} 
+列表格式 : | 順序 || 投稿時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || Youtube || Bilibili || Niconico
+
+鑒於可不(KAFU)尚未正式推出<ref name=1st_Delay />，因此以下暫時只會包含[https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA 音楽的同位体「可不」 KAFU]Youtube頻道上載之音樂影片.
+-->
+</div>
+本列表會記載所有經 可不Twitter 轉推之曲目.
+<span class="mw-customtoggle-Kafu_O_Song" style="cursor:pointer"><span style="display:flex; justify-content:center;">[&nbsp;<span style="color:#0645ad;">'''點擊本行文字以展開'''</span>&nbsp;]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Kafu_O_Song">
+{| class="<!--mw-collapsible mw-collapsed--> wikitable <!--sortable-->" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !! YouTube !! Bilibili !! Niconico
+|-
+| I || 2020年11月14日 || {{lj|「[[雛鳥]]」covered by 可不(KAFU)}} || [[カンザキイオリ]] || [[カンザキイオリ]] || [[カンザキイオリ]] || {{plain link | url=https://www.youtube.com/watch?v=EvZzGa6WDxI {{#var: yt-logo}}}} ||  || N/A
+|-
+| II || 2020年11月28日 || {{lj|「[[心臓と絡繰]]」covered by 可不(KAFU)}} || [[カンザキイオリ]] || [[カンザキイオリ]] || [[カンザキイオリ]] || {{plain link | url=https://www.youtube.com/watch?v=PJMIeydxHU8 {{#var: yt-logo}}}} ||  || N/A
+|-
+| III || 2020年12月12日 || {{lj|「[[過去を喰らう]]」covered by 可不(KAFU)}} || [[カンザキイオリ]] || [[カンザキイオリ]] || [[カンザキイオリ]] || {{plain link | url=https://www.youtube.com/watch?v=du77j06KPeU {{#var: yt-logo}}}} ||  || N/A
+|-
+| 1 || 2021年12月25日 || {{lj|「[[ナイトルール]]」}} || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || {{plain link | url=https://www.youtube.com/watch?v=MLE6Fvg7ci0 {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38006740 {{#var: nico-logo}}}}
+|-
+| 2 || 2021年01月09日 || {{lj|「[[ホログラム]]」}} || [[一二三(P主)|一二三]] || [[一二三(P主)|一二三]] || [[一二三(P主)|一二三]] || {{plain link | url=https://www.youtube.com/watch?v=NgEXMtQh_Gs {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38086642 {{#var: nico-logo}}}}
+|-
+| 3 || 2021年02月06日 || {{lj|「[[不埒な喝采]]」}} || [[Police Piccadilly|{{lj|ポリスピカデリー}}]] || [[Police Piccadilly|{{lj|ポリスピカデリー}}]] || [[Police Piccadilly|{{lj|ポリスピカデリー}}]] || {{plain link | url=https://www.youtube.com/watch?v=m10mNB8L9Kw  {{#var: yt-logo}}}} ||  || {{plain link | url=http://nico.ms/sm38230008 {{#var: nico-logo}}}}
+|-
+| 4 || 2021年02月20日 || {{lj|「[[キュートなカノジョ]]」}} || [[syudou]] || [[syudou]] || [[syudou]] || {{plain link | url=https://www.youtube.com/watch?v=oFmup8lxUHw  {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38300091 {{#var: nico-logo}}}}
+|-
+| 5 || 2021年03月07日 || {{lj|「[[アイスクリーム]]」}} || [[Guiano]] || [[Guiano]] || [[Guiano]] || {{plain link | url=https://www.youtube.com/watch?v=L9GEC4jFAsA  {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38381959 {{#var: nico-logo}}}}
+|-
+| 6 || 2021年03月13日 || {{lj|「[[はなぐすり]]」}} || [[koyori]]/({{lj|電ポルP}}) || [[koyori]]/({{lj|電ポルP}}) || [[koyori]]/({{lj|電ポルP}}) || {{plain link | url=https://www.youtube.com/watch?v=upxd9QoXTUI  {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38412032 {{#var: nico-logo}}}}
+|-
+| 7 || 2021年03月20日 || {{lj|「[[ジェラシス]]」}} || [[Chinozo]] || [[Chinozo]] || [[Chinozo]] || {{plain link | url=https://www.youtube.com/watch?v=UxUe_CIYqWE  {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38447989 {{#var: nico-logo}}}}
+|-
+| 8 || 2021年03月27日 || {{lj|「[[独り夜がり]]」}} || {{lj|[[水野あつ]]}} || {{lj|[[水野あつ]]}} || {{lj|[[水野あつ]]}} || {{plain link | url=https://www.youtube.com/watch?v=HPR9IS5PU2U  {{#var: yt-logo}}}} ||  || N/A
+|-
+| 9 || 2021年04月10日 || {{lj|「[[レトロポリス]]」}} || [[R Sound Design|R]] || [[R Sound Design|R]] || [[R Sound Design|R]] || {{plain link | url=https://www.youtube.com/watch?v=YGlAWg1YmQ8 {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38549616 {{#var: nico-logo}}}}
+|-
+| 10 || 2021年04月17日 || 「[[ATARI FRONT PROGRAM]]」 || {{lj|[[郁P|鬱P]]}}/Utsu-P || {{lj|[[郁P|鬱P]]}}/Utsu-P  || {{lj|[[郁P|鬱P]]}}/Utsu-P || {{plain link | url= https://www.youtube.com/watch?v=lupVveArye8 {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38593460 {{#var: nico-logo}}}}
+|-
+| 11 || 2021年05月01日 || {{lj|「[[成花|花となれ]]」}} || {{lj|[[雄之助]]}} || {{lj|[[雄之助]]}} || {{lj|[[雄之助]]}} || {{plain link | url= https://youtu.be/XqKbuEDvaf8 {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38663406 {{#var: nico-logo}}}}
+|-
+| 12 || 2021年05月05日 || {{lj|「[[社会距離]]」}} || [[40mP]]  || [[40mP]]  || [[40mP]]  || {{plain link | url= https://youtu.be/aDJwK3G72Po {{#var: yt-logo}}}} ||  || N/A
+|-
+| 13 || 2021年05月08日 || {{lj|「[[水面下]]」}} || {{lj|[[大沼パセリ]]}} || {{lj|[[大沼パセリ]]}} || {{lj|[[大沼パセリ]]}} ||  {{plain link | url= https://youtu.be/PdomeUcKsOc {{#var: yt-logo}}}} ||  || N/A
+|-
+| 14 || 2021年05月15日 || {{lj|「[[フーリッシュフール]]」}} || {{lj|[[栗山夕璃]]}} || {{lj|[[栗山夕璃]]}} || {{lj|[[栗山夕璃]]}} || {{plain link | url= https://www.youtube.com/watch?v=kQcPRa4afjc {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38740163 {{#var: nico-logo}}}}
+|-
+| 15 || 2021年05月19日 || {{lj|「[[めめしぃ]]」}} || {{lj|[[すりぃ]]}} || {{lj|[[すりぃ]]}} || {{lj|[[すりぃ]]}} || {{plain link | url= https://www.youtube.com/watch?v=mkP5Myd-YZU {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38758855 {{#var: nico-logo}}}}
+|-
+| 16 || 2021年05月22日 || {{lj|「[[色彩(可不)|色彩]]」}} || [[ATOLS]] || [[ATOLS]] || [[ATOLS]] || {{plain link | url= https://www.youtube.com/watch?v=8j8BTyXyhV8 {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38745677 {{#var: nico-logo}}}}
+|-
+| 17 || 2021年05月26日 || {{lj|「[[化孵化]]」}} || [[sasakure.UK]] || [[sasakure.UK]] || [[sasakure.UK]] || {{plain link | url= https://www.youtube.com/watch?v=fOKe8zhTBDM {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38793955 {{#var: nico-logo}}}}
+|-
+| 18 || 2021年05月29日 || {{lj|「[[Nostalgic Blue|ノスタルジック・ブルー]]」}} || [[aqu3ra]] || [[aqu3ra]] || [[aqu3ra]] ||  {{plain link | url= https://www.youtube.com/watch?v=ZhoH2uVMskM {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38809270 {{#var: nico-logo}}}}
+|-
+| 19 || 2021年06月05日 || {{lj|「[[フォニイ]]」}} || {{lj|[[ツミキ]]}} || {{lj|[[ツミキ]]}} || {{lj|[[ツミキ]]}} ||{{plain link | url= https://www.youtube.com/watch?v=9QLT1Aw_45s {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38833751 {{#var: nico-logo}}}}
+|-
+| 20 || 2021年06月09日 || {{lj|「[[わるいくせだよ。]]」}} || {{lang|en|[[Hylen]]}} || {{lang|en|[[Hylen]]}} || {{lang|en|[[Hylen]]}} || {{plain link | url=https://www.youtube.com/watch?v=iiNB93EMOEQ {{#var: yt-logo}}}} ||  || N/A
+|-
+| 21 || 2021年06月18日 || {{lj|「[[全部全部全部]]」}} || [[164]] || [[164]] || [[164]] || {{plain link | url=https://www.youtube.com/watch?v=GeGlTNfPCTg {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm38901376 {{#var: nico-logo}}}}
+|-
+| 22 || 2021年06月19日 || {{lang|en|「[[YONAKI]]」}} || {{lj|[[みきとP]]}} || {{lj|[[みきとP]]}} || {{lj|[[みきとP]]}} || {{plain link | url= https://www.youtube.com/watch?v=YU5Hnf2gh_E {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38907521 {{#var: nico-logo}}}}
+|-
+| 23 || 2021年06月23日 || {{lj|「[[最底辺の嫌がらせ]]」}} || {{lj|[[100回嘔吐]]}} || {{lj|[[100回嘔吐]]}} || {{lj|[[100回嘔吐]]}} || {{plain link | url=https://www.youtube.com/watch?v=BJXy_IWmBoE {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38926591 {{#var: nico-logo}}}}
+|-
+| 24 || 2021年06月26日 || {{lj|「[[我的分身|私のドッペルゲンガー]]」}} || {{lang|en|[[DIVELA]]}} || {{lang|en|[[DIVELA]]}} || {{lang|en|[[DIVELA]]}} || {{plain link | url=https://www.youtube.com/watch?v=QggCIx9mHwc {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38941010 {{#var: nico-logo}}}}
+|-
+| 25 || 2021年06月30日 || {{lj|「[[邪道]]」}} || {{lang|en|[[Peg]]}} || {{lang|en|[[Peg]]}} || {{lang|en|[[Peg]]}} || {{plain link | url=https://www.youtube.com/watch?v=Z8U9pO-6r-w {{#var: yt-logo}}}} ||  || N/A
+|-
+| 26 || 2021年07月03日 || {{lj|「[[コールドケース]]」}} || {{lang|en|[[wotaku]]}} || {{lang|en|[[wotaku]]}} || {{lang|en|[[wotaku]]}} || {{plain link | url=https://www.youtube.com/watch?v=gQ-Ewya5ROg {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm38965815 {{#var: nico-logo}}}}
+|-
+| 28 || 2021年07月10日 || {{lj|「[[第四の壁、向こうより]]」}} || {{lj|[[しとお]]}} || {{lj|[[しとお]]}} || {{lj|[[しとお]]}} || {{plain link | url=https://www.youtube.com/watch?v=pDGhHbIVl1w {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm39019933 {{#var: nico-logo}}}}
+|-
+| 29 || 2021年07月14日 || {{lj|「[[メスト]]」}} || {{lj|[[かいりきベア]]}} || {{lj|[[かいりきベア]]}} || {{lj|[[かいりきベア]]}} || {{plain link | url=https://www.youtube.com/watch?v=mEoy3n-DgF0 {{#var: yt-logo}}}} ||  || N/A
+|-
+| 30 || 2021年07月17日 || {{lj|「[[キャットラビング]]」}} || {{lj|[[香椎モイミ]]}} || {{lj|[[香椎モイミ]]}} || {{lj|[[香椎モイミ]]}} || {{plain link | url= https://youtu.be/7gwvBrlUiww {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm39034813 {{#var: nico-logo}}}}
+|-
+| 31 || 2021年07月24日 || {{lj|「[[しあわせのレシピ]]」}} || {{lj|[[はれるりり]]}} || {{lj|[[はれるりり]]}} || {{lang|en|[[teppe]]}} || {{plain link | url= https://youtu.be/X2TEp0qwqdg {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm39072173 {{#var: nico-logo}}}}
+|-
+| 32 || 2021年07月28日 || {{lj|「[[変身(はナナホシ管弦楽団)|変身]]」}} || {{lj|[[はナナホシ管弦楽団]]}} || {{lj|[[はナナホシ管弦楽団]]}} || {{lj|[[はナナホシ管弦楽団]]}} || {{plain link | url= https://youtu.be/dub9h9qmMEg {{#var: yt-logo}}}} ||  || N/A
+|-
+| 33 || 2021年07月31日 || {{lj|「[[ココロガール]]」}} || {{lj|[[とあ]]}} || {{lj|[[とあ]]}} || {{lj|[[とあ]]}} || {{plain link | url= https://youtu.be/SXq5eH350_s {{#var: yt-logo}}}} ||  || {{plain link | url=https://nico.ms/sm39110406 {{#var: nico-logo}}}}
+|-
+| 34 || 2021年08月04日 || {{lang|en|「[[SCREW]]」}} || {{lj|[[蝶々P]]}} || {{lj|[[蝶々P]]}} || {{lj|[[蝶々P]]}} || {{plain link | url= https://youtu.be/J10m-9iJo-Y {{#var: yt-logo}}}} ||  || {{plain link | url=https://www.nicovideo.jp/watch/sm39122738 {{#var: nico-logo}}}}
+|-
+| 35 || 2021年08月09日 || {{lj|「[[いっせーのーで]]」}} || {{lang|en|[[MIMI]]}} || {{lang|en|[[MIMI]]}} || {{lang|en|[[MIMI]]}} || {{plain link | url= https://youtu.be/vLigCJOcHOE {{#var: yt-logo}}}} ||  || {{plain link | url= https://nico.ms/sm39151638 {{#var: nico-logo}}}}
+|-
+| 36 || 2021年08月11日 || {{lj|「[[毒吐く]]」}} || {{lj|[[葵木ゴウ]]}} || {{lj|[[葵木ゴウ]]}} || {{lj|[[葵木ゴウ]]}} || {{plain link | url= https://youtu.be/NWicp-4RP14{{#var: yt-logo}}}} || || {{plain link | url= https://www.nicovideo.jp/watch/sm39161317{{#var: nico-logo}}}}
+|-
+| 37 || 2021年08月18日 || {{lj|「[[ひみつのユーフォー]]」}} || {{lj|[[ナユタン星人]]}} || {{lj|[[ナユタン星人]]}} || {{lj|[[ナユタン星人]]}} || {{plain link | url= https://www.youtube.com/watch?v=h-HMdNsCFus {{#var: yt-logo}}}} ||  || N/A
+|}
+</div>
+
+==== 合唱歌曲 ====
+
+本列表記載所有可不合唱曲.
+<!--由於上方列表已記載 水野あつ 撰寫「独り夜がり」,該曲不需再次記載-->
+
+{| class="<!--mw-collapsible mw-collapsed--> wikitable <!--sortable-->" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !! YouTube !! Bilibili
+|-
+| 27 || 2021年07月07日 || {{lj|[[花譜]] × 可不}} {{lj|「[[朝日]]」}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[大沼パセリ]]}} || {{plain link | url=http://https://www.youtube.com/watch?v=r76nDndqZ-Y{{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1TL411W7BD {{#var: bili-logo}}}} 
+|-
+| N/A || 2021年07月11日 || {{lj|「[[不埒な喝采]]」 feat. [[可不]]}} || {{lj|[[ポリスピカデリー]]}} || {{lj|[[ポリスピカデリー]]}} || {{lj|[[ポリスピカデリー]]}} || {{plain link | url=https://www.youtube.com/watch?v=CqGj7bBjs_o {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Vg411M7fK {{#var: bili-logo}}}}
+|}
+
+===專輯===
+
+==== KAF+YOU KAFU COMPILATION ALBUM ====
+
+{{lang|en|KAF+YOU KAFU COMPILATION ALBUM}} 是一張附在 {{lj|可不}}音源{{lang|en|Start pack}} 中限量實體專輯.
+
+{{Album Infobox
+|專輯名稱     = KAF+YOU KAFU COMPILATION ALBUM
+|image        = KAF+YOU_KAFU_COMPILATION_ALBUM.jpg
+|圖片大小     = 
+|圖片信息     = 專輯封面
+|tabs         = 
+|原名         = 
+|出品         = 
+|封面設計     = 
+|發行         = 
+|發行地區     = 日本
+|發行日期     = 2021年07月07日
+|商品編號     = KTR-025
+|系列         = 
+|專輯類型     = album
+|標題顏色     = #bdbdd4
+|標題字體顏色 = #1d2035
+|左欄顏色     = #1f213a
+|左欄字體顏色 = #fefffe
+|底欄顏色     = 
+}}
+
+{{tracklist
+|headline= KAF+YOU KAFU COMPILATION ALBUM
+|music_credits = yes
+|lyrics_credits = yes
+|arranger_credits = yes
+|singer_credits = no
+|longnote_column = no
+
+| title1 = {{lj|[[朝日|朝日]]}}
+| note1 = {{lj|feat.[[花譜]]}}
+| longnote1 = 
+| music1 = {{lj|[[カンザキイオリ]]}}
+| lyrics1 = {{lj|[[カンザキイオリ]]}}
+| arranger1 = {{lj|[[大沼パセリ]]}}
+
+| title2 ={{lj|[[めめしぃ]]}}
+| note2 =
+| music2 ={{lj|[[すりぃ]]}}
+| lyrics2 = {{lj|[[すりぃ]]}}
+| arranger2 = {{lj|[[すりぃ]]}}
+
+| title3 ={{lj|[[ホログラム]]}}
+| note3 =
+| music3 ={{lj|[[一二三]]}}
+| lyrics3 ={{lj|[[一二三]]}}
+| arranger3 ={{lj|[[一二三]]}}
+
+| title4 ={{lj|[[不埒な喝采]]}}
+| note4 =
+| music4 ={{lj|[[ポリスピカデリー]]}}
+| lyrics4 ={{lj|[[ポリスピカデリー]]}}
+| arranger4 ={{lj|[[ポリスピカデリー]]}}
+
+| title5 ={{lj|[[ジェラシス]]}}
+| note5 =
+| music5 ={{lang|en|[[Chinozo]]}}
+| lyrics5 ={{lang|en|[[Chinozo]]}}
+| arranger5 ={{lang|en|[[Chinozo]]}}
+
+| title6 ={{lj|[[レトロポリス]]}}
+| note6 =
+| music6 ={{lang|en|[[R Sound Design]]}}
+| lyrics6 ={{lang|en|[[R Sound Design]]}}
+| arranger6 ={{lang|en|[[R Sound Design]]}}
+
+| title7 ={{lj|[[ナイトルール]]}}
+| note7 =
+| music7 ={{lj|[[煮ル果実]]}}
+| lyrics7 ={{lj|[[煮ル果実]]}}
+| arranger7 ={{lj|[[煮ル果実]]}}
+
+| title8 ={{lj|[[アイスクリーム]]}}
+| note8 =
+| music8 ={{lang|en|[[Guiano]]}}
+| lyrics8 ={{lang|en|[[Guiano]]}}
+| arranger8 ={{lang|en|[[Guiano]]}}
+
+| title9 ={{lj|[[花となれ]]}}
+| note9 =
+| music9 ={{lj|[[雄之助]]}}
+| lyrics9 ={{lj|[[雄之助]]}}
+| arranger9 ={{lj|[[雄之助]]}}
+
+| title10 ={{lj|[[キュートなカノジョ]]}}
+| note10 =
+| music10 ={{lang|en|[[syudou]]}}
+| lyrics10 ={{lang|en|[[syudou]]}}
+| arranger10 ={{lang|en|[[syudou]]}}
+
+}}
+
+{{clear}}
+
+==補充==
+
+===軼事===
+
+===相冊===
+<gallery>
+
+File: KAFU Icon 400x400 1.jpg | 可不Twitter圖示
+File: KAFU.jpg | 可不Twitter背景圖
+File: KAFU 2020w.jpg | 可不音源2020冬季亮相宣傳圖
+File: 可不new.jpg | PALOW为可不发售新绘制的宣傳圖
+File: 可不设定1.jpg | 可不人设图（外衣）
+File: 可不设定2.jpg | 可不人设图（内衣）
+
+</gallery>
+
+{{CeVIO}}
+{{神椿}}
+
+== 注釋 ==
+<references group="注" />
+
+==參考資料==
+{{reflist|3}}
+
+== 外部鏈接 ==
+*[https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA 可不 : Youtube頻道]
+*[https://twitter.com/kaf_you 可不 : Twitter]
+*[http://kaf-u.kamitsubaki.jp/ 可不 : 官方網頁]
+
+<templatestyles src=":花谱/style.css"/>
+
+[[Category:CeVIO角色]]

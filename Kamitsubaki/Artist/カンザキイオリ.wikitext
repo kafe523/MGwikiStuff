@@ -1,0 +1,1308 @@
+<div style="display:none;">
+<!--logo code-->
+{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}
+{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]]}}
+{{#vardefine: tweet-logo | [[File:Twitte_Logo.png|20px|link=]]}}
+{{#vardefine: nico-logo | [[File:Niconico-2021-black.png|20px|link=]] }}
+{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
+</div>
+{{標題替換|{{lj|カンザキイオリ}}}}
+{{歡迎編輯
+|改善文句
+|生平經歷
+|補充投稿音樂
+|小説内容/解説
+|訪談/自述文章翻譯
+|驗證資訊正確性
+}}
+
+{{信息栏2.0
+|title   = {{lj|カンザキイオリ}}
+|tabs={{tabs|TextPadding=0px
+|bt1=P主時logo
+|bt2=現用logo
+|tab1= [[File:Kanzaki P icon.jpg|250px]]
+|tab2= [[File:Kanzaki Singer icon.jpg|250px]]
+|DefaultTab=2
+}}
+|別名= {{lj|黒柿}}, {{lj|クロガキ}}, Kurogaki，{{lj|かんざきいおり}}、黑柿子、神崎伊织
+|性別= 男
+|出生= 日本
+|年齡= {{Citation needed|24<ref name="ST_Birth">{{cite web |url=https://sound-treatment.tokyo/2020/01/18/348791/ |access-date=2021-07-24 |script-title=ja:カンザキイオリさんの誕生日、年齢、ビジュアル：プロフィールが知りたい！ |publication-date=2020-05-07 |archive-url=http://web.archive.org/web/20210126213340/https://sound-treatment.tokyo/2020/01/18/348791/ |archive-date=2021-01-26}}</ref><ref name="19_Birth_Tweet">{{cite web |url=https://twitter.com/kurogaki0311/status/1105109039644459010 |script-title=ja:アーン誕生日終わっちゃう、、、|access-date=2021-07-24 |website=Twitter|author=@kurogaki0311}}</ref>|text=需要驗證}}
+|生日= {{Citation needed|1997年03月11日<ref name="ST_Birth"/><ref name="19_Birth_Tweet"/>|text=需要驗證}}
+|學歷= {{Citation needed|專門學校|text=需要驗證}}
+|狀態= 正式開始歌手活動<ref>{{cite web |url=https://realsound.jp/2021/06/post-799306.html |access-date=2021-07-23 |website=Real Sound｜リアルサウンド |title=ボカロP カンザキイオリ、セルフボーカル本格始動　配信シングル「不器用な男」リリース |publication-date=2021-06-23 |archive-url=http://web.archive.org/web/20210704072701/https://realsound.jp/2021/06/post-799306.html |archive-date=2021-07-04}}</ref>
+|活躍年份= 2014~(Vocaloid)<br> 2018~(神椿作曲)<br> 2021~(Self Vocal)
+|相關人士= {{lj|[[花譜]]}}、{{lang|en|[[PIEDPIPER]]}}、{{lang|en|[[amazarashi]]}}
+|所屬 = [[File:KAMITSUBAKI STUDIO logo.jpg|center|40px|link=kamitsubaki]]KAMITSUBAKI STUDIO
+|-橫欄1=連結
+|HomePage= [http://kanzakiiori.kamitsubaki.jp/ {{lj|カンザキイオリ特設サイト}}]
+|Youtube= (2013/11-2014/01)<br>[https://www.youtube.com/channel/UC0LeEi4z_ynam34DIj5F1kw {{#var: yt-logo}} {{lj|黒柿}}]<br>(2014/03-2014/11)<br>[https://www.youtube.com/channel/UC0LeEi4z_ynam34DIj5F1kw {{#var: yt-logo}} {{lj|黒柿}}]<br>(2015/02-2017/04)<br>[https://www.youtube.com/channel/UCcxCMrmcF2rjUHcqvuyWRqg {{#var: yt-logo}} {{lj|かんざきいおり}}]<br>(2017/08-)<br>[https://www.youtube.com/channel/UCv1KOiaRusvqOR4BrT9Sh8w {{#var: yt-logo}} {{lj|カンザキイオリ}}] <!--敬請保留youtube logo與名稱中間空格-->
+|Niconico= (2012/12-2014/06)<br>[https://www.nicovideo.jp/user/26911275/ {{#var: nico-logo}} {{lj|クロガキ}}]<br>(2014/08-)<br>[https://www.nicovideo.jp/user/41144290/ {{#var: nico-logo}} {{lj|カンザキイオリ}}]
+|Piapro= (2014/01-2017/12)<br>[https://piapro.jp/kurogaki {{lang|en|kurogaki}}]<br>(2020/04-)<br>[https://piapro.jp/kanzakiiori2020 {{lj|カンザキイオリ}}]
+|Twitter= [https://twitter.com/kurogaki0311 {{#var: tweet-logo}}@kurogaki0311]
+|-橫欄2=代表作品 
+|_文本框= <center>{{lj|[[命に嫌われている|命に嫌われている。/初音ミク]]}}<br>[[過去を喰らう|{{lj|花譜 #22 「過去を喰らう」}}]]<br>[https://www.youtube.com/watch?v=rtHi7P5tb_s {{lj|不器用な男 / カンザキイオリ}}]</center>
+|top-style=height:32px;background:#dedede;color:#000000;font-size:15px;
+|t-style=background:#1f1f1f;color:#FFFFFF;
+|l-style=background:#333333;color:#FFFFFF;
+|r-style=background:#ebebeb;
+|i-style=background:#ebebeb;
+}}
+
+{{Cquote|<big>{{lj|カンザキイオリ<br>セルフボーカル本格始動}}</big>
+----
+神崎伊织，要真正开始自己唱歌了|{{lj|[[花譜]]}}|<ref>{{cite web |url=https://youtu.be/08PenAhXdZk |access-date=2021-07-23 |script-title=ja:神椿スタジオ特別番組「花達と椿と君。vol.12-生放送-」|website=YouTube}}</ref>}}
+
+{{lj|カンザキイオリ}}（黑柿子）是[[日本]]音樂家、VOCALOID职人、創作歌手、作家。
+
+== 簡介 ==
+<!-- 暫參考官方介紹 有待眾編輯者協力改善 -->
+2014年1月以VocaloidP身份投稿「{{lj|反抗期}}」.
+
+2017年公開的「{{lj|[[命に嫌われている]]}}」至2021年現在達到約1600萬再生.
+
+目前在神椿工作室工作并擔當 Virtural Singer {{lj|[[花譜]]}} 所有原創曲 作詞作曲編曲<ref group="注">有少數為其他人作詞編曲,詳情可前往[[花谱#原創曲]]瞭解更多.</ref>
+
+2019年4月,收錄人氣曲的 1st Album 「{{lj|白紙}}」發售.
+
+2020年2月,捆綁首部長篇小説「{{lj|獣}}」及EP「{{lj|人生はコメディ}}」的特別禮盒發售.
+
+2020年9月, 基於2月發表長篇小説「{{lj|獣}}」大幅改編的作品「{{lj|あの夏が飽和する。}}」由{{lj|河出書房}}出版,全國發售.
+
+2021年6月,self cover的新曲「{{lj|不器用な男}}」發表,首次演唱會開辦決定.
+
+== 經歷 ==
+
+{{Timeline<!--
+|2014年
+|2015年
+|2016年
+|2017年
+|2018年-->
+|2019年
+|in2019年04月11日= 1st Album 「{{lj|白紙}}」發售<ref>{{cite web |url=https://booth.pm/en/items/1884061 |access-date=2021-07-24 |title=【カンザキイオリ】1st Album「白紙」（CDのみ）|website=BOOTH}}</ref>.
+|2020年
+|in2020年02月19日= 首部長篇小説「{{lj|獣}}」及EP「{{lj|人生はコメディ}}」特別禮盒發售<ref>{{cite web |url=https://booth.pm/en/items/1742348 |access-date=2021-07-24 |script-title=ja:【カンザキイオリ】小説＆EP「人生はコメディ」|website=BOOTH |archive-url=http://web.archive.org/web/20210122234420/https://booth.pm/en/items/1742348 |archive-date=2021-01-22}}</ref>.
+|2021年
+|in2021年06月20日= 神椿特備節目「{{lj|[[花達と椿と君。]]vol.12 -生放送-}}」中,宣佈開始演唱活動<!--語彙力不足 請求改善-->
+|in2021年07月23日= {{lj|カンザキイオリ 第一回公演「不器用な男」}} 開催<ref>{{cite web |url=https://twitter.com/kamitsubaki_jp/status/1418405271185989635 |script-title=ja:【#カンザキイオリ】第一回公演「#不器用な男」いよいよ本日開催。|access-date=2021-07-24 |website=Twitter |archive-url=http://web.archive.org/web/20210723030700/https://twitter.com/kamitsubaki_jp/status/1418405271185989635 |archive-date=2021-07-23|quote={{lj|✒️2021年7月23日(金)開演18:30<br>https://youtu.be/SvZRwQk8A0E}}}}</ref>.
+|in2021年08月11日= 2nd Album「{{lj|不器用な男}}」發售<ref>{{cite web |url=https://twitter.com/kamitsubaki_jp/status/1418527210437152771 |script-title=ja:【#カンザキイオリ】2nd Album「不器用な男」2021年8月11日(水)発売決定|access-date=2021-07-24 |website=Twitter}}</ref>.
+1st Album 「{{lj|白紙}}」 & EP「{{lj|人生はコメディ}}」 Youtube 配信解禁.
+}}
+
+
+== 歌曲 ==
+為方便讀者瞭解 {{lj|カンザキイオリ}} 所有音樂作品 ,就此作出分類.
+=== VOCALOID/UTAU/CEVIO 曲===
+==== 投稿 ====
+<!--
+此處CEVIO汎指除 可不 以外音源之歌曲(如:IA), 花譜×可不 曲目另作特別處理.
+-->
+本欄位記載所有 {{lj|カンザキイオリ}} <big>'''投稿'''</big> 的原创VOCALOID/UTAU/CEVIO曲目.
+*目前投稿至niconico共有58首VOCALOID/UTAU/CEVIO，其中共有15首翻调/重制曲目，共有17首殿堂曲，7首传说曲。
+{{Playlist|
+===== 2014年 =====
+
+{{Producer_Song
+|nnd_id   = sm22696805
+|yt_id    = nYcSlZKyAD0
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|画师     = 
+|演唱者   = {{lj|初音ミク}}
+|歌曲描述 = 
+|投稿日期 = 2014年01月18日
+|条目     = 
+|标题     = {{lj|反抗期}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/22696805/22696805}}
+
+{{Producer_Song
+|nnd_id   = sm23063128
+|yt_id    = Q90b0P8vLRs
+|作曲     = {{lj|クロガキ}}
+|填词     = {{lj|クロガキ}}
+|画师     = 
+|演唱者   = {{lj|初音ミク}}
+|歌曲描述 = 
+|投稿日期 = 2014年03月10日
+|条目     = 消えたい。
+|标题     = {{lj|消えたい。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/23063128/23063128}}
+
+{{Producer_Song
+|nnd_id   = sm23724451
+|yt_id    = 
+|作曲     = {{lj|クロガキ}}
+|填词     = {{lj|クロガキ}}
+|画师     = 
+|演唱者   = {{lj|初音ミク}}
+|歌曲描述 = 
+|投稿日期 = 2014年06月07日
+|条目     = self(クロガキ)
+|标题     = {{lang|en|self}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/23724451/23724451}}
+
+{{Producer_Song
+|nnd_id   = sm24188507
+|yt_id    = 
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2014年08月08日
+|条目     = プロテクト
+|标题     = {{lj|プロテクト}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/24188507/24188507.M}}
+
+{{Producer_Song
+|nnd_id   = sm24277146
+|yt_id    = 8Ey4kAbsqNg
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|画师     = {{lj|茶菓子}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2014年08月19日
+|条目     = 本ショー
+|标题     = {{lj|本ショー}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/24277146/24277146.M}}
+
+{{Producer_Song
+|nnd_id   = sm24358736
+|yt_id    = E_syhbDCQU0
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2014年08月30日
+|条目     = 愛伝ティティ
+|标题     = {{lj|愛伝ティティ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/24358736/24358736.M}}
+
+{{Producer_Song
+|nnd_id   = sm24579296
+|yt_id    = 
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2014年09月19日
+|条目     = パレット
+|标题     = {{lj|パレット}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/24579296/24579296.M}}
+
+{{Producer_Song
+|nnd_id   = sm24921064
+|yt_id    = C_PIzB6gqyE
+|作曲     = {{lj|黒柿}}
+|填词     = {{lj|黒柿}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2014年11月15日
+|条目     = 巧克力蛋糕
+|标题     = {{lj|チョコレートケーキ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/24921064/24921064.M}}
+===== 2015年 =====
+{{Producer_Song
+|nnd_id   = sm25652183
+|yt_id    = 9gilpnDUSdw
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年02月24日
+|条目     = 哀传蒂蒂
+|标题     = {{lj|哀伝ティティ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/25652183/25652183.M}}
+
+{{Producer_Song
+|nnd_id   = sm25797725
+|yt_id    = N0B2DvV0CmM
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年03月15日
+|条目     = 自信暗鬼
+|标题     = {{lj|自信暗鬼}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/25797725/25797725.M}}
+
+{{Producer_Song
+|nnd_id   = sm25855489
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年03月23日
+|条目     = one day
+|标题     = one day
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/25855489/25855489.M}}
+
+{{Producer_Song
+|nnd_id   = sm26192231
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年05月06日
+|条目     = loop miss under
+|标题     = {{lj|ループミスアンダー}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26192231/26192231.M}}
+
+{{Producer_Song
+|nnd_id   = sm26375339
+|yt_id    = RwXXsvRS2Ec
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年05月30日
+|条目     = 我喜欢你的歌
+|标题     = {{lj|君の歌が好きだったんだ}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26375339/26375339.M}}
+
+{{Producer_Song
+|nnd_id   = sm26611896
+|yt_id    = VlGJwlvNlTw
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年07月01日
+|条目     = 哀情
+|标题     = {{lj|哀情}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26611896/26611896.M}}
+
+{{Producer_Song
+|nnd_id   = sm27147462
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年09月13日
+|条目     = Lonely Enemy
+|标题     = {{lj|ロンリーエネミー}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/27147462/27147462.M}}
+
+{{Producer_Song
+|nnd_id   = sm27397152
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|をーた}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2015年10月18日
+|条目     = 只是想要活着
+|标题     = {{lj|生きたいだけ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/27397152/27397152.M}}
+===== 2016年 =====
+{{Producer_Song
+|nnd_id   = sm27992214
+|yt_id    = Ll0xpP7dHPE
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2016年01月12日
+|条目     = Adult Children
+|标题     = {{lj|アダルトチルドレン}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/27992214/27992214.M}}
+
+{{Producer_Song
+|nnd_id   = sm28412047
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = [[VY1]]
+|歌曲描述 = 
+|投稿日期 = 2016年03月13日
+|条目     = 伊達マスク
+|标题     = {{lj|伊達マスク}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/28412047/28412047.M}}
+
+{{Producer_Song
+|nnd_id   = sm28652808
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|片井雨司}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2016年04月17日
+|条目     = 我不会飞翔
+|标题     = {{lj|僕は飛べない}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/28652808/28652808.M}}
+
+{{Producer_Song
+|nnd_id   = sm28842972
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|テグリ32号}}
+|演唱者   = [[VY1]]
+|歌曲描述 = 
+|投稿日期 = 2016年05月14日
+|条目     = 借口
+|标题     = {{lj|言い訳}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/28842972/28842972.M}}
+
+{{Producer_Song
+|nnd_id   = sm29533106
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = yoshiki
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2016年08月27日
+|条目     = 不信症
+|标题     = {{lj|不信症}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/29533106/29533106.M}}
+===== 2017年 =====
+{{Producer_Song
+|nnd_id   = sm30787562
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2017年03月09日
+|条目     = 孤食
+|标题     = {{lj|孤食}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/30787562/30787562.M}}
+
+{{Producer_Song
+|nnd_id   = sm30912817
+|yt_id    = -dk9wJTLCGo
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 重制版，第4首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2017年03月28日
+|条目     = Adult Children
+|标题     = {{lj|アダルトチルドレン（リメイク）}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/30912817/30912817.M}}
+
+{{Producer_Song
+|nnd_id   = sm30968350
+|yt_id    = Wl_i59-Ci2k
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|カンザキイオリ}}
+|演唱者   = [[IA]]
+|歌曲描述 = 第6首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2017年04月05日
+|条目     = 忘了吧
+|标题     = {{lj|忘れちゃったよ。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/30968350/30968350.M}}
+
+{{Producer_Song
+|nnd_id   = sm31455021
+|yt_id    = 
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|マスイ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2017年06月25日
+|条目     = 家出
+|标题     = {{lj|家出}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/31455021/31455021.M}}
+
+{{Producer_Song
+|nnd_id   = sm31700140
+|yt_id    = 0HYm60Mjm0k
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|歌曲描述 = 第1首[[VOCALOID传说曲|传说曲]]，再生数最高之作。
+|演唱者   = {{lj|[[初音ミク]]}}
+|投稿日期 = 2017年08月06日
+|条目     = 被生命所厌恶
+|标题     = {{lj|命に嫌われている。}}
+|图像     = Inochi_ni_kirawareteiru.jpg}}
+
+{{Producer_Song
+|nnd_id   = sm32025594
+|yt_id    = X5kQR92kYn0
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2017年10月01日
+|条目     = 想成为你的神明大人
+|标题     = {{lj|君の神様になりたい。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/32025594/32025594.M}}
+
+{{Producer_Song
+|nnd_id   = sm32172328
+|yt_id    = Bx6Lj1yc8w0
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|マスイ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2017年10月06日
+|条目     = 番外
+|标题     = {{lj|番外}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/32172328/32172328.M}}
+
+{{Producer_Song
+|nnd_id   = sm32376539
+|yt_id    = JrI7yaXEVUY
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = {{lj|マスイ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2017年12月06日
+|条目     = 浪漫的愿望
+|标题     = {{lj|ロマンチック願望}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/32376539/32376539.M}}
+
+===== 2018年 =====
+{{Producer_Song
+|nnd_id   = sm32787097
+|yt_id    = ytzJmoLqifU
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 第7首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2018年02月24日
+|条目     = 如若有爱
+|标题     = {{lj|愛があれば。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/32787097/32787097.M}}
+
+{{Producer_Song
+|nnd_id   = sm32866776
+|yt_id    = Veu13ajugPc
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 第5首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2018年03月11日
+|条目     = 拥抱(歌曲)
+|标题     = {{lj|ハグ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/32866776/32866776.M}}
+
+{{Producer_Song
+|nnd_id   = sm33013085
+|yt_id    = 7LHkz1gs5kI
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 第3首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2018年04月07日
+|条目     = 为自由所困
+|标题     = {{lj|自由に捕らわれる。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/33013085/33013085.M}}
+
+{{Producer_Song
+|nnd_id   = sm33344180
+|yt_id    = awwoMCZEAYA
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2018年06月10日
+|条目     = 告白(黑柿子)
+|标题     = {{lj|告白}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/33344180/33344180.M}}
+
+{{Producer_Song
+|nnd_id   = sm33677965
+|yt_id    = mKaRxty1j7g
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|}}
+|歌曲描述 = 第2首[[VOCALOID传说曲|传说曲]]。
+|投稿日期 = 2018年08月12日
+|条目     = 那个夏日已然饱和
+|标题     = {{lj|あの夏が飽和する。}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/33677965/33677965.M}}
+
+===== 2019年 =====
+{{Producer_Song
+|nnd_id   = sm34943904
+|yt_id    = T5TwPqf99FM
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = {{lj|カンザキイオリ}}
+|演唱者   = {{lj|[[鏡音レン]]}}
+|歌曲描述 = 
+|投稿日期 = 2019年04月10日
+|条目     = 空白(黑柿子)
+|标题     = {{lj|空白}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/34943904/34943904.4438.M}}
+
+{{Producer_Song
+|nnd_id   = sm34984830
+|yt_id    = VuBcakZSkv4
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = shirone
+|演唱者   = {{lj|[[初音ミク]]}}
+|歌曲描述 = 
+|投稿日期 = 2019年04月17日
+|条目     = 我不懂得音乐
+|标题     = {{lj|音楽なんてわからない}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/34984830/34984830.71285.M}}
+
+{{Producer_Song
+|nnd_id   = sm35953604
+|yt_id    = C0yZmdpMtVY
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = Merrill Macnaut & orie & {{lj|岩佐知昂}}
+|演唱者   = {{lj|[[鏡音レン・リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2019年11月14日
+|条目     = 死去的那时再死就好
+|标题     = {{lj|死ぬとき死ねばいい}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/35953604/35953604.85223953.M}}
+
+===== 2020年 =====
+{{Producer_Song
+|nnd_id   = sm36742430
+|yt_id    = uxBxrSTbs_Y
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|画师     = orie
+|演唱者   = {{lj|[[鏡音リン]]}}
+|歌曲描述 = 
+|投稿日期 = 2020年04月24日
+|条目     = 人生皆为喜剧
+|标题     = {{lj|人生はコメディ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/36742430/36742430.24390656.M}}
+
+（剩余待补全）
+
+<!--{{Producer_Song
+|nnd_id   = 
+|yt_id    = 
+|作曲     = 
+|填词     = 
+|画师     = 
+|演唱者   = {{lj|}}
+|歌曲描述 = 
+|投稿日期 = 年月日
+|条目     = 
+|标题     = {{lj|}}
+|image    = }}
+-->
+}}
+
+==== 非投稿曲 ====
+<div style="display:none;">
+<!--
+鏈接編寫方法
+Youtube :  {{plain link | url= https://www.youtube.com/watch?v= 影片ID {{#var: yt-logo}}}} 
+Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Niconico : {{plain link | url= Niconico鏈接 {{#var: nico-logo}}}}
+格式 : | 時間 || {{lj|「[[名稱]]」}} || {{lj|「[[演唱]]」}} || {{lj|「[[專輯]]」}}  || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili || niconico
+
+同名 Vocaloid曲 和 本人演唱 視為不同版本,分別記載
+-->
+</div>
+本欄位記載所有 {{lj|カンザキイオリ}} <big>'''沒有投稿'''</big> 之VOCALOID/UTAU/CEVIO曲目, 絕大部分歌曲沒有完整片段, 在此請求各位讀者若有檔案歡迎與各位分享.
+<span class="mw-customtoggle-Kan_NSS_Song" style="cursor:pointer"><span style="display:flex; justify-content:center;">[&nbsp;<span style="color:#0645ad;">'''點擊本行文字以展開'''</span>&nbsp;]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Kan_NSS_Song">
+{| class="wikitable" style="font-size:small; margin:0px auto;width:100%"
+|-
+! 發佈時間 !! 歌曲名稱 !! 演唱 !! 專輯 !!YouTube !! Bilibili !! Niconico
+|-
+| 2017年10月29日 || {{lj|「[[ホタル族]]」}}|| {{lj|[[初音ミク]]}} || {{lj|「[[制服に溺れる]]」}} || {{plain link | url= https://www.youtube.com/watch?v=dYLa3R2cvvw&t=89s{{#var: yt-logo}}}}<ref group="注" name="CD_Demo_Only">本歌僅有預覽版本, 若讀者有完整歌曲, 極力歡迎補充.</ref> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm32145598 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2017年03月09日 || {{lj|「[[結局、君が好きだった]]」}} || {{lj|[[鏡音リン]]}} || {{lj|「[[Kanzaki_Iori#独白|独白]]」}} ||{{hpi|yt|Uv9tojRJmdk}} <ref group="注" name="CD_Source"/>|| N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm30787521 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2017年03月09日 || {{lj|「[[第二発芽急進期]]」}} || {{lj|[[鏡音リン]],[[鏡音レン]]}} || {{lj|「[[Kanzaki_Iori#独白|独白]]」}} ||{{hpi|yt|442v-LMrPLA}}<ref group="注" name="CD_Source"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm30787521 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2017年03月09日 || {{lj|「[[消しゴム]]」}} || {{lj|[[鏡音リン]]}} || {{lj|「[[Kanzaki_Iori#独白|独白]]」}} || {{hpi|yt|2KQiSNzcB9g}}<ref group="注" name="CD_Source"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm30787521 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2018年11月18日 || {{lj|「[[愛があれば？]]」}} || {{lj|[[鏡音リン]]}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{hpi|yt|ToGV9p3XTI4}}<ref group="注" name="CD_Source"/>   || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2018年11月18日 || {{lj|「[[贅沢な休日]]」}} || {{lj|[[初音ミク]],[[鏡音リン]],[[鏡音レン]]}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{hpi|yt|tlMHqFpeTCg}}<ref group="注" name="CD_Source"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2018年11月18日 || {{lj|「[[閑話休題]]」}} || {{lj|[[鏡音レン]]}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{hpi|yt|XMovWP_GW9Q}}<ref group="注" name="CD_Source"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2018年11月18日 || {{lj|「[[そして時代は続く]]」}} || {{lj|[[初音ミク]]}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{hpi|yt|dr7xBHo98W4}}<ref group="注" name="CD_Source"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|}
+</div>
+
+=== 自唱曲 ===
+<!--
+鏈接編寫方法
+Youtube :  {{plain link | url= https://www.youtube.com/watch?v= 影片ID {{#var: yt-logo}}}} 
+Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Niconico : {{plain link | url= Niconico鏈接 {{#var: nico-logo}}}}
+格式 : | 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili || niconico
+
+同名 Vocaloid曲 和 本人演唱 視為不同版本,分別記載
+-->
+本列表記載所有 {{lj|カンザキイオリ}} 自己演唱之歌曲, 部分曲目沒有MV. <!-- 自己演唱版本稍後處理 -->
+<span class="mw-customtoggle-Kan_SC_Song" style="cursor:pointer"><span style="display:flex; justify-content:center;">[&nbsp;<span style="color:#0645ad;">'''點擊本行文字以展開'''</span>&nbsp;]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Kan_SC_Song">
+{| class="wikitable" style="font-size:small; margin:0px auto;width:100%"
+|-
+! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili !! Niconico
+|-
+| 2017年12月10日 || {{lj|「[[愛があれば。]]」}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=YvqhJgAtub4 {{#var: yt-logo}}}} || 後補 || 後補
+|-
+| 2019年04月11日 || {{lj|「[[進化劇]]」}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=Gcn1_M4o3K4 {{#var: yt-logo}}}}<ref group="注" name="CD_Source">本處采用CD音源</ref>|| 後補 || N/A
+|-
+| 2021年06月21日 || {{lj|「[[不器用な男]]」}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=rtHi7P5tb_s {{#var: yt-logo}}}}|| 後補 || 後補
+|-
+| 2021年07月21日 || {{lj|「[[大人]]」}}|| {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=In8eI22f9ZQ {{#var: yt-logo}}}} || 後補 || 後補
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date">此處采用 {{lj|第一回公演「不器用な男」}}日期</ref> || {{lj|「[[カメムシ]]」}}<ref group="注" name="1st_Live_">本曲首次亮相於{{lj|第一回公演「不器用な男」}}</ref> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=AGJKLTqyZJI {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[吸血鬼(カンザキイオリ)|吸血鬼]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=8DmkyJmd52o {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>  || 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[桜の子]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=Cq7nJgc0soU {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[成長痛]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=ae02g0mrYz0 {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[ダイヤモンド(カンザキイオリ)|ダイヤモンド]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=4FEjUQ2RSes {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[地獄に落ちる]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=xorae832Aik {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[こんな夜でもいいじゃないか]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]] / [[花村智志]]}} || {{plain link | url= https://www.youtube.com/watch?v=4WHQqcVoM5E {{#var: yt-logo}}}}<ref group="注" name="CD_Source"/>|| 後補 || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[青い号哭]]」}}<ref group="注" name="1st_Live_" /> || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=IxNqjrED8uY {{#var: yt-logo}}}}<ref group="注" name="Live_MV">本處采用{{lj|第一回公演「不器用な男」LIVE ver.}}影像</ref>|| 後補 || N/A
+|}
+</div>
+
+=== 純音樂 ===
+本列表記載所有 {{lj|カンザキイオリ}} 製作之純音樂. 
+
+<!--
+鏈接編寫方法
+Youtube :  {{plain link | url= https://www.youtube.com/watch?v= 影片ID {{#var: yt-logo}}}} 
+Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Niconico : {{plain link | url= Niconico鏈接 {{#var: nico-logo}}}}
+格式 : | 時間 || {{lj|「[[名稱]]」}} || {{lj|「[[專輯]]」}} || youtube || bilibili || niconico
+-->
+
+<span class="mw-customtoggle-Kan_Inst" style="cursor:pointer"><span style="display:flex; justify-content:center;">[&nbsp;<span style="color:#0645ad;">'''點擊本行文字以展開'''</span>&nbsp;]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Kan_Inst">
+{| class="wikitable" style="font-size:small; margin:0px auto;width:100%"
+|-
+! 時間 !! 歌曲名稱 !! 專輯 !!YouTube !! Bilibili !! Niconico
+|-
+| 2016年02月16日 || {{lj|「[[session]]」}} || N/A || N/A || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm28233162 {{#var: nico-logo}}}}
+|-
+| 2018年11月18日 || {{lj|「[[グッバイヒューマン]]」}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{plain link | url= https://youtu.be/Z5_9r7G9DWc?t=17 {{#var: yt-logo}}}}<ref group="注" name="CD_Demo_Only"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2018年11月18日 || {{lj|「[[アンコール]]」}} || {{lj|「[[Kanzaki_Iori#結局死ぬってなんなんだ_Album|結局死ぬってなんなんだ]]」}} || {{plain link | url= https://youtu.be/Z5_9r7G9DWc?t=394 {{#var: yt-logo}}}}<ref group="注" name="CD_Demo_Only"/> || N/A || {{plain link | url= https://www.nicovideo.jp/watch/sm34115395 {{#var: nico-logo}}}}<ref group="注" name="CD_Demo_Only"/>
+|-
+| 2019年04月11日 || {{lj|「[[冬が僕を嫌っているので]]」}} || {{lj|「[[Kanzaki_Iori#白紙|白紙]]」}} || {{plain link | url= https://www.youtube.com/watch?v=-LLZ-DMXfFU {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2019年08月01日<ref group="注">本處采用 {{lj|[[花譜#不可解|花譜 1st ONE-MAN LIVE「不可解」]]}}公演時間</ref> || {{lj|「[[確信]]」}} || {{lj|「[[花譜#観測|花譜 1st Album 「観測」]]」}} || {{plain link | url= https://www.youtube.com/watch?v=DeDzHibDpe4 {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2019年09月11日 || {{lang|en|「[[The end of prologue]]」}} || {{lj|「[[花譜#観測|花譜 1st Album 「観測」]]」}} || {{plain link | url= https://www.youtube.com/watch?v=9DvV3Ef-ljE {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2020年02月19日 || {{lj|「[[夕日]]」}} || {{lj|「[[Kanzaki_Iori#人生はコメディ_EP|人生はコメディ]]」}} || {{plain link | url= https://www.youtube.com/watch?v=UE5nEZwHvJw {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2020年02月19日 || {{lj|「[[輪廻(カンザキイオリ)|輪廻]]」}} || {{lj|「[[Kanzaki_Iori#人生はコメディ_EP|人生はコメディ]]」}} || {{plain link | url= https://www.youtube.com/watch?v=_5U-sDN7sdQ {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2020年10月10日<ref group="注" name="FFK_T_Q1_Date">本處采用 {{lj|[[花谱#「Q1」|花譜 2nd ONE-MAN LIVE「不可解弐Q1」]]}}公演時間</ref> || {{lj|「[[魔法の無い世界]]」}} || {{lj|「[[花譜#魔法|花譜 2nd Album 「魔法」]]」}} || {{plain link | url= https://www.youtube.com/watch?v=JDBaIwyZBls {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2020年10月10日<ref group="注" name="FFK_T_Q1_Date"/> || {{lj|「[[世界線は分岐する]]」}} || {{lj|「[[花譜#魔法|花譜 2nd Album 「魔法」]]」}} || {{plain link | url= https://www.youtube.com/watch?v=OzhDThTRLVg {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[子供]]」}} || {{lj|「[[Kanzaki_Iori#不器用な男_Album|不器用な男]]」}} || {{plain link | url= https://www.youtube.com/watch?v=SMaSxk--a1c {{#var: yt-logo}}}} || N/A || N/A
+|-
+| 2021年07月23日<ref group="注" name="1st_Live_Date"/> || {{lj|「[[春酔い]]」}} || {{lj|「[[Kanzaki_Iori#不器用な男_Album|不器用な男]]」}} || {{plain link | url= https://www.youtube.com/watch?v=m79Gt4B1lZc {{#var: yt-logo}}}} || N/A || N/A
+|}
+</div>
+
+=== 參與曲目 ===
+本列表記載所有 {{lj|カンザキイオリ}} 參與製作之曲目.
+<!--
+鏈接編寫方法
+Youtube :  {{plain link | url= https://www.youtube.com/watch?v= 影片ID {{#var: yt-logo}}}} 
+Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+格式 : | 時間 || {{lj|「[[名稱]]」}} || {{lj|演唱}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
+-->
+<span class="mw-customtoggle-Kan_Work_Song" style="cursor:pointer"><span style="display:flex; justify-content:center;">[&nbsp;<span style="color:#0645ad;">'''點擊本行文字以展開'''</span>&nbsp;]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Kan_Work_Song">
+{| class="wikitable" style="font-size:small; margin:0px auto;width:100%"
+|-
+! 投稿時間 !! 歌曲名稱 !! 演唱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
+|-
+| 2018年12月06日 || {{lj|「[[丝(花谱)|糸]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=3Wtx6k2vlnU {{#var: yt-logo}}}}  || {{plain link | url=https://www.bilibili.com/video/av81604669 {{#var: bili-logo}}}}
+|-
+| 2018年12月28日 || {{lj|「[[心臓と絡繰]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=hcm1LGOxJbc {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81662824 {{#var: bili-logo}}}}
+|-
+| 2019年01月09日 || {{lj|「[[魔女(花谱)|魔女]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=AqwFHfsAlx0 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81666039 {{#var: bili-logo}}}}
+|-
+| 2019年01月30日 ||{{lj|「[[忘れてしまえ]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=2Nj1l-S2FJU {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81666219 {{#var: bili-logo}}}}
+|-
+| 2019年03月22日 ||{{lj|「[[雛鳥]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=M1RIUrgJqWw {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81668170 {{#var: bili-logo}}}}
+|-
+| 2019年06月05日 ||{{lj|「[[過去を喰らう]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=tMKrECxEpq8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81669961 {{#var: bili-logo}}}}
+|-
+| 2019年06月28日 || {{lj|「[[夜が降り止む前に]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=dledRqPTNT8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81670058 {{#var: bili-logo}}}}
+|-
+| 2019年08月01日 || {{lj|「[[祭壇]]」}}<ref group="注">本曲於 花譜 1st ONE-MAN Live 「不可解」 亮相.</ref><ref group="注" name="No_album_and_MV">本曲并沒有收錄進任何專輯和沒有製作成MV.</ref>|| {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || N/A<ref group="注" name="No_album_and_MV" /> || N/A 
+|-
+| 2019年08月02日 || {{lj|「[[そして花になる]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=y6TGSY9Zll0 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1AJ41187Qi {{#var: bili-logo}}}}
+|-
+| 2019年08月06日 || {{lj|「[[quiz]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=n0ov2G-_UvU {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81672334 {{#var: bili-logo}}}}
+|-
+| 2019年08月14日 || {{lj|「[[夜行バスにて]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=RDnArlYduBs {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81673864 {{#var: bili-logo}}}}
+|-
+| 2019年09月12日 || {{lj|「[[命に嫌われている]]（Prayer Ver.）」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=N5hInoyU-WY {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av66946143 {{#var: bili-logo}}}}
+|-
+| 2019年09月12日 || {{lj|「[[不可解]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=NDOJZSG9SPU {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81689618 {{#var: bili-logo}}}}
+|-
+| 2019年09月17日 || {{lj|「[[Re:HEROINES]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=tiXLsDQ0uzM {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81699022 {{#var: bili-logo}}}}
+|-
+| 2019年09月24日 || {{lj|「[[艾丽卡(歌曲)|エリカ]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=VPDXSn68uK0 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av68847901 {{#var: bili-logo}}}}
+|-
+| 2019年12月20日 || {{lj|「[[未确认少女进行时|未確認少女進行形]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=5Na4F98SHLk {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av81699998 {{#var: bili-logo}}}}
+|-
+| 2020年01月08日 || {{lj|「[[私論理]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=Z6wEJLnNxMs {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1eJ411G7qU {{#var: bili-logo}}}}
+|-
+| 2020年03月23日 || {{lj|「[[宣戦]]」}}<ref group="注">本曲於 花譜 1st ONE-MAN Live 「不可解·再」 亮相.</ref><ref group="注" name="No_album_and_MV" /> || {{lj|[[花譜]] × [[理芽]]}} ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| N/A<ref group="注" name="No_album_and_MV" /> || N/A
+|-
+| 2020年06月08日 || {{lj|「[[困惑的心灵感应|戸惑いテレパシー]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=3Dr91z1-Iug {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1og4y1i7KE {{#var: bili-logo}}}}
+|-
+| 2020年05月11日 || {{lj|「[[危ノーマル]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=bmptCjSFEfg {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Yk4y1k7p9 {{#var: bili-logo}}}}
+|-
+| 2020年07月08日 || {{lj|「[[答案|アンサー]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=V0Olmwnnpj8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1fA411e7EX {{#var: bili-logo}}}}
+|-
+| 2020年07月22日 || {{lj|「[[景色]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=46HgoDkRCns {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1WK411J7y9 {{#var: bili-logo}}}}
+|-
+| 2020年08月13日 || {{lj|「[[毕生|畢生よ]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://youtu.be/v9uRKXJeYfI {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1N54y1U7aJ {{#var: bili-logo}}}}
+|-
+| 2020年10月19日 || {{lj|「[[彷徨|彷徨い]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://youtu.be/oBP-tTfSp8w {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1na4y1L7zt {{#var: bili-logo}}}}
+|-
+| 2020年10月25日 || {{lj|「[[あさひ]]」}}<ref group="注" name="asahi_sakura_kaf">本曲為服裝品牌 ha|sa|hi 新作品概念微電影選曲</ref> || {{lj|[[佐倉綾音]] × [[花譜]]}} ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| {{plain link | url=https://www.youtube.com/watch?v=7P0OdgABDaM {{#var: yt-logo}}}}<ref group="注">此處鏈接使用{{lj|[[松井諒祐]]}}頻道上傳之版本</ref> || 後補
+|-
+| 2020年11月18日 || {{lj|「[[Meru的黄昏|メルの黄昏]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://youtu.be/zQZVvLsw4Gw {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1gD4y1X796 {{#var: bili-logo}}}}
+|-
+| 2020年11月24日 || {{lj|「[[花女]]」}}<ref group="注" name="Maho_Album_Song">本曲收錄於 魔法 專輯,并沒有MV</ref>|| {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=d8napFVNbSE {{#var: yt-logo}}}}<ref group="注" name="Maho_Album_Song" /> || 後補
+|-
+| 2020年11月24日 || {{lj|「[[痛楚|痛みを]]」}}<ref group="注" name="Maho_Album_Song" /><ref group="注" name="itamiwo">本曲首次亮相於 神椿市建設中。#01 「予告編」. 本欄位記載爲 魔法 專輯中完整版,因此采用 魔法 專輯發售作投稿日期</ref> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=mM33dJ4aI0o {{#var: yt-logo}}}}<ref group="注">此處為 魔法 專輯完整版, 並沒有MV</ref> || 後補
+|-
+| 2020年11月24日 || {{lj|「[[蒙太奇|モンタージュ]]」}}<ref group="注" name="Maho_Album_Song" /> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=FuKpz_eIpr0 {{#var: yt-logo}}}}<ref group="注" name="Maho_Album_Song" /> || 後補
+|-
+| 2020年11月24日 || {{lj|「[[魔法(花谱)|まほう]]」 feat. [[理芽]]【「不可解弐Q1」Live Ver.】}}<ref group="注">此MV爲Live版，并沒有轉用錄音室音源。首次於2020年6月14日「アイスクリームライブ」亮相。</ref><ref group="注" name="Maho_Song">本曲首次於「アイスクリームライブ」亮相時歌名爲漢字{{lj|「魔法」}}，但到{{lj|「不可解弐Q1」}}以後以及各專輯均采用平假名，因此除「アイスクリームライブ」歌單繼續沿用漢字，其餘將跟隨神椿使用平假名歌名。</ref> || {{lj|[[花譜]] × [[理芽]]}} ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| {{plain link | url=https://www.youtube.com/watch?v=g8NbvGE8w6s {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1hy4y1676H {{#var: bili-logo}}}}
+|-
+| 2020年11月24日 || {{lj|「[[帰り路]]」}}<ref group="注" name="Maho_Album_Song" /> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=czX5FouVFf8 {{#var: yt-logo}}}}<ref group="注" name="Maho_Album_Song" /> || 後補
+|-
+| 2020年12月25日 || {{lj|「[[革命バーチャルリアリティ]]」}} || {{lj|[[Valis|瓦利斯]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=P8cdDxFupBg {{#var: yt-logo}}}}<ref group="注" name="Maho_Album_Song" /> || {{plain link | url=https://www.bilibili.com/video/BV1QA411s7NN {{#var: bili-logo}}}}
+|-
+| 2021年05月19日 || {{lj|「[[例えば]]」}} || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url=https://www.youtube.com/watch?v=4_fvGiulqk8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Rb4y1f7BE {{#var: bili-logo}}}}
+|-
+| 2021年06月12日<ref group="注" name="Live_Debut_Time">此處采用Live公演日期</ref> || {{lj|「[[未観測]]」}}<ref group="注" name="Q3_Live_Song">本曲首次於 {{lj|花譜 2nd ONE-MAN LIVE「不可解弐 REBULDING Q3」}}中亮相</ref><ref group="注" name="No_album_and_MV" /> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || N/A<ref group="注" name="No_album_and_MV" /> || N/A
+|-
+| 2021年06月28日 || [[窓を開けて|{{lj|「窓を開けて」}}]] || {{lang|en|[[CIEL(虚拟UP主)]]}}|| [[カンザキイオリ|{{lj|カンザキイオリ}}]] || [[カンザキイオリ|{{lj|カンザキイオリ}}]]  || [[カンザキイオリ|{{lj|カンザキイオリ}}]]  || {{plain link | url= https://www.youtube.com/watch?v=KD14CW-j2sA {{#var: yt-logo}}}} ||{{plain link | url= https://www.bilibili.com/video/BV1X64y1k7fU {{#var: bili-logo}}}}
+|-
+| 2021年06月30日 || {{lj|「[[海に化ける]]」}} <ref group="注" name="Q1:RE_Live_Song">本曲首次於 {{lj|花譜 2nd ONE-MAN LIVE「不可解弐 REBULDING Q1:RE」}}中亮相</ref>|| {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=2BWdQcAvP9k {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1g54y1p7t5 {{#var: bili-logo}}}}
+|-
+| 2021年10月20日 || {{lj|「[[ニヒル]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || 後補 || 後補
+|-
+| 2021年10月20日 || {{lj|「[[世惑い子]]」}}<ref group="注" name="Awake_Album"/> || {{lj|[[花譜]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || 後補 || 後補
+|}
+</div>
+
+== 小説 ==
+以下紀錄 {{lj|カンザキイオリ}} 之小説
+=== {{anchor|獣}} {{lj|「獣」}}===
+{{lj|カンザキイオリ}} 第一本小説,分上下兩卷
+<!--細節稍後補充-->
+=== {{anchor|あの夏が飽和する。_Novel}} {{lj|あの夏が飽和する。}} ===
+{{lj|カンザキイオリ}} 第二本小説, 據{{lj|「獣」}}改編, 由{{lj|[[和新書房]]}}出版.
+<!--細節稍後補充-->
+
+== 發行專輯 ==
+以下專輯按時序排列.<br>
+(暫不包括{{lj|白米ザムライ}}組合{{lj|「制服に溺れる」}}合輯)
+==={{anchor|独白}} {{lj|独白}}===
+{{lj|独白}} 為 {{lj|カンザキイオリ}} 第一張大型專輯,亦是第一張專輯.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|}}
+|image        = 独白_album.jpg
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = 
+|發行地區     = 日本
+|發行日期     = 2017年03月09日
+|商品編號     = 
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= CD
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| singer_credits = yes
+| title1   = '''{{lj|[[結局、君が好きだった]]}}'''
+| singer1  ={{lj|[[初音ミク]]}}
+| title2   = '''{{lj|[[孤食]]}}'''
+| singer2  = {{lj|[[鏡音レン]]}}
+| title3   = '''{{lj|[[アダルトチルドレン]]}}'''
+| singer3  = {{lj|[[鏡音レン]]}}
+| title4   = '''{{lj|[[第二発芽急進期]]}}'''
+| singer4  = {{lj|[[鏡音レン]]}}
+| title5   = '''{{lj|[[消しゴム]]}}'''
+| singer5  = {{lj|[[初音ミク]]}}
+| title6   = '''{{lj|[[哀伝ティティ]]}}'''
+| singer6  = {{lj|[[鏡音レン]]}}
+| title7   = '''{{lj|[[独白]]}}'''
+| singer7  = {{lj|[[鏡音レン]]}}
+}}
+
+}}
+{{clear}}
+=== {{anchor|命に嫌われている_MSA}} {{lj|Mini Second Album「命に嫌われている」}}===
+{{lj|命に嫌われている}} 爲 {{lj|カンザキイオリ}} 第二張專輯,第一張self cover專輯. 發售于2017年10月29日(日) M3-2017秋 (同人), 售價{{lj|500円}}.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|命に嫌われている。}}
+|image        = 
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = 
+|發行地區     = 日本
+|發行日期     = 2017年10月29日
+|商品編號     = 
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= CD
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| all_singer  = {{lj|カンザキイオリ}}
+| longnote_column = no 
+| singer_credits = no
+| title1   = '''{{lj|[[命に嫌われている。]]}}'''
+| title2   = '''{{lj|[[ロマンチック願望]]}}'''
+| title3   = '''{{lj|[[独白]]}}'''
+| title4   = '''{{lj|[[きっと言う]]}}'''
+}}
+
+}}
+{{clear}}
+=== {{anchor|結局死ぬってなんなんだ_Album}}{{lj|Album 「結局死ぬってなんなんだ」}}===
+{{lj|結局死ぬってなんなんだ}} 為 {{lj|カンザキイオリ}} 個人第二張大型專輯,也是其第三張個人專輯.於2018年11月18日發售.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+{{Album Infobox
+|專輯名稱     = {{lj|結局死ぬってなんなんだ}}
+|image        = 結局死ぬってなんなんだ_album.jpg
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = 
+|發行地區     = 日本
+|發行日期     = 2018年11月18日(先行發售)<br>2018年11月28日(下載)
+|商品編號     = 
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= {{lj|結局死ぬってなんなんだ}}
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| singer_credits = yes
+| title1   = '''{{lj|[[グッバイヒューマン]]}}'''
+| longnote1={{Citation needed|Instrumental|text=需要驗證}}
+| title2   = '''{{lj|[[あの夏が飽和する]]}}'''
+| singer2  = {{lj|[[鏡音レン]]・[[鏡音リン]]}}
+| title3   = '''{{lj|[[君の神様になりたい]]}}'''
+| singer3  = {{lj|[[初音ミク]]}}
+| title4   = '''{{lj|[[愛があれば？]]}}'''
+| singer4  = {{lj|[[初音ミク]]}}
+| title5   = '''{{lj|[[贅沢な休日]]}}'''
+| singer5  = {{lj|[[鏡音レン]]}}
+| title6   = '''{{lj|[[ハグ]]}}'''
+| singer6  = {{lj|[[初音ミク]]}}
+| title7   = '''{{lj|[[消しゴム]]}}'''
+| singer7  = {{lj|[[初音ミク]]}}
+| title8   = '''{{lj|[[再来]]}}'''
+| longnote8={{Citation needed|Instrumental|text=需要驗證}}
+| title9   = '''{{lj|[[命に嫌われている]]}}'''
+| single9  = {{lj|[[初音ミク]]}}
+| title10  = '''{{lj|[[ゼロ]]}}'''
+| singer10 = {{lj|[[鏡音レン]]}}
+| title11  = '''{{lj|[[閑話休題]]}}'''
+| singer11 = {{lj|[[鏡音レン]]}}
+| title12  = '''{{lj|[[そして時代は続く]]}}'''
+| singer12 = {{lj|[[初音ミク]]}}
+| title13  = '''{{lj|[[空白(黑柿子)|空白]]}}'''
+| singer13  = {{lj|[[鏡音レン]]}}
+| title14  = '''{{lj|[[結局死ぬってなんなんだ]]}}'''
+| singer14 = {{lj|[[鏡音レン]]}}
+| title15  = '''{{lj|[[アンコール]]}}'''
+| longnote15= {{Citation needed|Instrumental|text=需要驗證}}
+}}
+}}
+{{clear}}
+=== {{anchor|「発狂前夜」}}{{lj|EP 「発狂前夜」}} ===
+{{lj|発狂前夜}} 為 {{lj|カンザキイオリ}} 第四張專輯, 附帶於2018年11月18日 THE VOC@LOID M@STER41 會場限定版「結局死ぬってなんなんだ」合計中.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|発狂前夜}}
+|image        = 
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = 
+|發行地區     = 日本
+|發行日期     = 2018年11月18日
+|商品編號     = 
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= 発狂前夜
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column =  yes
+| title1   = '''{{lj|[[アダルトチルドレソ]]}}'''
+| singer1  = {{lj|[[鏡音レン]]}}
+| longnote1= (last ver.)
+| title2   = '''{{lj|[[腐敗]]}}'''
+}}
+}}
+{{clear}}
+=== {{anchor|白紙}} {{lj|1st Album 「白紙」}} ===
+{{lj|白紙}} 為 {{lj|カンザキイオリ}} 個人第三張大型專輯,也是其第五張個人專輯.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|白紙}}
+|image        = 白紙_album.jpg
+|出品         = {{lj|カンザキイオリ}}<br>外傳・二 編曲：{{lang|en|[[Guiano]]}}
+|封面設計     = {{lang|en|[[Shirone]]}}
+|發行         = KAMITSUBAKI RECORD
+|發行地區     = 日本
+|發行日期     = 2019年04月11日
+|商品編號     = KTR-001
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= {{lj|-これが僕の人生です-}}
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| singer_credits = yes
+| title1   = '''{{lj|[[告白]]}}'''
+| singer1  = {{lj|[[初音ミク]]}}
+| title2   = '''{{lj|[[あの夏が飽和する]]}}'''
+| singer2  = {{lj|[[鏡音レン]]・[[鏡音リン]]}}
+| title3   = '''{{lj|[[空白(黑柿子)|空白]]}}'''
+| singer3  = {{lj|[[鏡音レン]]}}
+| title4   = '''{{lj|[[命に嫌われている]]}}'''
+| singer4  = {{lj|[[初音ミク]]}}
+| title5   = '''{{lj|[[君の神様になりたい]]}}'''
+| singer5  = {{lj|[[初音ミク]]}}
+| title6   = '''{{lj|[[番外]]}}'''
+| singer6  = {{lj|[[鏡音レン]]}}
+| title7   = '''{{lj|[[自由に捕らわれる]]}}'''
+| singer7  = {{lj|[[鏡音レン]]}}
+| title8   = '''{{lj|[[そして時代は続く]]}}'''
+| singer8  = {{lj|[[初音ミク]]}}
+| title9   = '''{{lj|[[贅沢な休日]]}}'''
+| singer9  = {{lj|[[鏡音レン]]}}
+| title10  = '''{{lj|[[結局死ぬってなんなんだ]]}}'''
+| singer10 = {{lj|[[初音ミク]]}}
+| title11  = '''{{lj|[[冬が僕を嫌っているので]]}}'''
+| singer11 = 
+| longnote11 = {{Citation needed|Instrumental?|text=需要驗證}}
+| title12  = '''{{lj|[[音楽なんてわからない]]}}'''
+| singer12 = {{lj|[[初音ミク]]}}
+}}
+
+{{tracklist
+| headline= {{lj|-外伝-}}
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| title1   = '''{{lj|[[進化劇]]}}'''
+| title2   = '''{{lj|[[音楽なんてわからない]]}}'''
+| longnote2= [[Guiano]] remix
+}}
+
+特典内容<ref>{{cite web |url=https://www.youtube.com/watch?v=oh_cxUQGojE |access-date=2021-07-25 |website=YouTube |script-title=ja:カンザキイオリ / 1st Album「白紙」クロスフェード|archive-url=http://web.archive.org/web/20200504013443/https://www.youtube.com/watch?v=oh_cxUQGojE |archive-date=2020-05-04}}</ref>
+{{lj|
+*詩集【遺品】
+*セルフライナーノーツ【白紙録】
+*缶バッチ3点
+*ステッカー3点
+}}
+}}
+{{clear}}
+=== {{anchor|人生はコメディ_EP}} {{lj|1st EP 「人生はコメディ」}}===
+{{lj|人生はコメディ}} 為 {{lj|カンザキイオリ}} 第六張專輯. 與小説 {{lj|「獣」}} 一同發售.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|人生はコメディ}}
+|image        = 人生はコメディ_EP.jpg
+|圖片信息     = EP封面
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = KAMITSUBAKI STUDIO
+|發行地區     = 日本
+|發行日期     = 2020年02月19日
+|商品編號     = KTR-002
+|專輯類型     = EP
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= CD
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| singer_credits = yes
+| title1   = '''{{lj|[[夕日]]}}'''
+| longnote1= Instrumental
+| title2   = '''{{lj|[[あの夏が飽和する]]}}'''
+| singer2  = {{lj|[[鏡音レン]]・[[鏡音リン]]}}
+| title3   = '''{{lj|[[死ぬとき死ねばいい]]}}'''
+| singer3  = {{lj|[[鏡音レン]]・[[鏡音リン]]}}
+| title4   = '''{{lj|[[輪廻]]}}'''
+| longnote4= Instrumental
+| title5   = '''{{lj|[[人生はコメディ]]}}'''
+| singer5  = {{lj|[[鏡音リン]]}}
+}}
+商品内容<ref>{{cite web |url=https://booth.pm/en/items/1742348 |access-date=2021-07-25 |script-title=ja:【カンザキイオリ】小説＆EP「人生はコメディ」|archive-url=http://web.archive.org/web/20210122234420/https://booth.pm/en/items/1742348 |archive-date=2021-01-22 |website=BOOTH}}</ref>
+
+{{lj|
+*小説「獣」(上巻305P / 下巻409P)
+*EP「人生はコメディ」(全5曲)
+*オリジナルブックカバー
+*オリジナル栞
+}}
+
+}}
+
+=== {{anchor|不器用な男_Album}} {{lj|2nd Album 「不器用な男」}} ===
+{{lj|「不器用な男」}} 為 {{lj|カンザキイオリ}} 個人第四張大型專輯,也是其第六張個人專輯.於2021年08月11日發售.
+{{toggle
+|button={{space|3}}（點擊本行文字瞭解更多）
+|content=
+
+{{Album Infobox
+|專輯名稱     = {{lj|不器用な男}}
+|image        = 不器用な男_album.jpg
+|圖片信息     = CD封面
+|出品         = {{lj|カンザキイオリ}}
+|封面設計     = 
+|發行         = KAMITSUBAKI STUDIO
+|發行地區     = 日本
+|發行日期     = 2021年08月11日
+|商品編號     = KTR-030【BOX盤】<br>KTR-030-1【CD盤】
+|專輯類型     = Album
+|標題顏色     = #FFFFFF
+|標題字體顏色 = #201e1f
+|左欄顏色     = #515e8f
+|左欄字體顏色 = #eae7e0
+|底欄顏色     = 
+}}
+
+{{tracklist
+| headline= CD
+| all_music   = {{lj|カンザキイオリ}}
+| all_lyrics  = {{lj|カンザキイオリ}}
+| all_singer  = {{lj|カンザキイオリ}}
+| longnote_column = yes
+| singer_credits = yes
+| title1   = '''{{lj|[[命に嫌われている]]}}'''
+| title2   = '''{{lj|[[カメムシ]]}}'''
+| title3   = '''{{lj|[[吸血鬼]]}}'''
+| title4   = '''{{lj|[[あの夏が飽和する]]feat.[[花譜]]}}'''
+| singer4  = {{lj|[[花譜]]}}
+| title5   = '''{{lj|[[桜の子]]}}'''
+| title6   = '''{{lj|[[成長痛]]}}'''
+| title7   = '''{{lj|[[畢生よ]]}}'''
+| title8   = '''{{lj|[[大人]]}}'''
+| title9   = '''{{lj|[[ダイヤモンド]]}}'''
+| title10  = '''{{lj|[[地獄に落ちる]]}}'''
+| title11  = '''{{lj|[[こんな夜でもいいじゃないか]]}}'''
+| title12  = '''{{lj|[[子供]]}}'''
+| longnote12= （Instrumental）
+| title13  = '''{{lj|[[青い号哭]]}}'''
+| title14  = '''{{lj|[[不器用な男]]}}'''
+| title15  = '''{{lj|[[春酔い]]}}'''
+| longnote15= （Instrumental）
+}}
+
+商品内容<ref>{{cite web |url=https://booth.pm/ja/items/3116330 |access-date=2021-07-25 |script-title=ja:【2021年8月11日発売】カンザキイオリ 2nd Album「不器用な男」|website=BOOTH}}</ref>
+
+{{lj|
+【BOX盤】
+*CD「不器用な男」（全15曲）
+*小説「不器用な男」（歌詞＆小説）
+*栞
+*巾着
+*ボールペン
+*ステッカー（4枚セット）
+
+【CD盤】
+*CD「不器用な男」（全15曲）
+}}
+
+}}
+
+== 里程碑 ==
+=== {{anchor|不器用な男_Live}} {{lj|カンザキイオリ 第一回公演「不器用な男」}}===
+
+{{lj|「不器用な男」}} 是 {{lj|カンザキイオリ}} 第一場演唱會,於2021年7月23日舉行,場地不明.
+
+{{Concert Infobox
+|音樂會名稱   = {{lj|「不器用な男」}}
+|image        = 不器用な男_Live_Banner.jpeg
+|描述         = 
+|演出者       = {{lj|カンザキイオリ}}<br>{{lj|語り:[[花譜]]}}<br>Band Master・Bass:{{lj|花村智志}}<br>Guitar:{{lj|村田隆嘉}}<br>Keyboard:{{lj|鮎京春輝}}<br>Drum:{{lang|en|AtsuyuK!}}<br>Percussion:{{lj|ぬましょう}}<br>Dancer:{{lj|神谷琉伽、藤原亜美、水村里奈}}
+|演出地點     = ?
+|演出期間     = 2021年07月23日(Fri)<br>開演 JST 18:30
+|官網         = http://kanzakiiori.kamitsubaki.jp/
+|下一次演出   = 
+|標題顏色     = #080403
+|標題字體顏色 = #ffffff
+|左欄顏色     = #303232
+|左欄字體顏色 = #ffffff
+|副標題顏色   =
+}}
+
+*2021年06月20日晚,在「花達と椿と君。vol.12 -生放送-」中公佈, {{lj|カンザキイオリ 第一回公演「不器用な男」}}將於7/23 日舉行,將於Youtube全程無料直播<ref>{{cite web |url=https://twitter.com/kurogaki0311/status/1406575313195212807 |script-title=ja:~お知らせ〜|access-date=2021-08-07 |author=@kurogaki0311 |website=Twitter |archive-url=http://web.archive.org/web/20210620115120/https://twitter.com/kurogaki0311/status/1406575313195212807 |archive-date=2021-06-20}}</ref>.
+
+*2021年06月21日,第一輪物販開始預約<ref>{{cite web |url=https://twitter.com/kamitsubaki_jp/status/1406915275350441985 |script-title=ja:カンザキイオリ第一回公演「不器用な男」の公式ライブグッズ受注予約開始！！|access-date=2021-08-07 |author=@kamitsubaki_jp|website=Twitter |archive-url=http://web.archive.org/web/20210621171707/https://twitter.com/kamitsubaki_jp/status/1406915275350441985 |archive-date=2021-06-21}}</ref>.
+
+*2021年07月17日, 開眼時間更變為 JST 18:30 <ref>{{cite web |url=https://twitter.com/kurogaki0311/status/1416369005481263115 |script-title=ja:開演時間が18時30分となりました。皆様、大変申し訳ありません。|access-date=2021-08-07 |author=@kurogaki0311 |website=Twitter |archive-url=http://web.archive.org/web/20210717120840/https://twitter.com/kurogaki0311/status/1416369005481263115 |archive-date=2021-07-17}}</ref>.
+:同晚公開預告片<ref>{{cite web |url=https://twitter.com/kurogaki0311/status/1416370188883152899 |script-title=ja:カンザキイオリ第一回公演「不器用な男」2021年7月23日　開演|access-date=2021-08-07 |author=@kamitsubaki_jp|website=Twitter |archive-url=http://web.archive.org/web/20210717132236/https://twitter.com/kurogaki0311/status/1416370188883152899 |archive-date=2021-07-17 }}</ref>.
+
+*2021年07月23日,JST 18:30 {{lj|カンザキイオリ 第一回公演「不器用な男」}} 開演.
+
+'''演唱會歌單'''：<span class="mw-customtoggle-TCM_F_L" style="cursor:pointer">[<span style="color:#0645ad;">展開/摺疊</span>]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-TCM_F_L">
+{{lj|カンザキイオリ 第一回公演「不器用な男」 :<br><br>
+I. 花譜 語り<br><br>
+1. 命に嫌われている。<br><br>
+2. カメムシ (新曲<br><br>
+II. 花譜 語り<br><br>
+3. 吸血鬼 (新曲<br><br>
+4. ​あの夏が飽和する<br><br>
+III. 花譜 語り<br><br>
+5. 桜の子 (新曲<br><br>
+6. 成長痛 (新曲<br><br>
+IV. 花譜 語り<br><br>
+7. 畢生よ<br>
+8. 大人<br><br>
+9. ダイヤモンド (新曲<br><br>
+V. 花譜 語り<br><br>
+10. 地獄に落ちる (新曲<br>
+11. こんな夜でもいいじゃないか (新曲<br><br>
+VI. 花譜 語り + (鋼琴)<br>
+12. 青い号哭 (新曲<br><br>
+13. 不器用な男<br><br>
+α .本人 語り (BGM)
+}}
+</div>
+
+*出演后,送出在演出中使用過的小冊子給感想發表者<ref>{{cite web |url=https://twitter.com/kamitsubaki_jp/status/1418527552683925506 |script-title=ja:【#カンザキイオリ】|access-date=2021-08-07 |author=@kamitsubaki_jp|website=Twitter |archive-url=http://web.archive.org/web/20210724200730/https://twitter.com/kamitsubaki_jp/status/1418527552683925506 |archive-date=2021-07-24 |quote={{lj|「#不器用な男」をつけて感想をツイートしてくださった方の中から、本日の公演でカンザキイオリが使用していた自作の冊子を抽選で1名様にサイン&メッセージ入りでプレゼント！たくさんの感想お待ちしております。}}}}</ref>. {{Chide|得獎者不明}}
+
+*2021年07月24日 JST 00:00, 有料再放送開始, 入場價格3000{{lj|円}}, 存放至08月01日 JST 23:59<ref>{{cite web |url=https://www.zan-live.com/live/detail/10102 |access-date=2021-08-07 |website=Z-aN |script-title=ja:カンザキイオリ第一回公演「不器用な男」見逃し配信|archive-url=http://web.archive.org/web/20210801230622/https://www.zan-live.com/live/detail/10102 |archive-date=2021-08-01}}</ref>.
+{{clear}}
+
+=== {{anchor|親愛なるあなた達へ_Live}} {{lj|カンザキイオリ小説発売記念弾き語りライブ「親愛なるあなた達へ」}}===
+
+'''演唱會歌單'''：<span class="mw-customtoggle-KNS_L" style="cursor:pointer">[<span style="color:#0645ad;">展開/摺疊</span>]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-KNS_L">
+{{lj|カンザキイオリ小説発売記念弾き語りライブ「親愛なるあなた達へ」:<br><br>
+前半戰<br><br>
+1. ​爆弾<br><br>
+2. ​不器用な男<br><br>
+3. 大人<br><br>
+4. ダイヤモンド<br><br>
+5. 子供<br>
+6. 青い号哭<br><br>
+* Jingle Bell /-- Violin: カンザキイオリ Cajón: イノウエケンイチ<br><br>
+後半戰<br><br>
+7. あの夏が飽和する。<br><br>
+8. 人生はコメディ<br><br>
+9. 死ぬとき死ねばいい<br><br>
+10. 命に嫌われている。<br><br>
+encore<br><br>
+11. 偶像
+}}
+</div>
+
+== 其他 ==
+=== 軼事 ===
+
+{{黑柿子}}
+{{神椿}}
+{{VOCALOID职人}}
+
+== 注釋 ==
+<references group="注" />
+== 參考資料 ==
+<references />
+== 外部鏈接 ==
+[[分类:VOCALOID职人]]

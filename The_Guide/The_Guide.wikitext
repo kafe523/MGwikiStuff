@@ -1,0 +1,1442 @@
+{{標題替換|THINKR及相關事宜編輯指引}}
+<templatestyles src=":User:Kafe523/Sandbox4/styles.css" />
+<!--
+「」
+、
+-->
+{{info
+|color=black
+|leftimage=[[File:KAMITSUBAKI_STUDIO_logo.jpg|50px]]
+|text=本指引為活躍於{{lj|[[神椿]]}}專題内眾貢獻者之[[Null|'''共識''']]， 為{{lang|en|[[THINKR]]}}相關條目編寫提供指引，但'''不是'''萌百官方方針/論述/政策頁面。
+
+* 本指引適用於所有與{{lang|en|THINKR}}相關之條目, 主要架構敬請參照本指引編輯.
+
+* 本指引運用次序請於[[#運用次序|運用次序]]瞭解.
+
+* 本指引未必涵蓋{{lang|en|THINKR}}日後任何發展計劃, 若需收錄本指未為涵蓋之内容, 請參照[[#臨時收錄格式原則|臨時收錄格式原則]]
+
+* 與其他編輯者/團體協商時, 可引本指引作{{lang|en|THINKR}}編輯方意見.
+
+任何本指引缺漏之部分, 敬請於[[Talk:Null|'''討論頁''']]或[[#flowthread|'''評論區''']]提出.
+}}
+
+<noinclude>{{doc}}</noinclude>
+
+<div style="text-align:center; background-color: #f7f7f7;border-left: 15px solid #000000;border-right: 15px solid #000000;margin:0 4em;">
+<span style="display:inline-block; text-align:center; padding:3px 1px; border:#000000 solid thick; border-width:0 medium; margin:0; color:#55f;">
+<span style="background-color: #f7f7f7; padding:3px 5px;">若閣下時間充裕, 請務必閲讀全文.</span>
+</span>
+</div>
+
+<div style="margin:0 2em;border-style: solid;border-width: 2px;border-color:#808080;padding:0 2em;">
+
+本指引專為{{lang|en|[[THINKR]]}}相關條目專門撰寫之編輯指引, 同時供任何涉及{{lang|en|[[THINKR]]}}之編輯爭議時作參考用. 内容建基於[[虚拟UP主/编辑指南|虚拟UP主:编辑指南]]不足及不適用之處另設指引. 若查詢基礎編輯可前往[[Help:萌百编辑简明指南]]了解.
+
+= 簡稱及適用範圍 =
+
+== 簡稱 ==
+
+本指引可引稱為《{{lang|en|[[THINKR]]}}指引》及<!-- 《{{lj|[[神椿]]}}編輯指引》 -->.
+
+== 適用範圍 ==
+
+# 除非在本指引另有指明或任何附加説明, 否則本指引條文適用萌娘百科内任何與{{lang|en|THINKR}}相關條目.
+# 本指引涵蓋任何在編寫過程中所引用之資料, 不論該資料儲存或保管於萌娘百科擁有任何資產内或萌娘百科以外地方.
+
+= 釋義 =
+
+在本指引中, 除文意另指外 ——
+# '''''應'''''(should)解英文相同意思.
+# '''''需'''''(must)解英文相同意思.
+# '''''人士'''''(person)是指任何人, 不論該人現仍在世或去世.
+# '''''思索R'''''(THINKR)為公司中文譯名.
+# '''''神椿'''''(KAMITSUBAKI STUDIO)為藝人工作室.
+# '''''神椿唱片'''''<ref group="注" name="temp_translate">暫定譯名</ref>(KAMITSUBAKI RECORD)為音樂發行商.
+# '''''FLAT STUDIO'''''為動畫創作工作室.
+# '''''QA STUDIO'''''為規劃工作室.
+# '''''IMAGINARY STUDIO'''''為藝人工作室.
+# '''''企業'''''(enterprise)一詞適用於任何業務的經營.
+# '''''藝人'''''(artist)指 ——
+## 任何隸屬{{lj|神傳}}旗下「Artist」分類之成員;
+## 任何與{{lj|神椿}}相關, 進行任何藝術活動角色或人士.
+# '''''虛擬藝人'''''(virtual artist)指 ——
+## 任何隸屬{{lj|神傳}}旗下「Virtual Artist」分類之成員, 不論其是否有兼任其他任何{{lang|en|THINK}}旗下藝人工作室;
+## 任何與{{lj|神椿}}相關, 主要不使用任何人士身份進行活動之藝人;
+## 任何隸屬{{lj|神傳}}旗下「Virtual Artist」分類之越境型成員.
+# '''''藝人團體'''''(artiest group)指多於一位藝人或虛擬藝人共演之組合.
+# '''''投稿、上載'''''(upload)範圍包括任何平臺, 不論該平臺有否設立任何接觸權限.
+# '''''描述欄'''''(description)指 ——
+## Youtube 頻道名稱以下、版權資訊及留言區域以上之範圍, 具體位置指HTML seletor「<code><nowiki>#description-content</nowiki></code>」裏記載之内容;
+## Bilibili 授權資訊以下、影片標記以上之範圍, 具體位置指HTML seletor「<code><nowiki>#v_desc > div.desc-info.desc-v2.open</nowiki></code>」;
+## Niconico 標題以下、頻道資訊、影片統一資訊欄以上之範圍, 具體位置指HTML seletor「<code><nowiki>#js-app > div > div.WatchAppContainer-main > div.HeaderContainer > div.VideoDescriptionContainer</nowiki></code>」;
+## 在其他影音平臺具類似功能之範圍.
+# '''''音源庫'''''(voice bank)指專用於聲音合成器製作之人聲組合.
+# '''''P主'''''(Vocaloid producer)指任何使用音源庫爲主演唱者之作曲家.
+
+= 原則 =
+
+# 在萌娘百科中 ——
+## 任何内容均采用 <big>'''預設默許'''</big> 原則記載. 除原内容擁有人反對本百科引用, 方可(may only)移除指定内容;
+## 本指引具'''指導性''',而非'''懲罰性''';
+## 本指引應兼容任何萌娘百科方針/論述/政策(不論其實施日期早於或遲於本指引的生效日期);
+## 任何涉及與{{lang|en|THINKR}}編輯爭議, 不論其内容為條目或章節主要或次要内容, 均可參考本指引嘗試化解;
+## 任何涉及與{{lang|en|THINKR}}編輯爭議之結果, 均應儘快整理后納入指引;
+## 本指引雖借鑒現代法律起草過程, 但會保留最大彈性以應付{{lang|en|THINKR}}任何未知内容收錄.
+# 任何付費内容 ——
+## 除原内容擁有人允許, 儘一切可能<big>'''避免'''</big>任何收費内容<big>'''完整'''</big>上傳之本百科;
+## 任何付費内容應記載於本百科;
+## 任何編輯者有責任保護原内容擁有者之權益及利盈.
+# 在任何擁有評論區之頁面 ——
+## 可被定義為'''''社交媒體平台'''''(social networking service).
+# 任何本指引沒有涵蓋亦未需要特意修例之内容, 可在不違反萌娘百科官方方針/論述/政策下自由發揮.
+
+= 收錄範圍及分類 =
+
+本章節劃分已知與{{lang|en|THINKR}}相關之内容. 隨著其該社發展, 本章節未必及時更新未劃分之内容. 未被提及之内容可參照[[#收錄原則]]做決定.
+
+== 企業 ==
+
+== 人物及團體 ==
+
+=== 角色設計 ===
+
+# 任何與角色設計相關内容為收錄範圍, 包括但不限於 —— 
+## 樣貌;
+## 身材;
+## 衣著;
+## 性格;
+## 設計者;
+## 設計概念;
+## 設計意思;
+## 設計歷史.
+# 任何與角色設計相關事件為收錄範圍, 包括但不限於 ——
+## 首次出現時間;
+## 首次出現地點;
+## 首次出現活動.
+
+=== 作品 ===
+
+任何作品應優先按下方條件歸類, 只有下方條件無法滿足分類需求時, 方可開設新分類.
+
+==== 音樂 ====
+
+# 除另頒公告, 任何音樂作品應擇下列其一分類並不得與其他分類同時套用.
+# 除另附指引, 任何歌曲鏈接均應按
+
+===== 原創曲 =====
+
+# 符合以下任何一項條件, 同時並無與其他分類衝突, 則歸類為<big>'''虛擬藝人'''</big>原創曲 ——
+## 歌曲發行商為「神椿唱片」;
+## 在影片内、標題、描述欄, 上述任何一個地方附有「 {{lang|en|Produced by KAMITSUBAKI STUDIO}} 」字樣;
+## 該曲標記有原創曲字樣;
+## 歌曲第一位演唱者為虛擬藝人, 不論該曲演出場合及是否有投稿;
+## 虛擬藝人演唱及具投稿編號之歌曲<ref group="注">此條件不適用於{{lj|理芽}}</ref>;
+## 歌曲收錄於任何一張藝人專輯中;
+## 歌曲收錄於任何一張虛擬藝人專輯中;
+## 歌曲第一位演唱者為虛擬藝人, 儘管該曲被任何非{{lang|en|THINKR}}旗下任何工作室采用.
+## 任何上傳之MV標題及描述欄格式如[[#原創曲_2|描述欄格式]]所示.
+# 符合以下任何一項條件, 同時並無與其他分類衝突, 則歸類為<big>'''藝人'''</big>原創曲 ——
+## 歌曲發行商為「神椿唱片」;
+## 在影片内、標題、描述欄, 上述任何一個地方附有「 {{lang|en|Produced by KAMITSUBAKI STUDIO}} 」字樣;
+## 該曲標記有原創曲字樣;
+## 歌曲第一位演唱者為藝人, 不論該曲演出場合及是否有投稿;
+## 歌曲收錄於任何一張藝人專輯中;
+## 歌曲收錄於任何一張虛擬藝人專輯中;
+## 歌曲第一位演唱者為藝人, 儘管該曲被任何非{{lang|en|THINKR}}旗下任何工作室采用.
+# 任何符合第(1)及(2)款内定義之歌曲, 應開設獨立條目記載 ——
+## 歌曲名稱;
+## 作曲、作詞、編曲;
+## 歌曲簡介;
+## 歌曲故事(若有)<ref group="注" name="ab_write">按編輯者能力考慮是否添加</ref>;
+## 官方認可之Youtube播放來源(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源;
+## 所有版本歌詞及其來源;
+## 任何與歌曲相關之内容.
+# 任何符合第(1)及(2)款内定義之歌曲應於{{lang|en|THINKR}}旗下相應藝人或虛擬藝人條目内記載相關歌曲 ——
+## 投稿編號;
+## 投稿次序;
+## 投稿日期;
+## 名稱(包括演唱版本);
+## 作曲、作詞、編曲;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源.
+# 任何符合第(1)及(2)款内定義之歌曲, 不得與本指引内其他分類同時套用.
+# 除非在本指引另有指明或任何附加説明, 否則現場演唱版本(Live Ver.) ——
+## 應視爲獨立版本;
+## 應另外於{{lang|en|THINKR}}旗下相應藝人或虛擬藝人條目内記載相關歌曲;
+## 應在同名歌曲條目下記載相關内容.
+
+====== VOCALOID/UTAU/CEVIO 曲 ======
+
+# 本章節「VOCALOID/UTAU/CEVIO」指 ——
+## {{lang|en|THINKR}}或任何相關企業在{{lang|en|THINKR}}或與其相關企業委托第三方企業按照{{lang|en|THINKR}}旗下所屬藝人或虛擬藝人所建立之音源庫;
+## {{lang|en|THINKR}}或任何相關企業在{{lang|en|THINKR}}或與其相關企業委托第三方企業按照{{lang|en|THINKR}}相關企劃關聯之藝人或虛擬藝人所建立之音源庫, 不論該企劃{{lang|en|THINKR}}或其下屬工作室主導與否.
+# 任何符合本章節第(1)款内定義音源庫演出之歌曲  ——
+## 不得與本指引内其他分類同時套用;
+## 應參照[[萌娘百科:条目格式/VOCALOID音乐|]]内格式撰寫.
+# 若歌曲被任何{{lang|en|THINK}}或旗下任何工作室之任何部門提及、任何程度引用或運用, 應在任何符合本章節第(1)款内定義音源庫之條目内記載相關歌曲, 並為該曲獨立撰寫條目.
+# 任何{{lang|en|THINK}}或旗下任何工作室之任何部門主辦任何形式之比賽(contest), 應在任何符合本章節第(1)款内定義音源庫之條目内適當之處列表記載相關歌曲, 並為該曲獨立撰寫條目.
+# 若歌曲不被第(3)及(4)款内提及之事宜引用、運用或參與, 除非有其他特殊因由, 無須於符合本章節第(1)款内定義音源庫之條目内記載該曲.
+# 第(5)款不適用於第(1)款内定義音源庫之條目内[[Template:infobox]]或具相同用途模板.
+# 任何<big>'''不符合'''</big>本章節第(1)款内定義音源庫演出之歌曲, 應參照萌娘百科其他編輯組慣例撰寫相關内容.
+# 任何
+
+====== 自唱曲 ======
+
+# 本章節只適用於{{lang|en|THINKR}}旗下任何同時兼任P主及歌手之藝人
+# 任何第(1)款所指藝人自己演唱之原創曲歸類於此, 并應為該曲獨立撰寫條目.
+# 獨立條目内容應按[[#原創曲]]第(3)款内指引編寫.
+# 任何第(1)款所指之歌曲應於{{lang|en|THINKR}}旗下相應藝人條目内記載相關歌曲 ——
+## 投稿時間;
+## 歌曲名稱;
+## 作曲、作詞、編曲;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## Niconico鏈接(如適用);
+## -{中囯}--{囯内}-可播放之來源(如適用).
+
+====== 合唱曲 ======
+
+# 本章節「合唱曲」是指{{lang|en|THINKR}}旗下任何藝人或虛擬藝人一同演唱之歌曲.
+# 本章節不適用於V.W.P任何歌曲.
+# 獨立條目内容應按[[#原創曲]]第(3)及(4)款内指引編寫.
+
+====== 合作曲 ======
+
+# 本章節「合作曲」是指{{lang|en|THINKR}}旗下任何藝人或虛擬藝人與任何非{{lang|en|THINKR}}旗下任何藝人或虛擬藝人演唱之歌曲.
+# 條目編寫風格應跟隨MV上傳頻道.
+# 合作曲條目不論其編寫風格, 應涵蓋[[#原創曲]]第(3)款内指引所提及任何内容.
+
+====== REMIX ======
+
+# 本章節中「REMIX」是指 ——
+## 任何{{lang|en|THINKR}}或其下工作室任何成員以任何方式重做{{lang|en|THINKR}}旗下藝人及虛擬藝人任何原創曲, 不限其重做方式;
+## 任何{{lang|en|THINKR}}或其下工作室舉辦任何活動, 而邀請任何人為該活動重做{{lang|en|THINKR}}旗下藝人及虛擬藝人任何原創曲, 不限其重做方式;
+## 任何{{lang|en|THINKR}}或其下工作室之商業活動, 邀請任何人為該活動重做{{lang|en|THINKR}}旗下藝人及虛擬藝人任何原創曲, 不限其重做方式;
+## 任何{{lang|en|THINKR}}或其下工作室與任何機構之合作計劃内為配合其主題而重做{{lang|en|THINKR}}旗下藝人及虛擬藝人任何原創曲, 不限其重做方式;
+# 任何REMIX歌曲視爲獨立歌曲, 應按[[#原創曲]]第(4)款内指引編寫, 無需開設獨立條目撰寫其内容.
+# 任何第(1)款所指之歌曲應於{{lang|en|THINKR}}旗下相應藝人條目内記載相關歌曲 ——
+## 投稿時間;
+## 歌曲名稱;
+## (改)編曲;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## Niconico鏈接(如適用);
+## -{中囯}--{囯内}-可播放之來源(如適用).
+# REMIX歌曲應在相關條目内提及 ——
+## REMIX簡介;
+## 歌曲故事(若有)<ref group="注" name="ab_write"/>;
+## 官方認可之Youtube播放來源(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源;
+## 所有版本歌詞及其來源;
+## 任何與歌曲相關之内容.
+# [[#RAP VERSION|春猿火 RAP VERSION]]歌曲不適用此規定.
+
+===== 翻唱曲 =====
+
+# 本章節「翻唱曲」是指 ——
+## {{lang|en|THINKR}}旗下任何虛擬藝人所演唱之非原創曲;
+## 該曲曾經在Youtube、Twitter、過往任何演唱會, 不論其是否{{lang|en|THINKR}}或其下工作室主辦.
+# 任何符合第(1)款之歌曲, 應在相應虛擬藝人或藝人條目内記載歌曲相關  ——
+## 投稿時間;
+## 歌曲名稱;
+## 作曲、作詞、編曲;
+## Arrange;
+## MIX;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music,如適用);
+## Twitter播放鏈接(如適用);
+## -{中囯}--{囯内}-可播放之來源(如適用).
+# 除非在本指引另有指明或任何附加説明, 否則任何翻唱曲均<big>'''無需'''</big>在歌曲獨立條目内填寫任何關於該翻唱内容.
+
+===== 純音樂 =====
+
+# 本章節「純音樂」是指 ——
+## 該曲並無演唱歌詞;
+## 收錄於「神椿唱片」為發行商之專輯;
+# 任何符合第(1)款之歌曲, 應在相應虛擬藝人或藝人條目内記載歌曲相關  ——
+## 投稿時間;
+## 歌曲名稱;
+## 收錄專輯;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music,如適用);
+## 任何原曲之播放鏈接;
+## Twitter播放鏈接(如適用);
+## -{中囯}--{囯内}-可播放之來源(如適用).
+
+===== 特例 =====
+
+本章節記載已知與{{lang|en|THINKR}}相關之音樂内容特例.
+
+====== 魔女 ======
+
+# 本章節「魔女」是指繼[[魔女(花譜)]]後以兩字命名之原創曲, 而該歌曲給予{{lj|神椿}}旗下虛擬藝人「{{lj|[[花譜]]}}、{{lj|[[理芽]]}}、{{lj|[[春猿火]]}}、{{lj|[[ヰ世界情緒]]}}及{{lj|[[幸祜]]}}」或前方提及任意成員集結之組合或團體演唱.
+# 相關曲目因在其演唱虛擬藝人或團體條目内記載  ——
+## 演唱時間;
+## 歌曲名稱;
+## 演唱藝人;
+## 作曲、作詞、編曲;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music,如適用);
+## -{中囯}--{囯内}-可播放之來源(如適用).
+# 同一歌曲但與首次演出虛擬藝人或任意成員集結之組合或團體有異  ——
+## 應被視爲獨立歌曲及另外記載, 但無需開設獨立條目撰寫其内容;
+## 在歌曲條目内應記載第(2)款内所有資訊.
+
+====== V.W.P ======
+
+# 任何由V.W.P演唱之原創歌曲, 不論其是否製作成MV投稿、收錄於任何專輯或被任何非{{lang|en|THINKR}}或其轄下工作室正式使用, 均應設獨立條目記載.
+# 獨立條目内容應按[[#原創曲]]第(3)款内指引編寫.
+# 不論收錄之 V.W.P 歌曲是否有「中心曲」頁面下記載之原創曲亦需就此細分.
+
+
+====== RAP VERSION ======
+
+# 本章節中「RAP VERSION」是指 [[春猿火]] 所演唱之歌曲, 而 —— 
+## 該些MV標題及描述欄格式如[[#原創曲_2|描述欄格式]]所示.
+## 任何類似但沒有投稿之歌曲, 不論其首次演出場合.
+# 任何符合第(1)款内定義 RAP VERSION 歌曲均視爲獨立歌曲, 應於同名原曲條目内記載相關内容, 但無需開設獨立條目撰寫其内容.
+# RAP VERSION歌曲應在相關條目内提及 ——
+## RAP VERSION簡介;
+## 官方認可之Youtube播放來源(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源;
+## 所有版本歌詞及其來源;
+## 任何與歌曲相關之内容.
+
+====== 花譜 feat. 可不 ======
+
+# 本章節中「花譜 feat. 可不」是指 ——
+## 任何{{lang|en|THINKR}}或其下工作室所主導、製作或發佈之兩人合唱曲;
+## 任何{{lang|en|THINKR}}或旗下工作室舉辦之任何活動, 而該活動内任意歌曲為兩人合唱曲;
+## 任何{{lang|en|THINKR}}或旗下工作室所發行之專輯, 而該專輯内收錄兩人合唱曲;
+## 任何{{lang|en|THINKR}}或旗下藝人或虛擬藝人所主導、製作或發佈之兩人合唱曲.
+# 本章節内「兩人合唱曲」代指「花譜 feat. 可不」.
+# 任何符合第(1)款内定義之兩人合唱曲, 應於原曲條目内記載相關内容, 但無需開設獨立條目撰寫其内容.
+# 兩人合唱曲應在相關條目内提及 ——
+## 兩人合唱曲簡介;
+## 官方認可之Youtube播放來源(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源;
+## 所有版本歌詞及其來源;
+## 任何與歌曲相關之内容.
+# 相關歌曲應按[[#原創曲]]第(4)款内指引編寫, 一并置於「合唱曲」.
+
+====== 組曲 ======
+
+# 本章節「組曲」是指任何於「花譜3周年紀念」活動内與任何藝人以任何形式合作,並同時於 ——
+## [https://kaf3rdanniversary.kamitsubaki.jp/project/kumikyoku/|特設網站]内記載該歌曲歌曲或;
+## 官方上傳之影片任何位置提及該曲應歸類為「組曲」.
+# 任何符合第(1)款内定義之歌曲, 均需於{{lj|[[花譜]]}}條目下另設新列表記載相關歌曲 ——
+## 投稿編號;
+## 投稿次序;
+## 投稿日期;
+## 名稱;
+## 作曲、作詞、編曲;
+## 官方認可之Youtube播放鏈接(不論該鏈接是否需要付費才可播放或觀看, 如:YouTube Premium、 Youtube Music);
+## -{中囯}--{囯内}-可播放之來源.
+# 符合地(1)款定義之曲目, 不得與本指引内其他分類同時套用.
+
+==== 詩詞 ====
+
+# 詩詞是指(poetry).
+# 符合以下所有條件, 同時並無與其他分類衝突, 則歸類為詩詞 ——
+## 任何由{{lang|en|THINKR}}旗下藝人或虛擬藝人演出之文字朗誦;
+## 不論該詞是否為演出者撰寫;
+## 不論該詞首次演出之場合.
+# 任何詩詞應記載其  ——
+## 演出時間;
+## 詩詞名稱;
+## 作詞;
+## 任何可播放鏈接.
+
+===== 詠唱 =====
+
+# 任何詠唱均應記載於詠唱者條目内, 並為其另開章節作獨立介紹, 無須獨立條目.
+
+==== 專輯 ====
+
+# 任何符合以下任一條件, 即符「專輯」 —— 
+## test<br><i><nowiki>[</nowiki>比照 2021.05.07:4912492[[Special:固定链接/4912492#作品|收录范围#作品:音樂出版物]]<nowiki>]</nowiki></i>
+# 符合以下任何一項條件, 即為本章節所指之「專輯」 ——
+## 專輯由「神椿唱片」發行, 而該專輯為「神椿」所屬虛擬藝人或藝人創作;
+## 任何於「神椿唱片」尚未成立前, 專輯由「神椿」所屬虛擬藝人或藝人創作之專輯;
+## 任何「神椿」所屬藝人加入前所發行之專輯;
+## 任何與非{{lang|en|THINKR}}旗下任何工作室共同參與製作之專輯, 而「神椿」所屬虛擬藝人或藝人該專輯内演唱歌曲;
+## 任何符合[[#VOCALOID/UTAU/CEVIO_曲|第三章]]第(1)款内定義音源庫為主題, 而該專輯由「神椿唱片」發行;
+## {{lang|en|THINKR}}旗下任意工作室企劃内衍生之專輯;
+## 在符合第(6)款下, 任何遊戲衍生之專輯.
+
+==== 重複收錄 ====
+
+# 若内容沒有指明主要演出者, 應同時於主要演出者條目内記載相關内容, 相關内容演出者應適當調整位置而無需完全跟隨官方命名.
+# 除後續公告<!--附錄列表-->另指歌曲, 此章節不適用於 V.W.P 演出歌曲不適用此條款.
+
+==== 尚未加入THINKR或旗下工作室之内容 ====
+
+# 任何成員於加入THINKR或旗下工作室前之内容一律收錄及保留.
+# 若該成員於加入THINKR或旗下工作室前已於萌娘百科建立相關個人條目,應按本指引為其内容重新分類.
+# 除過往内容排版致無法添加加入THINKR或旗下工作室後内容, 否則'''無需主動'''重新改變其排版.
+# 若該成員過往曾製作 VOCALOID/UTAU/CEVIO 曲, 於其個人條目下相關歌曲記載排版應保留當前排版, 若需要編寫相關内容應參照其他 [[VOCALOID P]] 或 於有需要情況向相關專題貢獻者請求協助.
+
+==== 經歷 ====
+
+# 任何虛擬藝人或藝人曾參與之活動均為收錄範圍, 包括但不限於 —— 
+## 誕辰紀念日;
+## 新人物設計;
+## 社交媒體頭像更換;
+## {{lang|en|THINKR}}或旗下工作室所舉辦之 展覽、演唱會、活動;
+## 非{{lang|en|THINKR}}或旗下工作室所舉辦之 展覽、演唱會、活動;
+## 參與歌曲演出;
+## 新曲投稿.
+# 任何完整經歷應開設於記錄對象子頁面下開設獨立條目, 而記錄對象本身條目内應以「近期經歷」形式記載相關内容.
+
+==== 重大歷程及里程碑 ====
+
+# 任何{{lang|en|THINKR}}或旗下工作室所舉行之特殊活動詳情均爲收錄範圍, 包括但不限於 ——
+## 周年紀念活動;
+## 非恆常直播;
+## 指定時間之虛擬藝人或藝人招募;
+## 展覽;
+## 其他可編寫一定内容之重要事宜.
+# 任何虛擬藝人或藝人曾經參與或經理特殊活動之詳情`均為收錄範圍, 包括但不限於 ——
+## 周年紀念活動;
+## 演唱會;
+## 其他可編寫一定内容之重要事宜.
+
+=== 詞匯 ===
+
+# 任何與{{lang|en|THINKR}}或旗下工作室相關並專門陳述任何與{{lang|en|THINKR}}或旗下工作室所營運、舉辦之活動、或相關現象之詞匯均爲收錄範圍.
+# 任何{{lang|en|THINKR}}旗下虛擬藝人或藝人相關之專有名詞均為收錄範圍.
+
+=== 軼事 ===
+
+任何不符本指引所設任何分類, 亦無需開設新分類或新條目撰寫之内容, 應歸納並收錄於本範圍.
+
+== 遊戲 ==
+
+# 任何與{{lang|en|THINKR}}相關之遊戲均應於開設條目記載相關内容.
+
+=== 迷你遊戲 ===
+
+=== 參演者 ===
+
+== 頁面佈局 ==
+
+== 已結束營運工作室注意事項 ==
+
+== 已離開成員注意事項 ==
+
+= 附錄 =
+
+== 描述欄格式 ==
+
+本章節記載已知{{lang|en|THINKR}}成員上載音樂影片之描述欄格式.
+
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+持續更新.
+</div>
+</div>
+
+=== 原創曲 ===
+
+<div style="border-style: solid;border-width: 3px;border-color:#808080;padding:10px;">
+
+{{Tab
+|color=yellow
+|bt1= Narrative Based Music
+|tab1=
+{{tabs/core
+|label1= 花譜
+|text1= {{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lj|花譜}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内描述該曲帶故事性.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+花譜 #83「海に化ける」【オリジナルMV】
+<hr><br>
+わたしだけのうた。<br>
+みんなとわたしだけのうた。<br>
+仮想世界からあなたへ。<br>
+物語をつむぐよ。<br><br>
+────────────<br>
+「海に化ける」<br>
+歌唱／花譜<br>
+作詞・作曲・編曲／カンザキイオリ<br><br>
+映像／川サキ ケンジ<br>
+映像制作協力／髙田 瑛示、渡邊 竜実、yujureal works<br>
+撮影／小林 英彦<br>
+タイトルデザイン／ZUMA<br>
+撮影アシスタント／山上俊成<br>
+制作／根岸 秀幸、廣田 佑介<br><br>
+Produced by KAMITSUBAKI STUDIO<br>
+────────────<br><br>
+=================================<br>
+(CD與GOODS宣傳)
+}}
+</div>
+</div>
+|label2= 合作格式
+|text2=
+# 標題附有 {{lj|花譜}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内描述該曲 —— 
+## 帶故事性;
+## 闡述合作内容.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+花譜 #77「ソレカラ」【オリジナルMV】
+<hr><br>
+わたしだけのうた。<br>
+みんなとわたしだけのうた。<br>
+仮想世界からあなたへ。<br>
+物語をつむぐよ。<br><br>
+ポプラ社よりコミュニティ型レーベル新創刊！<br>
+“キミとつながる”エンタメノベル文庫「キミノベル」<br>
+花譜×キミノベル 創刊プロジェクト始動!!<br>
+<nowiki>https://www.kiminovel.jp/</nowiki><br><br>
+「ソレカラ」<br>
+歌唱／花譜<br>
+作詞・作曲・編曲／水野あつ<br><br>
+(歌詞)<br><br>
+────────────<br>
+「ソレカラ」【オリジナルMV】 <br><br>
+映像制作／佐伯雄一郎<br>
+映像制作協力／北村みなみ、あべチョス。、que、Utomaru、イアリン、G子、yujureal works<br>
+撮影／谷浦龍一<br>
+撮影アシスタント／野口薫<br>
+アートディレクター／大井佳名子<br>
+デザイナー／國場凛<br>
+サウンドデザイナー／三浦哲生<br>
+プロダクションマネージャー／坂本成美<br>
+プロデューサー／寺山慶<br>
+プロダクション／THINKR<br><br>
+Produced by KAMITSUBAKI STUDIO<br>
+────────────<br>
+Instagram　<nowiki>https://www.instagram.com/virtual_kaf/</nowiki> <br><br>
+Twitter　<nowiki>https://twitter.com/virtual_kaf/</nowiki>
+}}
+</div>
+</div>
+|label3= 演唱會格式
+|text3=
+# 標題附有 {{lj|花譜}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶{{lj|【オリジナルMV 「演唱會名稱」Live Ver.】}};
+# 描述欄内描述該曲 —— 
+## 帶故事性;
+## 演唱會片段來源;
+## 參與補助政策資料<ref group="注">如日本政府"{{lj|コンテンツグローバル需要創出促進事業費補助金}}/促進國際藝術創作需求經費補助金<!--<ref group="注" name="temp_translate" />-->(暫定翻譯)"或其他類似資助計劃</ref>
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+花譜 #64「過去を喰らう」【オリジナルMV「不可解(再)」Live Ver.】
+<hr><br>
+わたしだけのうた。<br>
+みんなとわたしだけのうた。<br>
+仮想世界からあなたへ。<br>
+物語をつむぐよ。<br><br>
+────────────<br>
+「過去を喰らう」<br>
+歌唱／花譜<br>
+作詞・作曲・編曲／カンザキイオリ<br>
+ライブアレンジ / 及川創介<br>
+────────────<br><br>
+2020/3/23花譜1st ONE-MAN LIVE「不可解(再)」@Zepp DiverCityライブ映像より<br>
+映像／竹内道宏<br><br>
+＜Band Member＞<br>
+Keyboard：Sosuke<br>
+Guitar：Shoma<br>
+Bass：Hanamuh<br>
+Drum：Taihei<br><br>
+花譜　#22　「過去を喰らう」 【オリジナルMV】<br>
+<nowiki>https://youtu.be/tMKrECxEpq8</nowiki><br><br>
+=================================<br>
+(CD與GOODS宣傳)
+}}
+</div>
+</div>
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#FFC0CB
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label2= 理芽
+|text2= {{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lj|理芽}} 與歌曲名稱日英兩種語言;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lang|en|【Official Music Video】}};
+# 描述欄内描述該曲帶故事性.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+やさしくしないで - 理芽 / Don't be Kind to Me - RIM (Official Music Video) #21
+<hr><br>
+(CD與GOODS或其他宣傳)<br><br>
+あたしだけの歌。みんなとあたしだけの歌。仮想世界からアナタへ。ストーリーを紡ぐから。<br><br>
+────────────<br>
+理芽「やさしくしないで」<br>
+作詞・作曲・編曲：笹川真生 (@huyuyasumi_)<br>
+Mix & Mastering：南石聡巳 (duskline recording studio) (@duskline_studio)<br><br>
+-Music Video Credit-<br>
+Director, Typography Motion Graphics : Cumuloworks (@cumuloworks)<br>
+Typography Design : Asteroid (@asteroid0000), Yuu Takahashi (@uu_____t)<br>
+Handwritten Animation : Asteroid<br>
+Background CG : Shigu (@shgumo), Cumuloworks<br><br>
+────────────<br>
+Lyric<br>
+}}
+</div>
+</div>
+|label2=演唱會格式
+|text2=
+{{info
+|color=#FF0000
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+# 標題附有 {{lj|理芽}} 與歌曲名稱日英兩種語言;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lang|en|【Official Music Video】}};
+# 描述欄内描述該曲演唱會片段來源.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+食虫植物 (from 1st ONE-MAN LIVE「ニューロマンス」) - 理芽 / Carnivorous Plant (LIVE Ver.) - RIM #19
+<hr><br>
+(CD與GOODS或其他宣傳)<br><br>
+2021.05.15<br>
+理芽 1st ONE-MAN LIVE「ニューロマンス」より「食虫植物」<br><br>
+■理芽<br>
+Twitter　<nowiki>https://twitter.com/RIM_virtual</nowiki><br>
+Instagram　<nowiki>https://www.instagram.com/rim_virtual/</nowiki><br>
+TikTok　<nowiki>https://vt.tiktok.com/UYEfDD/​​​​​​​</nowiki><br>
+piapro　<nowiki>https://piapro.jp/ktrim</nowiki><br>
+bilibili　<nowiki>https://space.bilibili.com/489046950/</nowiki><br>
+weibo　<nowiki>https://www.weibo.com/u/7360042416</nowiki><br><br>
+■KAMITSUBAKI STUDIO<br>
+<nowiki>https://kamitsubaki.jp/​​​​​​​</nowiki>
+}}
+</div>
+</div>
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#FF0000
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label3= 春猿火
+|text3= {{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lj|春猿火}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内 —— 
+## 描述該曲帶故事性;
+## 記載該曲串流或下載鏈接.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+春猿火 #11 「居場所」【オリジナルMV】
+<hr><br>
+(CD與GOODS或其他宣傳)<br>
+——————————————<br>
+皆と私で叫ぶ歌。仮想世界からあなたへ。<br><br>
+春猿火「居場所」<br>
+Streaming / Download:<br>
+<nowiki>https://big-up.style/VjhiWuQuli</nowiki><br>
+<nowiki>https://lnk.to/harusaruhi_myplace</nowiki><br><br>
+---<br><br>
+「居場所」<br>
+歌唱：春猿火<br><br>
+作詞・作曲：たかやん<br>
+編曲：橘井健一<br><br>
+映像：muen<br><br>
+イラスト：穂竹 藤丸<br><br>
+タイポグラフィ：杉山健太郎<br><br>
+Mix：神作<br><br>
+---<br><br><br>
+春猿火(はるさるひ) Twitter　<nowiki>https://twitter.com/harusaruhi</nowiki><br>
+KAMITSUBAKI STUDIO　<nowiki>https://twitter.com/kamitsubaki_jp</nowiki>
+}}
+</div>
+</div>
+|label2= RAP VERSION
+|text2=
+# 標題内注明「RAP VERSION」;
+# 描述欄陳述嘗試Rap本曲.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【歌ってみた】ハグ RAP VERSION covered by 春猿火
+<hr><br>
+歌ってみた。その拾八。<br><br><br>
+ラップさせていただきました。<br>
+「ハグ RAP VERSION」<br>
+オリジナル：「ハグ」<br>
+作詞・作曲・編曲：カンザキイオリ<br>
+https://youtu.be/Veu13ajugPc<br><br><br>
+
+ラップアレンジ：たかやん<br>
+イラスト：穂竹 藤丸<br><br><br>
+Mix：神作<br><br><br>
+春猿火(はるさるひ) Twitter　<nowiki>https://twitter.com/harusaruhi</nowiki><br>
+KAMITSUBAKI STUDIO　<nowiki>https://twitter.com/kamitsubaki_jp</nowiki>
+}}
+</div>
+</div>
+|label3=演唱會格式
+|text3=
+{{info
+|color=#FFEB3B
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+# 標題附有 {{lj|春猿火}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV「演唱會名稱」】Live ver.}};
+# 描述欄内 —— 
+## 描述該曲帶故事性;
+## 演唱會片段來源.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+春猿火 #16 「告げ口」【オリジナルMV「シャーマニズム」Live ver.】
+<hr><br>
+春猿火 1st ONE-MAN LIVE「シャーマニズム」@ヒューリックホール東京より「告げ口」ライブ映像を公開。<br>
+(CD宣傳)<br>
+———<br>
+皆と私で叫ぶ歌。仮想世界からあなたへ。<br>
+——— <br>
+「告げ口」<br><br>
+
+歌唱：春猿火<br>
+作詞：たかやん<br>
+作曲：たかやん・大沼パセリ<br>
+編曲：大沼パセリ<br><br>
+
+映像&タイポモーション：木葉はづく<br>
+タイポグラフィ：杉山健太郎<br>
+———<br>
+＜Band Member＞<br>
+Band Master&Guitar：Tsubasa Nakada<br>
+Bass：Masanori Futami<br>
+Drum：Senri Tai<br>
+Keyboard：Haruki Ayukyo<br>
+Manipulator：Shinsaku<br>
+———<br>
+春猿火 1st ONE-MAN LIVE「シャーマニズム」<br>
+開催日:2021年08月27日(金) <br>
+会場:ヒューリックホール東京 <br>
+開場/開演:17:30/18:30<br><br>
+
+(物販宣傳)<br><br>
+
+<nowiki>#春猿火シャーマニズム</nowiki><br>
+<nowiki>#春猿火 #KAMITSUBAKI_STUDIO</nowiki> <br>
+================<br>
+春猿火(はるさるひ) Twitter　<nowiki>https://twitter.com/harusaruhi</nowiki><br>
+KAMITSUBAKI STUDIO　<nowiki>https://twitter.com/kamitsubaki_jp</nowiki>
+}}
+</div>
+</div>
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#4462a0
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label4=ヰ世界情緒
+|text4= {{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lj|ヰ世界情緒}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内描述該曲帶故事性.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+ヰ世界情緒 #08 「斯く美しき造花」【オリジナルMV】
+<hr><br>
+わたしの大切な歌。仮想世界からあなたへ。<br><br>
+---<br>
+「斯く美しき造花」<br>
+歌唱：ヰ世界情緒<br>
+作詞・作曲・編曲：とうかさ<br><br>
+映像：ぬヴェントス<br>
+タイポグラフィ：本忠学<br><br>
+Mix：＄ＫＩＹＡＫＩ＄ＫＩ<br>
+---<br><br>
+inst：<nowiki>https://piapro.jp/t/It-b</nowiki><br><br>
+ヰ世界情緒(いせかいじょうちょ)Twitter　<nowiki>https://twitter.com/isekaijoucho</nowiki><br>
+KAMITSUBAKI STUDIO　<nowiki>https://twitter.com/kamitsubaki_jp</nowiki><br><br>
+<nowiki>#ヰ世界情緒</nowiki><br>
+<nowiki>#斯く美しき造花</nowiki><br>
+<nowiki>#KAMITSUBAKI_STUDIO</nowiki><br>
+}}
+</div>
+</div>
+|label2=演唱會格式
+|text2=
+{{info
+|color=#000001
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#000001
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label5= 幸祜
+|text5= {{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lj|幸祜}} 名稱;
+# 附有「No.」與三位阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lang|en|【MV】}} 或 {{lang|en|【Official Music Video】}} 字樣;
+# 描述欄内描述該曲帶故事性.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+No.004 幸祜 -koko- 「白昼夢」 【MV】
+<hr><br>
+私の秘密の歌。仮想世界からあなたへ。<br><br>
+「白昼夢」<br>
+歌唱：幸祜<br>
+作詞・作曲・編曲：大沼パセリ (@amehuruyoru49)<br><br>
+VideoDirector：ツツミヒデアキ(@jyuni_s_th)<br>
+typography：ZUMA<br>
+Illustration：SWAV(@_SWAV_)<br><br>
+Mix：＄ＫＩＹＡＫＩ＄ＫＩ<br><br>
+▼幸祜<br>
+<nowiki>https://twitter.com/KOKO__virtual</nowiki><br><br>
+▼KAMITSUBAKI STUDIO<br>
+<nowiki>https://twitter.com/kamitsubaki_jp</nowiki><br><br>
+<nowiki>#幸祜 #KAMITSUBAKI_STUDIO</nowiki>
+}}
+</div>
+</div> 
+|label2=演唱會格式
+|text2={{info
+|color=#6851D7
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#6851D7
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label6=te'resa<ref group="注" name="tempo_gp">此為暫定分類</ref>
+|text6={{tabs/core
+|label1=常見格式
+|text1=
+# 標題附有 {{lang|en|te'resa}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lang|en|【Official Music Video】}} 字樣.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+te'resa #05 IMAGINARY COLORS（Official Music Video）
+<hr><br>
+「IMAGINARY COLORS」<br>
+Written-By, Arranger, Producer, Performer - NTsKi, HIDEYA KOJIMA, te’resa<br>
+Movie director - Hironobu Nagasawa<br>
+Visual designer - Hirokazu Yokohara（khaki）<br>
+CG Producer - Makoto Yura<br>
+Cinematographer - Kengo Funamoto<br>
+Lighting director - Kentaro Hirabayashi<br>
+Hair Make - Megumi Kitagawa(Kurara system)<br>
+Production - THINKR<br>
+Produced by IMAGINARY STUDIO / KAMITSUBAKI STUDIO<br><br>
+ABOUT | te’resa <br>
+ファッションとカルチャーに救われてきた 17歳。『すべての壁は越えられる』をテーマに世界中の孤独なユースに 歌声を届けていく、フォトリアルバーチャルアーティスト。<br>
+────────────<br>
+Instagram　<nowiki>https://www.instagram.com/virtual_teresa</nowiki><br>
+Twitter　<nowiki>https://twitter.com/virtual_teresa/</nowiki><br>
+<nowiki>#MLOTD #teresa #VirtualAGE #IMAGINARY_STUDIO #KAMITSUBAKI_STUDIO</nowiki>
+}}
+</div>
+</div> 
+|label2=演唱會格式
+|text2={{info
+|color=#efdf4a
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#efdf4a
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label7= CIEL<ref group="注" name="tempo_gp"/>
+|text7= {{tabs/core
+|label1=常見格式
+|text1=
+{{info
+|color=#4597bd
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+# 標題附有 {{lang|en|CIEL}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}}.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【オリジナルMV】窓を開けて / CIEL #01
+<hr><br>
+自分だけの歌。<br>
+あなたに届きますように。<br><br>
+劇場アニメ「映画大好きポンポさん」主題歌<br>
+映画大好きポンポさんHP：<nowiki>https://pompo-the-cinephile.com/</nowiki><br><br>
+────────────<br>
+「窓を開けて」<br>
+歌唱／CIEL<br>
+作詞・作曲・編曲：カンザキイオリ<br>
+ギター：伊藤翔磨<br>
+ベース：花村智志<br>
+────────────<br>
+監督・絵コンテ・演出<br>
+平尾隆之 <br><br>
+CIEL アニメーションキャラクターデザイン <br>
+清水慶太 <br><br>
+作画監督 <br>
+矢吹智美 <br><br>
+作画監督協力 <br>
+清水慶太 <br><br>
+原画 <br>
+加藤やすひさ 矢吹智美<br>
+川名久美子 加藤優<br>
+首藤武夫 山下祐<br>
+永田大樹 寺尾憲治<br>
+三浦かおる 平尾隆之<br><br>
+第2原画 <br>
+山田咲 村形まゆ<br><br>
+動画検査 <br>
+刀根川恵 藤井敬子<br><br>
+動画 <br>
+山田咲 <br><br>
+チップチューン <br>
+刀根川恵 藤井敬子<br><br>
+コロリド <br>
+高橋夏海  <br><br>
+コミックス・ウェーブ・フィルム <br>
+望月由香  <br><br>
+RIC  <br>
+色彩設計 <br>
+千葉絵美 <br><br>
+色指定・検査 <br>
+田中千春 <br><br>
+仕上げ<br>
+RIC <br>
+曽我早紀子    棚辺絵里加　<br>
+鳥山優美 <br> <br>
+デファー <br>
+中原あゆみ 高橋聖美<br>
+戸澤有紀 内海太輔<br>
+古園絵実子 丸山香<br>
+佐藤はじめ 加藤友美 <br><br>
+Seven Arcs 仕上げ課<br>
+バード<br><br>
+美術監修 <br>
+平尾隆之 三宅寛治<br><br>
+美術ボード・背景 <br>
+三宅寛治 島崎舞穂<br><br>
+背景 <br>
+新間夏海 中田あかね<br>
+平尾隆之 <br><br>
+背景コーディネイト <br>
+三宅昌和 <br><br>
+撮影監督・撮影 <br>
+星名工 <br><br>
+撮影協力 <br>
+アニモキャラメル <br>
+伊勢戸啓介　 <br><br>
+3DCG <br>
+グラフィニカ　福岡バンブースタジオ <br>
+竹山諒一 浦嶋真衣<br>
+吉武豊紋 平井志弥<br>
+北風光一 <br><br>
+星名工 <br><br>
+特効 <br>
+平尾隆之 島崎舞穂<br>
+三宅寛治 <br><br>
+モーショングラフィックス <br>
+STEREOTYPE <br>
+桂田佳孝 伊藤宏典<br><br>
+2Dデザインワークス <br>
+越阪部ワタル <br><br>
+2Dデザイン協力 <br>
+三宅寛治 島崎舞穂<br><br>
+編集 <br>
+今井剛 <br><br>
+編集助手 <br>
+小西優香 <br><br>
+編集スタジオ <br>
+ルナパルク <br><br>
+文芸 <br>
+武井風太 <br><br>
+翻訳協力<br> 
+田近昌也 <br><br>
+設定制作 <br>
+西川真剛 <br><br>
+制作進行 <br>
+田口慶次郎 <br><br>
+制作プロデューサー <br>
+松尾亮一郎 <br><br>
+アニメーション制作　<br> 
+CLAP <br><br>
+©Shogo Sugitani, Production GoodBook 2017 / KADOKAWA  <br>
+©2020 杉谷庄吾【人間プラモ】／KADOKAWA／ 映画大好きポンポさん製作委員会<br><br>
+=================================<br>
+ストリーミング＆ダウンロードはコチラ<br>
+<nowiki>https://big-up.style/9L1tStee9e</nowiki><br>
+=================================<br>
+TikTok：<nowiki>@ciel_vanillasky_</nowiki><br>
+Twitter：<nowiki>@CIEL_VanillaSky</nowiki><br>
+────────────<br>
+「窓を開けて」off vocal<br>
+<nowiki>https://piapro.jp/t/tIjg</nowiki>
+}}
+</div>
+</div> 
+|label2=Acoustic ver.
+|text2=
+{{info
+|color=#4597bd
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+# 標題附有 {{lang|en|CIEL}} 名稱;
+# 附有井號與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 標題内注明{{lang|en|「Acoustic ver.」}}.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【オリジナルMV】窓を開けて (Acoustic ver.) / CIEL #02
+<hr><br>
+
+自分だけの歌。<br>
+あなたに届きますように。<br>
+────────────<br>
+「窓を開けて (Acoustic ver.)」<br>
+歌唱：CIEL<br>
+作詞・作曲：カンザキイオリ<br>
+編曲：サクマリョウ<br>
+────────────<br>
+監督：UDON (VIXI)<br>
+モーショングラフィックス：葛飾出身 (VIXI)<br>
+=================================<br>
+TikTok：<nowiki>@ciel_vanillasky_</nowiki><br>
+Twitter：<nowiki>@CIEL_VanillaSky</nowiki><br>
+────────────<br>
+■窓を開けて(Original Ver.) はこちら<br>
+&nbsp;<nowiki>https://youtu.be/KD14CW-j2sA</nowiki>}}
+</div>
+</div> 
+|label3=演唱會格式
+|text3=
+{{info
+|color=#4597bd
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#4597bd
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#FF0000
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|bt2= 深脊界市
+|tab2=
+{{tabs/core
+|label1= VALIS
+|text1= {{tabs/core
+|label1= 序章
+|text1=
+# 標題附有 {{lang|en|VALIS}} 名稱;
+# 附有井號與三位阿拉伯數字組合投稿編號;
+# 注明為{{lj|【VALIS合唱】}};
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内附有主要故事<ref group="注">適用於#002至#010</ref>.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【オリジナルMV】VALIS #005「激情インプロビゼーション」【VALIS合唱】
+<hr><br>
+▼Main Story - 004 (Case of VALIS)<br>
+<nowiki>https://note.com/valis/n/naac2b516102b</nowiki><br><br>
+＝＝＝＝＝＝<br><br>
+「激情インプロビゼーション」<br>
+▼Music<br>
+Lyrics, Music, Arrangement：ポリスピカデリー　<nowiki>https://twitter.com/_policep</nowiki><br>
+Mix：山下智輝<br><br>
+▼Movie<br>
+Director：koshi-kun　<nowiki>https://twitter.com/koshi_kun</nowiki><br>
+Typography： そとはね はるこ　<nowiki>https://mobile.twitter.com/hrk_illust</nowiki><br><br>
+▼Illustration<br>
+ねこ助　<nowiki>https://twitter.com/m_oxo</nowiki><br>
+とびはち　<nowiki>https://twitter.com/tonbippo08</nowiki><br>
+でこ　<nowiki>https://twitter.com/Dekooop</nowiki><br>
+名司生　<nowiki>https://twitter.com/720nk</nowiki><br>
+淵゛<nowiki>https://twitter.com/Qooo003</nowiki><br>
+治癒　<nowiki>https://twitter.com/null1040</nowiki><br>
+でん　<nowiki>https://twitter.com/naluse_flow/media</nowiki><br><br>
+off vocal：<nowiki>https://piapro.jp/t/iKD_</nowiki><br><br>
+＝＝＝＝＝＝<br><br>
+Twitter：<nowiki>https://twitter.com/VALIS_Official</nowiki><br>
+note：<nowiki>https://note.com/valis</nowiki><br>
+<nowiki>#VALIS</nowiki>
+}}
+</div>
+</div> 
+|label2= 新章
+|text2=
+# 標題附有 {{lang|en|VALIS}} 名稱;
+# 附有井號與三位阿拉伯數字組合投稿編號;
+# 注明為{{lj|【VALIS合唱】}};
+# MV文字標題附帶 {{lj|【オリジナルMV】}};
+# 描述欄内附有{{lj|VALIS新章}}相關内容.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【オリジナルMV】VALIS #013「天命系メルト」【VALIS合唱】
+<hr><br>
+VALIS新章【深脊界＿幕前】<br><br>
+「この街のことをもっと知らないともったいないよ！冒険に出かけよう！」<br>
+好奇心を抑えられず、恐る恐る街へ繰り出す6人。<br>
+迷える人形たちが出会うのは、どんな感情？<br><br>
+新たなストーリーが始まろうとしているー<br><br>
+▼Music<br>
+Lyrics：ぽん　<nowiki>https://twitter.com/pon_oresama</nowiki><br>
+Music, Arrangement, Mix：安宅秀紀　<nowiki>https://twitter.com/nman_atk</nowiki><br><br>
+▼Movie<br>
+Director：koshi-kun　<nowiki>https://twitter.com/koshi_kun</nowiki><br>
+Typograhy：玉野ハヅキ　<nowiki>https://twitter.com/p_a_r_a_l_l_e_l</nowiki><br><br>
+▼Illustration<br>
+ねこ助　<nowiki>https://twitter.com/m_oxo</nowiki><br>
+治癒　<nowiki>https://twitter.com/null1040</nowiki><br>
+100年　<nowiki>https://twitter.com/letsfinalanswer</nowiki><br>
+吟　<nowiki>https://twitter.com/g_woyoyo</nowiki><br>
+でん　<nowiki>https://twitter.com/naluse_flow</nowiki><br>
+緋原ヨウ　<nowiki>https://twitter.com/hi_yoh0830</nowiki><br>
+カオミン　<nowiki>https://twitter.com/kaoming775</nowiki><br>
+kobuta　<nowiki>https://twitter.com/kobuta0831</nowiki><br>
+一色　<nowiki>https://twitter.com/issikiiiiiii</nowiki><br>
+Utomaru　<nowiki>https://twitter.com/utomaru</nowiki><br><br>
+off vocal：<nowiki>https://piapro.jp/t/zgfS</nowiki><br><br>
+Twitter：<nowiki>https://twitter.com/VALIS_Official</nowiki><br>
+note：<nowiki>https://note.com/valis</nowiki><br>
+#VALIS #合唱
+}}
+</div>
+</div> 
+|label3=演唱會格式 
+|text3=
+{{info
+|color=#fa003f
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#fa003f
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label2= 存流
+|text2= {{tabs/core
+|label1=常見格式
+|text1=
+{{info
+|color=#c450e1
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+# 標題附有 {{lj|存流}} 名稱;
+# 附有「Op.」與阿拉伯數字組合投稿編號;
+# MV文字標題附帶 {{lj|【オリジナルMV】}}.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+【オリジナルMV】存流 Op.3 - さよなら
+<hr><br>
+THE ORIGIN 01<br><br><br>
+「さよなら」<br>
+歌: 存流<br>
+作詞・作曲・編曲: 水野あつ<br><br>
+Direction: Matsuda (TWO WAIDEE/FUETE)<br>
+Illustration: Mai Yoneyama<br>
+3DCG/Motion graphics: Naoya Nishikubo<br>
+Title design/Graphic design: Seita Takahashi (FUETE)/Hirotoshi Ikewaki (FUETE)<br><br><br>
+✤----------------------------------------✤<br><br>
+存流 -ᴀʀᴜ-<br>
+神椿とはもうひとつの世界「深脊界」に、突如現れた次世代型バーチャルシンガー「存流」。<br>
+ピアノのように繊細で、透明感のある歌声。<br>
+複雑な感情を音楽で言語化するために、ふわふわと日々思考している女の子。<br><br>
+Official Twitter: <nowiki>https://twitter.com/ARU_virtual</nowiki><br>
+Character design: 米山舞 (<nowiki>https://twitter.com/yoneyamai)</nowiki><br><br>
+▼SINSEKAI CITY PROJECT<br>
+Twitter: <nowiki>https://twitter.com/SINSEKAI_CITY</nowiki><br>
+YouTube: <nowiki>https://www.youtube.com/channel/UCTqFLDr_7lgEaZunMn8gu1Q</nowiki><br><br><br>
+<nowiki>#存流 #さよなら #水野あつ #深脊界 #SINSEKAI</nowiki>
+}}
+</div>
+</div> 
+|label2=演唱會格式
+|text2=
+{{info
+|color=#c450e1
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#c450e1
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|label3= 明透
+|text3= {{tabs/core
+|label1=常見格式
+|text1=
+{{info
+|color=#f7915b
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+暫未有原創曲, 應知悉格式后儘快補充.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|label2=演唱會格式
+|text2=
+{{info
+|color=#f7915b
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#f7915b
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=#FFC0CB
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+}}
+
+</div>
+
+<!--
+<ref group="注" name="Dis_Song_Name">此處為歌名</ref>
+<ref group="注" name="Dis_Live">若MV為Live版本會附上相應字樣</ref>
+<ref group="注">此位置可能添置其他内容</ref>
+
+常見格式
+演唱會格式
+<nowiki></nowiki>
+-->
+
+
+<!-- 
+{{tabs/core
+|label1=
+|text1=
+|label2=
+|text2=
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+
+
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+}}
+</div>
+</div> 
+
+{{info
+|color=
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+
+{{tabs/core
+|label1=常見格式
+|text1=
+|label2=演唱會格式
+|text2=
+{{info
+|color=
+|text=<center>缺乏樣本參考, 若日後官方以新格式呈現應需復檢此處内容.</center>
+}}
+演唱會尚未舉行, 應於類似樣本出現后儘快補上.
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;border: 1px solid;border-color: grey;padding: 20px;">
+{{lj|
+後補
+}}
+</div>
+</div> 
+|DefaultTab=1
+|LabelPadding=
+|LabelBorderColor=black
+|LabelColor=
+|TextPadding=1em
+|TextBorderColor=black
+|AutoWidth=no
+}}
+-->
+
+
+=== 合唱曲 ===
+
+<div style="display:flex;justify-content:center;">
+<div style="width:620px;">
+{{lj|
+花譜 #69「 まほう feat.理芽 」【オリジナルMV「不可解弐Q1」Live Ver.】
+<hr><br>
+わたしだけのうた。<br>
+みんなとわたしだけのうた。<br>
+仮想世界からあなたへ。<br>
+物語をつむぐよ。<br><br>
+────────────<br>
+「まほう feat.理芽」<br>
+歌唱／花譜・理芽<br>
+作詞・作曲／カンザキイオリ<br>
+編曲／及川創介<br>
+────────────<br><br>
+2020/10/10花譜2nd ONE-MAN LIVE「不可解弐Q1」@PANDORAライブ映像より<br><br>
+＜Band Member＞<br>
+Keyboard：Sosuke<br>
+Guitar：Shoma<br>
+Bass：Hanamuh<br>
+Drum：Taihei<br>
+=================================<br>
+(CD與GOODS宣傳)
+}}
+</div>
+</div>
+
+=== 合作曲 ===
+
+=== 翻唱曲 ===
+
+== 列表鏈接選擇指引 ==
+
+
+
+= 注釋 =
+
+基於MediaWiki限制, 本指引所有注釋將集中於此章節.
+<references group="注" />
+
+</div>
+
