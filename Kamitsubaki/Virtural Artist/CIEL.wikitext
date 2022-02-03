@@ -1,0 +1,140 @@
+{{Vtuber top}}
+{{标题格式化}}
+
+{{人物信息
+|image=Ciela.jpg
+|图片说明=shirone绘制的头像
+|本名=CIEL
+|别号=
+|发色=蓝紫
+|瞳色=蓝紫
+|语言=日语
+|身高=
+|体重=
+|三围=
+|年龄=
+|生日=
+|星座=
+|血型=
+|萌点=
+|出身地区=
+|活动范围=
+|个人状态=
+|相关人士=[[花谱]]、[[shirone]]
+|活跃年代 = 2021年－至今
+|相关企划 = [[File:KAMITSUBAKI STUDIO logo.jpg|center|40px|link=kamitsubaki]]
+
+|YouTube = [https://www.youtube.com/channel/UCRvkXFtB70ZADg4L6A8L3wQ {{lj|CIEL}}]
+|twitter = [https://twitter.com/CIEL_VanillaSky @CIEL_VanillaSky]
+|tiktok = [https://www.tiktok.com/@ciel_vanillasky?lang=ja-JP {{lj|ciel_vanillasky}}]
+}}
+== 简介 ==
+穿梭于虚拟与现实之间的越境型虚拟女歌手。在神椿2019年的选拔中脱颖而出，经过一年的准备{{黑幕|，据说是因为被点名唱[[酷爱电影的庞波小姐|电影]]主题曲}}而出道。头发的蓝色是天空的颜色。
+
+名字来源于法语，意味“天空”<sup>[https://space.bilibili.com/38834734 &#91;科普来源：bilibili@凍るサマ&#93;] </sup>。
+
+== 人设相关 ==
+[[File:Coxo ii 1388491982750633985 p0.jpg|thumb|left|shirone老师绘制的CIEL全身像 <ref>https://twitter.com/coxo_ii/status/1388491982750633985</ref>]][[File:D9d6324fbf0cf458a8a0e7a2cd29641b.jpg|thumb|center|{{lj|映画大好きポンポさん}}海报中的CIEL]]
+
+形像由[[shirone]]设计。主体为略肃穆，黑白灰为主的洋装，带有披肩，胸口有镶嵌蓝色玉石的胸针。有淡蓝色美甲。脚踝上缠绕着形似蝶翼的金色饰品，鞋跟也有相同主题的装饰。
+
+== 经历 ==
+==== 2021 ==== 
+* 5月1日，初次上传[https://youtu.be/8H12RYQEYuw 介绍视频]。在同日的神椿直播节目花与椿与你中发布，将为电影《[[酷爱电影的庞波小姐]]》演唱主题曲。
+
+* 5月8日，发布第一首翻唱曲《[https://www.youtube.com/watch?v=4YBjrpWUQSs {{lj|明けない夜のリリィ}}]》。
+
+* 5月16日，发布第二首翻唱曲《[https://youtu.be/Wpu1LHyxS6w {{lj|一角獣}}]》。
+
+* 5月21日，发布第三首翻唱曲《[https://www.youtube.com/watch?v=Shc-_Wxfaxk {{lj|勿忘}}]》。MV 质感近似真人拍摄，为她增添了一丝新的神秘感。
+
+== 作品概覽 ==
+=== 音樂作品 ===
+為方便讀者瞭解瞭解  {{lang|en|CIEL}} 演唱過之歌曲,就此作出分類.
+==== 原創曲 ====
+<!--logo代碼-->
+<!--
+投稿序號 & 投稿順序以 幸祜Youtube 計算, 歌曲不在 幸祜Youtube 上載,則填N/A
+ 
+鏈接編寫方法
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
+格式 : | 序號 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
+-->
+此列表包含所有  {{lang|en|CIEL}} 演唱之歌曲. 部分曲目 沒有任何MV 或 沒有被任何Album收錄.<br>
+註：試唱不計入投稿序號。不收錄於此列表.
+
+{| class="<!--mw-collapsible mw-collapsed--> wikitable <!--sortable-->" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿序號 !! 投稿顺序  !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
+|-
+| #01 || ※1 || 2021年06月04日 || [[窓を開けて|{{lj|「窓を開けて」}}]] || [[カンザキイオリ|{{lj|カンザキイオリ}}]] || [[カンザキイオリ|{{lj|カンザキイオリ}}]]  || [[カンザキイオリ|{{lj|カンザキイオリ}}]]  || {{plain link | url= https://www.youtube.com/watch?v=KD14CW-j2sA [[File:YouTube Logo icon.png|20px|link=]]}} ||{{plain link | url= https://www.bilibili.com/video/BV1X64y1k7fU [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #03 || ※2 || 2021年09月15日 || [[眼裏の懐疑|{{lj|「眼裏の懐疑」}}]] || [[カンザキイオリ|{{lj|香椎モイミ}}]] || [[香椎モイミ|{{lj|香椎モイミ}}]]  || [[香椎モイミ|{{lj|香椎モイミ}}]]  || {{plain link | url= https://www.youtube.com/watch?v=eDLFNttpXgU [[File:YouTube Logo icon.png|20px|link=]]}} ||{{plain link | url= https://b23.tv/av293098351 [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #04 || ※3 || 2021年10月20日 || {{lj|「[[君の望み、君の願い]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{plain link | url= https://www.youtube.com/watch?v=wEbzZjEG-Vw [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://b23.tv/av421226375 [[File:Bilibilitv-logo.png|20px|link=]]}}
+|}
+<!--
+==== 合唱曲 ====
+
+鏈接編寫方法
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
+格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
+
+此列表記載所有  {{lang|en|CIEL}} 與神椿其他成員之合唱曲.
+
+{| class="wikitable" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
+|-
+|}
+
+==== 合作曲 ====
+
+鏈接編寫方法
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
+格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
+
+此列表記載  {{lang|en|CIEL}} 和其他藝人演唱之合作歌曲.
+
+{| class="wikitable" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !! YouTube !! Bilibili
+|-
+| 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
+|}
+
+=== 詩詞 ===
+
+鏈接編寫方法
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
+格式 : | 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || twitter
+(預留所有投稿欄位, 若日後正式上傳可添加資料 [敬請不要記載 非官方上傳/偷錄 鏈接.])
+
+此列表記載  {{lang|en|CIEL}} 所創作的詩詞.
+
+{| class="wikitable" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞  !! YouTube !! Bilibili
+|-
+| 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || youtube || bilibili
+|}
+-->
+
+== 其他 ==
+
+{{神椿}}
+{{虚拟UP主}}
+
+== 注释 ==
+<references group="注"/>
+== 參考資料 ==
+<references />
+
+== 外部链接 ==
+* [https://www.youtube.com/channel/UCRvkXFtB70ZADg4L6A8L3wQ YouTube]
+* [https://twitter.com/CIEL_VanillaSky Twitter]
+* {{ja}}[https://www.tiktok.com/@ciel_vanillasky?lang=ja-JP TikTok]

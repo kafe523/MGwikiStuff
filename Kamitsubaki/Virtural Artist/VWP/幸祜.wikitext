@@ -225,8 +225,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|li
 |副標題字體顏色   = #000000
 }}
 
-'''演唱會歌單'''：<span class="mw-customtoggle-Koko_SCL" style="cursor:pointer">[<span style="color:#0645ad;">展開/摺疊</span>]</span>
-<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Koko_SCL">
+'''演唱會歌單'''：<span class="mw-customtoggle-Koko_PL" style="cursor:pointer">[<span style="color:#0645ad;">展開/摺疊</span>]</span>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-Koko_PL">
 {{lj|幸祜 1st ONE-MAN LIVE "PLAYER" 歌單:<br><br>
 第一部<br><br>
 a. 詠唱 <br><br>

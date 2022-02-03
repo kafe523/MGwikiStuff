@@ -8,7 +8,7 @@
 |图片信息 =
 |tabs =
 |本名 = {{ruby|春猿火|はるさるひ|ja}}
-|年龄 = 20
+|年龄 = 21
 |发色={{Cate|[[挑染]]|挑染}}
 |瞳色={{Cate|[[金瞳]]|金瞳}}
 |語言=日語
@@ -46,7 +46,7 @@
 == 人設相關 ==
 人設由插畫師[[穂竹藤丸]]擔當。
 
-黑色及腰长髮 部分地方挑染红色以及蓝色，黄色瞳孔 戴著鍊子與黃色麻花結飾的耳機。
+黑色及腰长髮 部分地方挑染红色以及蓝色，黄色眼瞳 戴著鍊子與黃色麻花結飾的耳機。
 
 上身著白色无袖背心紅色露指手套与蓝色露肩外套，下身穿著黑色短裤和高筒马丁靴。
 
@@ -115,15 +115,12 @@
 為方便讀者瞭解瞭解{{lj|春猿火}}演唱過之歌曲,就此作出分類.
 ==== 原創曲 ====
 <!--logo代碼-->
-{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}
-{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]] }}
-{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
 <!--
 投稿序號 & 投稿順序以 春猿火Youtube 計算, 歌曲不在 春猿火Youtube 上載,則填N/A
  
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表包含所有{{lj|春猿火}}演唱之歌曲. 部分曲目 沒有任何MV 或 沒有被任何Album收錄.<br>
@@ -133,21 +130,21 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| #03 || ※1 || 2019年12月25日 || {{lj|「[[逆転]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[やいり]]}} || {{plain link | url=https://www.youtube.com/watch?v=yaEIRyLkR_M {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1eJ411W7RH {{#var: bili-logo}}}}
+| #03 || ※1 || 2019年12月25日 || {{lj|「[[逆転]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[やいり]]}} || {{plain link | url=https://www.youtube.com/watch?v=yaEIRyLkR_M [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1eJ411W7RH [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #04 || ※2 || 2020年03月06日 || {{lj|「[[Lift Up]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Masanori Yashiro]]}} || {{plain link | url=https://www.youtube.com/watch?v=hcm1LGOxJbc {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1ME411s7nK {{#var: bili-logo}}}}
+| #04 || ※2 || 2020年03月06日 || {{lj|「[[Lift Up]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Masanori Yashiro]]}} || {{plain link | url=https://www.youtube.com/watch?v=hcm1LGOxJbc [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1ME411s7nK [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #05 || ※3 || 2020年05月29日 || {{lj|「[[猛進]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Misumi]]}} || {{plain link | url=https://www.youtube.com/watch?v=KIGXxey4WnI {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1gK411s7yG {{#var: bili-logo}}}}
+| #05 || ※3 || 2020年05月29日 || {{lj|「[[猛進]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Misumi]]}} || {{plain link | url=https://www.youtube.com/watch?v=KIGXxey4WnI [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1gK411s7yG [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #06 || ※4 || 2020年07月30日 || {{lj|「[[オオゴト]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Misumi]]}} || {{plain link | url=https://www.youtube.com/watch?v=c9P_rz0h9bI {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1S54y1S7ch {{#var: bili-logo}}}}
+| #06 || ※4 || 2020年07月30日 || {{lj|「[[オオゴト]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lang|en|[[Misumi]]}} || {{plain link | url=https://www.youtube.com/watch?v=c9P_rz0h9bI [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1S54y1S7ch [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #07 || ※5 || 2020年09月28日 || {{lj|「[[告げ口]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]・[[大沼パセリ]]}} || {{lj|[[たかやん]]}} || {{plain link | url=https://www.youtube.com/watch?v=J74fzBbd6rE {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Ta411A7Yx {{#var: bili-logo}}}}
+| #07 || ※5 || 2020年09月28日 || {{lj|「[[告げ口]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]・[[大沼パセリ]]}} || {{lj|[[たかやん]]}} || {{plain link | url=https://www.youtube.com/watch?v=J74fzBbd6rE [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1Ta411A7Yx [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #09 || ※6 ||2020年12月09日 || {{lj|「[[台風の眼]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[やいり]]}} || {{plain link | url=https://www.youtube.com/watch?v=ZZldiI-3a7U {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1dX4y1M7XR {{#var: bili-logo}}}}
+| #09 || ※6 ||2020年12月09日 || {{lj|「[[台風の眼]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[やいり]]}} || {{plain link | url=https://www.youtube.com/watch?v=ZZldiI-3a7U [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1dX4y1M7XR [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #11 || ※7 || 2021年01月27日 || {{lj|「[[居場所]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[橘井健一]]}} || {{plain link | url=https://www.youtube.com/watch?v=wpLOq_728dk {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV11r4y1N7tC {{#var: bili-logo}}}}
+| #11 || ※7 || 2021年01月27日 || {{lj|「[[居場所]]」}} || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[橘井健一]]}} || {{plain link | url=https://www.youtube.com/watch?v=wpLOq_728dk [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV11r4y1N7tC [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| N/A || N/A || 2021年10月20日 || {{lang|en|「[[Gunpowder]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[一二三]]}} || {{lj|[[一二三]]}} || {{lj|[[一二三]]}} || 後補 || 後補
+| N/A || N/A || 2021年10月20日 || {{lang|en|「[[Gunpowder]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[一二三(P主)|一二三]]}} || {{lj|[[一二三(P主)|一二三]]}} || {{lj|[[一二三(P主)|一二三]]}} || 後補 || 後補
 |-
 | N/A || N/A || 2021年10月20日 || {{lang|en|「[[Pleiades]]」}}<ref group="注" name="Awake_Album"/> || {{lj|[[たかやん]]}} || {{lj|[[たかやん]]}} || {{lj|[[大沼パセリ]]}} || 後補 || 後補
 |}
@@ -155,8 +152,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 ==== 合唱曲 ====
 <!--
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表記載所有{{lj|春猿火}}與神椿其他成員之合唱曲.
@@ -165,7 +162,7 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| N/A || N/A || 2021年01月03日 || {{lj|[[花譜]]}} × {{lj|春猿火}}{{lj|「[[命に嫌われている。]]」【「不可解弐Q1」Live Ver.】}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=GMK3nurbnWc {{#var: yt-logo}}}} || 後補
+| N/A || N/A || 2021年01月03日 || {{lj|[[花譜]]}} × {{lj|春猿火}}{{lj|「[[命に嫌われている。]]」【「不可解弐Q1」Live Ver.】}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=GMK3nurbnWc [[File:YouTube Logo icon.png|20px|link=]]}} || 後補
 |-
 | N/A || N/A || 2021年10月20日 || {{lj|[[ヰ世界情緒]]}} × {{lj|春猿火}} {{lj|「[[愛厭奇縁]]」}}<ref group="注" name="Awake_Album"/>  || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || 後補 || 後補
 |}
@@ -173,8 +170,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 ==== 合作曲 ====
 <!-- 
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表記載{{lj|春猿火}}和其他藝人演唱之合作歌曲.
@@ -183,17 +180,17 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !! YouTube !! Bilibili
 |-
-| #13 || ※9 || 2021年06月23日 || {{lj|「[[覚醒]]」feat.[[さなり]]}} || {{lj|[[たかやん]]・[[さなり]]}} || {{lj|[[たかやん]]・[[さなり]]}} || {{lj|[[大沼パセリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=-weEAWMKRdQ {{#var: yt-logo}}}} || 後補
+| #13 || ※9 || 2021年06月23日 || {{lj|「[[覚醒]]」feat.[[さなり]]}} || {{lj|[[たかやん]]・[[さなり]]}} || {{lj|[[たかやん]]・[[さなり]]}} || {{lj|[[大沼パセリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=-weEAWMKRdQ [[File:YouTube Logo icon.png|20px|link=]]}} || 後補
 |}
 
 === 詩詞 ===
 <!--logo代碼-->
 {{#vardefine: tweet-logo | [[File:Twitte_Logo.png|20px|link=]]}}
-{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
+
 <!-- 
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || youtube || bilibili
 (預留所有投稿欄位, 若日後正式上傳可添加資料 [敬請不要記載 非官方上傳/偷錄 鏈接.])
 -->
@@ -218,6 +215,12 @@ Twitter : {{plain link | url= Twitter鏈接 {{#var: tweet-logo}}}}
 | #04 || ※4 || 2020年10月14日 || {{lj|「[[ラブレター]]」}} || Piper Beats || [[たかやん]]・春猿火 || {{plain link | url=https://twitter.com/harusaruhi/status/1316322198240456704 {{#var: tweet-logo}}}}
 |-
 | #05 || ※5 || 2020年12月17日 || {{lj|「[[iのアンサー]]」}} || pink || [[たかやん]]・春猿火 || {{plain link | url=https://twitter.com/harusaruhi/status/1339526979683377152 {{#var: tweet-logo}}}}
+|}
+==== Tie-Up ====
+{| class="wikitable"
+! 乐曲 !! Tie-up !! 时期
+|-
+| Oarana || 动画《[[地球外少年少女]]》主题歌 || 2022年
 |}
 
 ==里程碑==

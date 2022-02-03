@@ -589,21 +589,76 @@
 |标题     = {{lj|人生はコメディ}}
 |image    = https://nicovideo.cdn.nimg.jp/thumbnails/36742430/36742430.24390656.M}}
 
-（剩余待补全）
+{{Producer_Song
+|nnd_id   = sm36742565
+|yt_id    = ToziEb7IeI4
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = muen
+|画师     = {{lj|杉山健太郎}}
+|演唱者   = {{lj|鏡音レン}}
+|歌曲描述 =
+|投稿日期 = 2020年04月25日
+|条目     = 许愿之歌
+|标题     = {{lj|願い歌}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/36742565/36742565.46334694.M}}
 
-<!--{{Producer_Song
-|nnd_id   = 
-|yt_id    = 
-|作曲     = 
-|填词     = 
-|画师     = 
-|演唱者   = {{lj|}}
-|歌曲描述 = 
-|投稿日期 = 年月日
-|条目     = 
-|标题     = {{lj|}}
-|image    = }}
--->
+{{Producer_Song
+|nnd_id   = sm36910633
+|yt_id    = Iat7bXYsKFU
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = muen
+|画师     = {{lj|杉山健太郎}}
+|演唱者   = {{lj|鏡音レン}}
+|歌曲描述 =
+|投稿日期 = 2020年05月23日
+|条目     = Zero(黑柿子)
+|标题     = {{lj|ゼロ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/36910633/36910633.78361703.M}}
+
+{{Producer_Song
+|nnd_id   = sm37063601
+|yt_id    = kwme2MfimXY
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = muen
+|画师     = {{lj|杉山健太郎}}
+|演唱者   = {{lj|初音ミク}}
+|歌曲描述 =
+|投稿日期 = 2020年06月20日
+|条目     = 炸弹(黑柿子)
+|标题     = {{lj|爆弾}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/37063601/37063601.77879704.M}}
+
+{{Producer_Song
+|nnd_id   = sm37245164
+|yt_id    = kE2-Ra6yg2Y
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 = muen
+|画师     = {{lj|杉山健太郎}}
+|演唱者   = {{lj|鏡音レン}}
+|歌曲描述 =
+|投稿日期 = 2020年07月25日
+|条目     = 心里总是有点寂寞
+|标题     = {{lj|#心がどっか寂しいんだ}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/37245164/37245164.96415720.M}}
+
+{{Producer_Song
+|nnd_id   = sm37539683
+|yt_id    = 2hz0lhAs0Kg
+|作曲     = {{lj|カンザキイオリ}}
+|填词     = {{lj|カンザキイオリ}}
+|视频制作 =
+|画师     = orie
+|演唱者   = {{lj|鏡音リン、鏡音レン}}
+|歌曲描述 =
+|投稿日期 = 2020年09月18日
+|条目     = 那个夏日已然饱和
+|标题     = {{lj|あの夏が飽和する。2020ver.}}
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/37539683/37539683.40280394.M}}
+
 }}
 
 ==== 非投稿曲 ====
@@ -947,7 +1002,7 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 | longnote_column = yes
 | singer_credits = yes
 | title1   = '''{{lj|[[グッバイヒューマン]]}}'''
-| longnote1={{Citation needed|Instrumental|text=需要驗證}}
+| longnote1= Instrumental
 | title2   = '''{{lj|[[あの夏が飽和する]]}}'''
 | singer2  = {{lj|[[鏡音レン]]・[[鏡音リン]]}}
 | title3   = '''{{lj|[[君の神様になりたい]]}}'''
@@ -961,9 +1016,9 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 | title7   = '''{{lj|[[消しゴム]]}}'''
 | singer7  = {{lj|[[初音ミク]]}}
 | title8   = '''{{lj|[[再来]]}}'''
-| longnote8={{Citation needed|Instrumental|text=需要驗證}}
+| longnote8= Instrumental
 | title9   = '''{{lj|[[命に嫌われている]]}}'''
-| single9  = {{lj|[[初音ミク]]}}
+| singer9  = {{lj|[[初音ミク]]}}
 | title10  = '''{{lj|[[ゼロ]]}}'''
 | singer10 = {{lj|[[鏡音レン]]}}
 | title11  = '''{{lj|[[閑話休題]]}}'''
@@ -975,10 +1030,11 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 | title14  = '''{{lj|[[結局死ぬってなんなんだ]]}}'''
 | singer14 = {{lj|[[鏡音レン]]}}
 | title15  = '''{{lj|[[アンコール]]}}'''
-| longnote15= {{Citation needed|Instrumental|text=需要驗證}}
+| longnote15= Instrumental
 }}
 }}
 {{clear}}
+
 === {{anchor|「発狂前夜」}}{{lj|EP 「発狂前夜」}} ===
 {{lj|発狂前夜}} 為 {{lj|カンザキイオリ}} 第四張專輯, 附帶於2018年11月18日 THE VOC@LOID M@STER41 會場限定版「結局死ぬってなんなんだ」合計中.
 {{toggle
@@ -1140,6 +1196,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 }}
 
 }}
+
+{{-}}
 
 === {{anchor|不器用な男_Album}} {{lj|2nd Album 「不器用な男」}} ===
 {{lj|「不器用な男」}} 為 {{lj|カンザキイオリ}} 個人第四張大型專輯,也是其第六張個人專輯.於2021年08月11日發售.

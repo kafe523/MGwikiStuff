@@ -31,7 +31,7 @@
 |bilibili = [https://space.bilibili.com/488978908/ {{lj|异世界情绪}}]
 |weibo = [https://www.weibo.com/u/7360048739 {{lj|异世界情绪}}]
 |-横栏2 = 代表作品 
-|_文本框2 = [https://www.youtube.com/watch?v=hcm1LGOxJbc {{lj|ヰ世界情緒 #03 「物語りのワルツ」【オリジナルMV】}}]
+|_文本框2 = [https://www.youtube.com/watch?v=Kz424oVx9_o {{lj|ヰ世界情緒 #03 「物語りのワルツ」【オリジナルMV】}}]
 }}
 
 <span style="font-size:1.5em; font-weight:800;">{{cquote|<center>{{color|#000001|{{lj|ヰ世界情緒といいます。歌い、創ります。}}}}</center>}}</span>
@@ -72,7 +72,7 @@
 
 2021年03月13日，于2nd live「不可解弍·Q2」上，与V.W.P的另外四人一同公開了新形態——「魔女特殊歌唱用形态·花魁鳥」。
 
-形态大体与「Anemone I」相似，戴上了经典魔女同款汉宁帽，帽上同有花朵装饰，衣服上多了一些锈红色条纹。
+形态大体与「Anemone I」相似，戴上了经典魔女同款汉宁帽，帽上同有花朵装饰，衣服上多了一些锈红色条纹{{黑幕|胡萝卜}}。
 
 {{黑幕|戴上帽子后比理芽高了一点}}
 
@@ -164,20 +164,37 @@
 
 *02月13日，神椿特別番組「花達と椿と君。特別編2-生放送-」中作為來賓以聲音登場。
 
+*03月13日，与V.W.P.以花魁鸟的服装出演花谱演唱会。
+
+*06月11日，参与花谱演唱会。
+
+*06月18日，与[[花谱]]参与「[[深淵]]」的演唱。
+
+*07月07日，YouTube订阅12w，并收到了YouTube的银盾勋章{{黑幕|然后拍照炫耀}}。
+
+*07月09日，V.W.P.5人参与Bilibili Macro Link VR 2021活动{{黑幕|，<del>staff</del>转发表示很喜欢中国观测者的花篮}}。同时5人也参与了BREAKOUT祭融合表演。
+
+*09月07日，宣布个人演唱会开办决定。
+
+*10月07日，参与マブラヴオルタネイティヴ动画的配音与演唱。
+
+*10月23日，演唱会圆满举办。YouTube与Bilibili限时免费放送{{黑幕|谢谢叔叔|演唱会限定}}。同日宣布专辑制作与「CeVIO AI·{{ruby|星界|sekai}}」制作决定。
+
+*11月18日，与游戏「机动战姬」联动。
+
+*12月09号，举行了本人二周年纪念直播，直播后发布了「雾霭相随」的mv。{{黑幕|b站发布后5分钟左右被叔叔删稿|rnm叔叔}}
+
 == 作品概覽 ==
 === 音樂作品 ===
 為方便讀者瞭解瞭解 {{lj|ヰ世界情緒}} 演唱過之歌曲,就此作出分類.
 ==== 原創曲 ====
 <!--logo代碼-->
-{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}
-{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]] }}
-{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
 <!--
 投稿序號 & 投稿順序以 ヰ世界情緒Youtube 計算, 歌曲不在 ヰ世界情緒Youtube 上載,則填N/A
  
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表包含所有 {{lj|ヰ世界情緒}} 演唱之歌曲. 部分曲目 沒有任何MV 或 沒有被任何Album收錄.<br>
@@ -187,32 +204,40 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| #3 || ※1 || 2020年02月23日 || {{lj|「[[物語りのワルツ]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} ||{{plain link | url= https://www.youtube.com/watch?v=Kz424oVx9_o {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1aj411f7vz {{#var: bili-logo}}}}
+| #3 || ※1 || 2020年02月23日 || {{lj|「[[物語りのワルツ]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} ||{{plain link | url= https://www.youtube.com/watch?v=Kz424oVx9_o [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1aj411f7vz [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #4 || ※2 || 2020年04月27日 || {{lj|「[[ジオラマドラマ]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{plain link | url= https://www.youtube.com/watch?v=ftCqxjpxdc8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1E64y1M7aJ {{#var: bili-logo}}}}
+| #4 || ※2 || 2020年04月27日 || {{lj|「[[ジオラマドラマ]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{plain link | url= https://www.youtube.com/watch?v=ftCqxjpxdc8 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1E64y1M7aJ [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #5 || ※3 || 2020年07月16日 || {{lj|「[[ハイドレンジア]]」}} ||{{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{plain link | url= https://youtu.be/lqTS5eaEhbI {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av243752757 {{#var: bili-logo}}}}
+| #5 || ※3 || 2020年07月16日 || {{lj|「[[ハイドレンジア]]」}} ||{{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{plain link | url= https://youtu.be/lqTS5eaEhbI [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av243752757 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #6 || ※4 || 2020年07月30日 || {{lj|「[[いろはに咲きて]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{plain link | url= https://youtu.be/EiPZenIQZa0 {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av839098911 {{#var: bili-logo}}}}
+| #6 || ※4 || 2020年07月30日 || {{lj|「[[いろはに咲きて]]」}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{lang|en|[[samayuzame]]}} || {{plain link | url= https://youtu.be/EiPZenIQZa0 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av839098911 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #7 || ※5 || 2020年09月26日 || {{lj|「[[とめどなき白情]]」}} || {{lj|[[はるまきごはん]]}} || {{lj|[[はるまきごはん]]}} || {{lj|[[はるまきごはん]]}} || {{plain link | url= https://youtu.be/e0ZfB1o-Msw {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/BV1Gz4y1o7wu {{#var: bili-logo}}}}
+| #7 || ※5 || 2020年09月26日 || {{lj|「[[とめどなき白情]]」}} || {{lj|[[はるまきごはん]]}} || {{lj|[[はるまきごはん]]}} || {{lj|[[はるまきごはん]]}} || {{plain link | url= https://youtu.be/e0ZfB1o-Msw [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/BV1Gz4y1o7wu [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #8 || ※6 || 2020年11月27日 || {{lj|「[[斯く美しき造花]]」}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{plain link | url= https://youtu.be/9dK3lA-GEc0 {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av800455616 {{#var: bili-logo}}}}
+| #8 || ※6 || 2020年11月27日 || {{lj|「[[斯く美しき造花]]」}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{lj|[[とうかさ]]}} || {{plain link | url= https://youtu.be/9dK3lA-GEc0 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av800455616 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #10 || ※7 || 2020年12月26日 || {{lj|「[[シリウスの心臓]]」}} || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{plain link | url= https://youtu.be/UKZt1vq8bKI {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av245856254 {{#var: bili-logo}}}}
+| #10 || ※7 || 2020年12月26日 || {{lj|「[[シリウスの心臓]]」}} || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{lj|[[傘村トータ]]}} || {{plain link | url= https://youtu.be/UKZt1vq8bKI [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av245856254 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #14 || ※9 || 2021年07月12日 || {{lj|「[[ヰ世界の宝石譚]]」}} || {{lang|en|[[sasakure.UK]]}} || {{lang|en|[[sasakure.UK]]}} || {{lang|en|[[sasakure.UK]]}} || {{plain link | url= https://youtu.be/hcqXjcO791s{{#var:yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av546639976 {{#var: bili-logo}}}}
+| #14 || ※9 || 2021年07月12日 || {{lj|「[[ヰ世界の宝石譚]]」}} || {{lang|en|[[sasakure.UK]]}} || {{lang|en|[[sasakure.UK]]}} || {{lang|en|[[sasakure.UK]]}} || {{plain link | url= https://youtu.be/hcqXjcO791s[[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av546639976 [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #15 || ※10 || 2021年10月13日 || {{lj|「[[ディメンション]]」}} || {{lang|en|[[柊マグネタイト]]}} || {{lang|en|[[柊マグネタイト]]}} || {{lang|en|[[柊マグネタイト]]}} || {{plain link | url= https://youtu.be/x1Tyg2uvVM[[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av633503357  [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #18 || ※11 || 2021年10月23日 || {{lj|「[[誰もいない絵で]]」}} || {{lang|en|[[rionos]]}} || {{lang|en|[[rionos]]}} || {{lang|en|[[rionos]]}} || {{plain link | url= https://youtu.be/LgR34fFacVw[[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av208863468  [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #24 || ※12 || 2021年12月09日 || {{lj|「[[霞がついてくる]]」}} || {{lang|en|[[はるまきごはん]]}} || {{lang|en|[[はるまきごはん]]}} || {{lang|en|[[はるまきごはん]]}} || {{plain link | url= https://youtu.be/EXicNyq5fG4[[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av549651069 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
 | N/A || N/A || 2021年10月20日 || {{lj|「[[何億光年の孤独]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || 後補 || 後補
 |-
 | N/A || N/A || 2021年10月20日 || {{lj|「[[この夢に弔いを]]」}}<ref group="注" name="Awake_Album"/> || {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || 後補 || 後補
+|-
+| N/A || N/A || 2021年12月08日 || {{lj|「[[生きていく光は]]」}}<ref group="注" name="Memories_Album"> 本曲收录于 [[Memories(专辑)|Memories KAMITSUBAKI CITY UNDER CONSTRUCTION THEME SONGS COLLECTION]]</ref>|| {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || {{lj|[[rionos]]}} || 後補 || 後補
 |}
 
 ==== 合唱曲 ====
 <!--
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表記載所有 {{lj|ヰ世界情緒}} 與神椿其他成員之合唱曲.
@@ -221,18 +246,22 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| N/A || N/A || 2020年12月30日 || {{lj|「[[雛鳥]]」with ヰ世界情緒 【「不可解弐Q1」Live Ver.】}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[ンザキイオリ]]}} || {{lj|[[ンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=9BPNC-SkOd8 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/av800848002 {{#var: bili-logo}}}}
+| N/A || N/A || 2020年09月24日 || {{lj|「[[透明な呼吸|透明的呼吸]]」somunia × ヰ世界情緒}} || {{lj|[[samayuzame]]}} || {{lj|[[samayuzame]]}} || {{lj|[[samayuzame]]}} || 待补 || {{plain link | url=https://www.bilibili.com/video/BV1E64y1M7aJ [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #13 || ※8 || 2021年06月18日 || {{lj|「[[深淵]]」feat.[[花譜]]}} || {{lj|[[香椎モイミ]]}}|| {{lj|[[香椎モイミ]]}} || {{lj|[[香椎モイミ]]}} || {{plain link | url= https://youtu.be/kE9YpkWwHIo {{#var: yt-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av376208729 {{#var: bili-logo}}}}
+| N/A || N/A || 2020年12月30日 || {{lj|「[[雛鳥]]」with ヰ世界情緒 【「不可解弐Q1」Live Ver.】}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{lj|[[カンザキイオリ]]}} || {{plain link | url= https://www.youtube.com/watch?v=9BPNC-SkOd8 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/av800848002 [[File:Bilibilitv-logo.png|20px|link=]]}}
+|-
+| #13 || ※8 || 2021年06月18日 || {{lj|「[[深淵]]」feat.[[花譜]]}} || {{lj|[[香椎モイミ]]}}|| {{lj|[[香椎モイミ]]}} || {{lj|[[香椎モイミ]]}} || {{plain link | url= https://youtu.be/kE9YpkWwHIo [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url= https://www.bilibili.com/video/av376208729 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
 | N/A || N/A || 2021年10月20日 || {{lj|[[春猿火]]}} × {{lj|ヰ世界情緒}} {{lj|「[[愛厭奇縁]]」}}<ref group="注" name="Awake_Album"/>  || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || {{lj|[[煮ル果実]]}} || 後補 || 後補
+|-
+| N/A || N/A || 2021年12月08日 || {{lj|[[花譜]]}} × {{lj|ヰ世界情緒}} {{lj|「[[あわく心模様]]」}}<ref group="注" name="Memories_Album"/>  || {{lj|[[MIMI]]}} || {{lj|[[MIMI]]}} || {{lj|[[MIMI]]}} || 後補 || 後補
 |}
 <!--
 ==== 合作曲 ====
 
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 
 此列表記載 {{lj|ヰ世界情緒}} 和其他藝人演唱之合作歌曲.
@@ -248,11 +277,11 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 === 詩詞 ===
 <!--logo代碼-->
 {{#vardefine: tweet-logo | [[File:Twitte_Logo.png|20px|link=]]}}
-{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
+
 <!--
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 順序 || 時間 || 系列 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || twitter
 (預留所有投稿欄位, 若日後正式上傳可添加資料 [敬請不要記載 非官方上傳/偷錄 鏈接.])-->
 
@@ -268,17 +297,17 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 | Null || 2020年04月17日 || Null || {{lj|繭。}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1251095587795070976 {{#var: tweet-logo}}}} || N/A
 |-
-| #00 || 2020年05月29日 || {{lj|ヰ世界創世記}} || {{lj|ヰ世界創世記}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1266349831787655168 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av628256602 {{#var: bili-logo}}}}
+| #00 || 2020年05月29日 || {{lj|ヰ世界創世記}} || {{lj|ヰ世界創世記}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1266349831787655168 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av628256602 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #01 || 2020年06月06日 || {{lj|ヰ世界創世記}} || {{lj|「回り道」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1269207463795908609 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av755757665 {{#var: bili-logo}}}}
+| #01 || 2020年06月06日 || {{lj|ヰ世界創世記}} || {{lj|「回り道」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1269207463795908609 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av755757665 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #02 || 2020年06月16日 || {{lj|ヰ世界創世記}} || {{lj|「拾い物」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1272831441861136389 {{#var: tweet-logo}}}} || {{plain link | url= https://t.bilibili.com/478223945326892148 {{#var: bili-logo}}}}
+| #02 || 2020年06月16日 || {{lj|ヰ世界創世記}} || {{lj|「拾い物」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1272831441861136389 {{#var: tweet-logo}}}} || {{plain link | url= https://t.bilibili.com/478223945326892148 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #03 || 2020年07月07日 || {{lj|ヰ世界創世記}} || {{lj|「星屑」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1280456534955225089 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av458673289 {{#var: bili-logo}}}}
+| #03 || 2020年07月07日 || {{lj|ヰ世界創世記}} || {{lj|「星屑」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1280456534955225089 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av458673289 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #3.5 || 2020年07月26日 || {{lj|ヰ世界創世記}} || {{lj|「散歩」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1287326815191670785 {{#var: tweet-logo}}}} || {{plain link | url= https://t.bilibili.com/482364362518202707 {{#var: bili-logo}}}}
+| #3.5 || 2020年07月26日 || {{lj|ヰ世界創世記}} || {{lj|「散歩」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1287326815191670785 {{#var: tweet-logo}}}} || {{plain link | url= https://t.bilibili.com/482364362518202707 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #4 || 2020年08月16日 || {{lj|ヰ世界創世記}} || {{lj|「流星」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1294937774684958721 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av586128057 {{#var: bili-logo}}}}
+| #4 || 2020年08月16日 || {{lj|ヰ世界創世記}} || {{lj|「流星」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1294937774684958721 {{#var: tweet-logo}}}} || {{plain link | url= https://www.bilibili.com/video/av586128057 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
 | #5 || 2020年09月17日 || {{lj|ヰ世界創世記}} || {{lj|「不思議」}} || {{plain link | url= https://twitter.com/isekaijoucho/status/1306533436757176321 {{#var: tweet-logo}}}} || N/A
 |-
@@ -455,10 +484,10 @@ c. (変異体 Heliotrope)<br><br>
 </div>
 
 === ヰ世界情緒 作品展 ===
-在 Animal live 结束后宣布情绪将在 2022 年开办作品展, 细节有待补充.
+在 Anima live 结束后宣布情绪将在 2022 年开办作品展, 细节有待补充.
 
 === 音乐的同位体 星界 ===
-同上, 宣布在 2022 年春开始贩售 CeVIO 音源库星界. <ref>@kamitsubaki_jp 【ヰ世界情緒 おしらせ②】
+在Anima演唱会结束的片尾, 宣布在 2022 年春开始贩售 CeVIO 音源库星界.<ref>@kamitsubaki_jp 【ヰ世界情緒 おしらせ②】
 音声創作ソフトウェア「CeVIO AI」とのコラボレーションによって実現するプロジェクト音楽的同位体「星界(SEKAI)」は2022年春にデビュー予定！
 ヰ世界情緒の歌声を元にした本プロジェクトの詳しい内容は後日発表致します。[https://twitter.com/kamitsubaki_jp/status/1451876733888524289]</ref>
 
@@ -485,9 +514,13 @@ c. (変異体 Heliotrope)<br><br>
 
 *最近收到了春猿火的画。
 
-*绘画水平不错，ADAM、[[鸟之诗]]、两首翻唱曲的曲绘都是情绪自己绘制的
+*绘画水平极高，ADAM、[[鸟之诗]]等曲绘都是情绪自己绘制的, 创生 beta 版封面及内页中也有大量画作｡{{黑幕|和神椿另一位大画伯[[幸祜]]形成了鲜明的对比}}
 
 * 在 2021 年十月新番 [[Muv-Luv Alternative]] 中为佐渡岛的少女配音 {{黑幕|实际上就哼了一段歌 + 喘息了一两声}}
+
+* 儿时梦想是成为长颈鹿, 因为可以看到更高的风景｡<ref group="注" name="FM802">出自 [https://radiko.jp/#!/ts/802/20211212030000 2021-12-12 FM802 Palette]</ref>
+
+* 被神椿制作人 PIEDPIPER 评价为 ｢V.W.P 第一奇人｣ [https://twitter.com/PIEDPIPER2045/status/1448268689971695624]
 
 === 相冊 ===
 

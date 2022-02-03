@@ -3,12 +3,13 @@
 |top-bcolor=#1C1775
 |t-bcolor=#D20128
 |l-bcolor=#6D59EC
+|l-color=#FFFFFF
 |title= '''理芽'''
 |image = EIS6Hi8WoAAdpmB.jpg
 |图片信息 =
 |tabs =
 |本名 = {{ruby|理芽|りめ|ja}}<br>(Rime)
-|年龄 = 17
+|年龄 = 19
 |发色={{Cate|[[内层挑染]]|内层挑染}}
 |多种瞳色={{Cate|[[异色瞳]]|异色瞳}}
 |語言=日語
@@ -33,11 +34,11 @@
 |_文本框2= [https://www.youtube.com/watch?v=YZxHTW5sJu4 {{lj|理芽 #05 ユーエンミー / You & Me - RIM (Official Music Video)}}]<br />[https://www.youtube.com/watch?v=F9eCSWEJYjk {{lj|理芽 #08 食虫植物 / Carnivorous Plant - RIM (Official Music Video)}}]
 }}
 
-<span style="font-size:1.5em; font-weight:800;">{{cquote|<center>{{color|#35325c|{{lj|理芽です。日本の何処かにいる17歳。歌を歌います。}}}}</center>}}</span>
+<span style="font-size:1.5em; font-weight:800;">{{cquote|<center>{{color|#35325c|{{lj|理芽です。日本の何処かにいる19歳。歌を歌います。}}}}</center>}}</span>
 '''理芽'''（{{lang-ja|'''{{ruby|理芽|りめ}}'''}}）是一名2019年10月开始在Youtube活动的Vtuber。
 
 == 简介 ==
-日本某处存在着的17岁。
+日本某处存在着的19岁。
 
 喜欢日文歌、英文歌、韩文歌的迷之双目的少女。
 
@@ -79,7 +80,7 @@
 
 07月01日，上傳了第五部原創曲 [https://www.youtube.com/watch?v=OHvvN4XktQk {{lj|理芽 #13 クライベイビー / Cry Baby - RIM (Official Music Video)}}]。
 
-07月03日，和神椿的大伙儿加入tiktok。
+07月03日，和神椿的其他成员加入tiktok。
 
 08月12日，{{lj|理芽 #08 食虫植物}}在tiktok获得大量关注，超过千万播放，在油管也有300w再生。
 
@@ -109,15 +110,12 @@
 為方便讀者瞭解瞭解{{lj|理芽}}演唱過之歌曲,就此作出分類.
 ==== 原創曲 ====
 <!--logo代碼-->
-{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}
-{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]] }}
-{{#vardefine: th-sticky | style{{=}}"position: sticky; top: 0px; background-clip: padding-box;" }}
 <!--
 投稿序號 & 投稿順序以 理芽Youtube 計算, 歌曲不在 理芽Youtube 上載,則填N/A
  
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表包含所有{{lj|理芽}}演唱之歌曲. 部分曲目 沒有任何MV 或 沒有被任何Album收錄.<br>
@@ -128,23 +126,23 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| #5 || ※1 || 2019年12月20日 || {{lj|[[ユーエンミー]] / You & Me}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=YZxHTW5sJu4 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1tZ4y1s7WA {{#var: bili-logo}}}}
+| #5 || ※1 || 2019年12月20日 || {{lj|[[ユーエンミー]] / You & Me}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=YZxHTW5sJu4 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1tZ4y1s7WA [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #8 || ※2 || 2020年01月03日 || {{lj|[[食虫植物]] / Carnivorous Plant}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=F9eCSWEJYjk {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV18J411j7pJ {{#var: bili-logo}}}}
+| #8 || ※2 || 2020年01月03日 || {{lj|[[食虫植物]] / Carnivorous Plant}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=F9eCSWEJYjk [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV18J411j7pJ [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #9 || ※3 || 2020年02月04日 || {{lj|[[ピロウトーク]] / Pillow Talk}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=cUqQRAYEtKg {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV197411n73A {{#var: bili-logo}}}}
+| #9 || ※3 || 2020年02月04日 || {{lj|[[ピロウトーク]] / Pillow Talk}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=cUqQRAYEtKg [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV197411n73A [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #11 || ※4 || 2020年02月27日 || {{lj|[[Flowering]] (with Misumi)}} || {{lang|en|[[Misumi]]}} || {{lang|en|[[Misumi]]}} || {{lj|[[及川創介]]}} || {{plain link | url=https://www.youtube.com/watch?v=z1Nxc4UyQfQ {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Z7411K74a {{#var: bili-logo}}}}
+| #11 || ※4 || 2020年02月27日 || {{lj|[[Flowering]] (with Misumi)}} || {{lang|en|[[Misumi]]}} || {{lang|en|[[Misumi]]}} || {{lj|[[及川創介]]}} || {{plain link | url=https://www.youtube.com/watch?v=z1Nxc4UyQfQ [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1Z7411K74a [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #13 || ※6 || 2020年07月01日 || {{lj|[[クライベイビー]] / Cry Baby}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=OHvvN4XktQk {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1Fi4y1V7zj {{#var: bili-logo}}}} 
+| #13 || ※6 || 2020年07月01日 || {{lj|[[Cry Baby(理芽)|クライベイビー]] / Cry Baby}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=OHvvN4XktQk [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1Fi4y1V7zj [[File:Bilibilitv-logo.png|20px|link=]]}} 
 |-
-| #15 || ※7 || 2020年10月28日 || {{lj|[[甘美な無法]] / Luscious Lawless}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=VIR94m89mk0 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1QA411L744 {{#var: bili-logo}}}}
+| #15 || ※7 || 2020年10月28日 || {{lj|[[甘美な無法]] / Luscious Lawless}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=VIR94m89mk0 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1QA411L744 [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
-| #17 || ※8 || 2021年01月20日 || {{lj|[[法螺話]] (with Guiano) / Tall Story (with Guiano) }} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}}|| {{plain link | url=https://www.youtube.com/watch?v=EAW1zjldjO4 {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1tU4y1477P {{#var: bili-logo}}}} 
+| #17 || ※8 || 2021年01月20日 || {{lj|[[法螺話]] (with Guiano) / Tall Story (with Guiano) }} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}}|| {{plain link | url=https://www.youtube.com/watch?v=EAW1zjldjO4 [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1tU4y1477P [[File:Bilibilitv-logo.png|20px|link=]]}} 
 |-
 | #?? || N/A || 2021年02月28日<ref group='注' name='itaiiyo'>此曲首次亮相於當晚{{lj|「花達と椿と君。緊急特番 -理芽復活 生配信番組-」}}尾部</ref> || {{lj|[[いたいよ]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || N/A || N/A
 |-
-| #18 || ※9 || 2021年04月28日 || {{lj|[[胎児に月はキスをしない]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=EGhhBKr4OzY {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1oV411J7pS {{#var: bili-logo}}}} 
+| #18 || ※9 || 2021年04月28日 || {{lj|[[胎児に月はキスをしない]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=EGhhBKr4OzY [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1oV411J7pS [[File:Bilibilitv-logo.png|20px|link=]]}} 
 |-
 | N/A || N/A || 2021年05月15日 || {{lj|[[さみしいひと]]}}<ref group="注" name="NewRomanceLive">本曲首次亮相於[[理芽#理芽 1st ONE-MAN LIVE「ニューロマンス」|理芽 1st ONE-MAN LIVE「New Romance」]]</ref><ref group="注" name="NEW_ROMANCER_Album">本曲收錄於{{lang|en|NEW ROMANCER}}專輯.</ref>|| {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || N/A<ref group="注" name="No_MV">本曲沒有製作成MV.</ref>  || N/A
 |-
@@ -156,9 +154,9 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 | N/A || N/A || 2021年05月15日 || {{lj|[[やさしくしないで]]}}<ref group="注" name="NewRomanceLive"/><ref group="注" name="NEW_ROMANCER_Album" /> || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || N/A<ref group="注" name="No_MV"/> || N/A
 |-
-| #20 || ※10 || 2021年06月09日<ref group="注" name="MV_Date">此處采用MV發佈日期</ref> || {{lj|[[十九月]]}}<ref group="注" name="NewRomanceLive"/>  || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=EGhhBKr4OzY {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1nq4y1772z {{#var: bili-logo}}}} 
+| #20 || ※10 || 2021年06月09日<ref group="注" name="MV_Date">此處采用MV發佈日期</ref> || {{lj|[[十九月]]}}<ref group="注" name="NewRomanceLive"/>  || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=EGhhBKr4OzY [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1nq4y1772z [[File:Bilibilitv-logo.png|20px|link=]]}} 
 |-
-| #21 || ※11 || 2021年07月24日 || {{lj|[[やさしくしないで]] / Don't be Kind to Me }} || {{lang|en|[[Guiano]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=nLFi_zEUXOs {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1sX4y1c7wH/ {{#var: bili-logo}}}} 
+| #21 || ※11 || 2021年07月24日 || {{lj|[[やさしくしないで]] / Don't be Kind to Me }} || {{lang|en|[[Guiano]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{plain link | url=https://www.youtube.com/watch?v=nLFi_zEUXOs [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1sX4y1c7wH/ [[File:Bilibilitv-logo.png|20px|link=]]}} 
 |-
 | N/A || N/A || 2021年10月20日 || {{lj|「[[あおいこわす]]」}}<ref group="注" name="Awake_Album">本曲收錄於[[Awake(專輯)|KAMITSUBAKI x Monark Collaboration Album「Awake」]]</ref> || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || 後補 || 後補
 |-
@@ -171,8 +169,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 ==== 合唱曲 ====
 <!--
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 -->
 此列表記載所有{{lj|理芽}}與神椿其他成員之合唱曲.
@@ -181,11 +179,11 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 |-
 ! 投稿序號 !! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !!YouTube !! Bilibili
 |-
-| N/A || N/A || 2020年04月10日 || {{lang|en|[[Guiano]]}} × {{lj|理芽}} {{lj|[[透過夏]] (feat.RIM) / I Think Of Summer (feat.RIM)}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}}|| {{plain link | url=https://www.youtube.com/watch?v=ksfxRwJw9VI {{#var: yt-logo}}}} || N/A
+| N/A || N/A || 2020年04月10日 || {{lang|en|[[Guiano]]}} × {{lj|理芽}} {{lj|[[透過夏]] (feat.RIM) / I Think Of Summer (feat.RIM)}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}} || {{lang|en|[[Guiano]]}}|| {{plain link | url=https://www.youtube.com/watch?v=ksfxRwJw9VI [[File:YouTube Logo icon.png|20px|link=]]}} || N/A
 |-
 | N/A || N/A || 2020年03月23日 || {{lj|[[花譜]]}} × {{lj|理芽}} {{lj|「[[宣戦]]」}}<ref group="注">本曲於 花譜 1st ONE-MAN Live 「不可解·再」 亮相.</ref><ref group="注" name="No_album_and_MV">本曲并沒有收錄進任何專輯和沒有製作成MV.</ref> ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| N/A<ref group="注" name="No_album_and_MV" /> || N/A
 |- 
-| N/A || N/A || 2020年11月24日 || {{lj|[[花譜]]}} × {{lj|理芽}} {{lj|「[[魔法(花谱)|まほう]]」【「不可解弐Q1」Live Ver.】}}<ref group="注">此MV爲Live版，并沒有轉用錄音室音源。首次於2020年6月14日「アイスクリームライブ」亮相。</ref><ref group="注" name="Maho_Song">本曲首次於「アイスクリームライブ」亮相時歌名爲漢字{{lj|「魔法」}}，但到{{lj|「不可解弐Q1」}}以後以及各專輯均采用平假名，因此除「アイスクリームライブ」歌單繼續沿用漢字，其餘將跟隨神椿使用平假名歌名。</ref> ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| {{plain link | url=https://www.youtube.com/watch?v=g8NbvGE8w6s {{#var: yt-logo}}}} || {{plain link | url=https://www.bilibili.com/video/BV1hy4y1676H {{#var: bili-logo}}}}
+| N/A || N/A || 2020年11月24日 || {{lj|[[花譜]]}} × {{lj|理芽}} {{lj|「[[魔法(花谱)|まほう]]」【「不可解弐Q1」Live Ver.】}}<ref group="注">此MV爲Live版，并沒有轉用錄音室音源。首次於2020年6月14日「アイスクリームライブ」亮相。</ref><ref group="注" name="Maho_Song">本曲首次於「アイスクリームライブ」亮相時歌名爲漢字{{lj|「魔法」}}，但到{{lj|「不可解弐Q1」}}以後以及各專輯均采用平假名，因此除「アイスクリームライブ」歌單繼續沿用漢字，其餘將跟隨神椿使用平假名歌名。</ref> ||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}||{{lj|[[カンザキイオリ]]}}|| {{plain link | url=https://www.youtube.com/watch?v=g8NbvGE8w6s [[File:YouTube Logo icon.png|20px|link=]]}} || {{plain link | url=https://www.bilibili.com/video/BV1hy4y1676H [[File:Bilibilitv-logo.png|20px|link=]]}}
 |-
 | N/A || N/A || 2021年05月15日 || {{lj|[[魔的]]}} feat. {{lj|[[花譜]]}}<ref group="注" name="NewRomanceLive"/>|| {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || {{lj|[[笹川真生]]}} || N/A || N/A
 |}
@@ -193,8 +191,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 ==== 合作曲 ====
 
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || {{lj|[[作曲]]}} || {{lj|[[編曲]]}} || youtube || bilibili
 
 此列表記載{{lj|理芽}}和其他藝人演唱之合作歌曲.
@@ -209,8 +207,8 @@ Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
 === 詩詞 ===
 
 鏈接編寫方法
-Youtube : {{plain link | url= Youtube鏈接 {{#var: yt-logo}}}}
-Bilibili : {{plain link | url= Bilibili鏈接 {{#var: bili-logo}}}}
+Youtube : {{plain link | url= Youtube鏈接 [[File:YouTube Logo icon.png|20px|link=]]}}
+Bilibili : {{plain link | url= Bilibili鏈接 [[File:Bilibilitv-logo.png|20px|link=]]}}
 格式 : | 序號 || 順序 || 時間 || {{lj|「[[名稱]]」}} || {{lj|[[作詞]]}} || youtube || bilibili
 (預留所有投稿欄位, 若日後正式上傳可添加資料 [敬請不要記載 非官方上傳/偷錄 鏈接.])
 
