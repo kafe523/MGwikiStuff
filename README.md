@@ -1,2 +1,3 @@
 # wikiArticle
-Store working moegirl article
+Store working moegirl article.
+
