@@ -1,0 +1,128 @@
+圖標鏈接.<br>
+本模板縮寫為 <nowiki>{{hpi}}</nowiki>.
+
+== 使用例 ==
+{{信息栏2.0
+|top-bcolor=#0039e6
+|t-bcolor=#757575
+|l-bcolor=#4d79ff
+|title= '''可不'''
+|image=KAFU.jpg
+|别号=KAFU
+
+|-橫欄1= 媒體
+|_文字框=
+|Youtube = {{HyperIcon|yt_l|https://www.youtube.com/channel/UCm_1n9F3A6pz-Ms2NP93tBA|音楽的同位体「可不」 KAFU}}
+|Twitter = {{HyperIcon|tw_l|https://twitter.com/kaf_you|@kaf_you}}
+}}
+
+{{HyperIcon|bl|av81604669}} (連接至 嗶哩嗶哩 【花谱】#06 「糸/线」原创歌曲)<br>
+{{HyperIcon|tweet_lf|https://twitter.com/RIM_virtual|@RIM_virtual}} (連接至 理芽 Twitter)<br>
+{{HyperIcon|piapro_right|https://piapro.jp/harusaruhi|春猿火さん}} (連接之 春猿火 Piapro)<br>
+{{HyperIcon|nicovideo_center|https://www.nicovideo.jp/user/26911275/}} (連接之 クロガキ Niconico頁面)
+
+{{clear}}
+
+{| class="wikitable" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿顺序 !! 投稿時間 !! 歌曲名稱 !! 作詞 !! 作曲 !! 編曲 !! YouTube !! Bilibili !! Niconico
+|-
+| 2 || 2021年01月09日 || {{lj|「[[Hologram(一二三)|ホログラム]]」}} || [[一二三(P主)|一二三]] || [[一二三(P主)|一二三]] || [[一二三(P主)|一二三]] || {{HyperIcon|yt|NgEXMtQh_Gs}} || {{HyperIcon|bl|BV1Y54y1s7bH}} || {{HyperIcon|nc|sm38086642}}
+|}
+
+{{clear}}
+
+{| class="wikitable" style="font-size:small; margin:0px auto;data-expandtext=" 展开" width=100%
+|-
+! 投稿序號 !! 投稿時間 !! 投稿系列 !! 名稱 !! Twitter !! Bilibili
+|-
+| #4 || 2020年08月16日 || {{lj|ヰ世界創世記}} || {{lj|「流星」}} || {{HyperIcon|tw|isekaijoucho|1294937774684958721}} || {{HyperIcon|bl|av586128057}}
+|}
+
+== 説明 ==
+
+# 本模板設立原意乃 —— 
+## 減少 wiki table 内填寫音樂鏈接所需輸入内容;
+## 凸顯鏈接導向網站.
+# 本模板部分内容建基於 {{tl|Plain_link}}. 
+# {{jk|因原作者能力不逮}}'''<big>本模板所有按鈕大小限於 20px</big>'''.
+# '''<big>本模板暫不支持自定圖標</big>'''.
+# 本條目采用'''隱式賦值'''編寫, 以減少運用輸入時間, '''請使用者務必核對各格輸入數值是否正確'''.
+
+* 本模板現支援以下網站 —— 
+** Bilibili
+** Instagram
+** Niconico
+** Piapro
+** Twitter
+** Youtube
+
+使用方法 (列表内全為演示鏈接.)<br>
+本模板縮寫為 <nowiki>{{hpi}}</nowiki>.
+
+{| class="wikitable"
+|-
+! scope="col" style="width:15%" | 網頁\樣式
+! scope="col" style="width:21.4%" | 影片鏈接('''僅支持影片''')
+! scope="col" style="width:21.4%" | 圖標置左
+! scope="col" style="width:21.4%" | 圖標置右
+! scope="col" style="width:21.4%" | 圖標置中
+|-
+! scope="row" | Bilibili
+| <pre>{{HyperIcon|bl|影片編號}}</pre><center>{{HyperIcon|bl|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>bl/bili/bilibili</div>
+| <pre>{{HyperIcon|bl_l|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|bl_l|https://www.bilibili.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>bl_l/bili_lf/bilibili_left</div>
+| <pre>{{HyperIcon|bl_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|bl_r|https://www.bilibili.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>bl_r/bili_rg/bilibili_right</div>
+| <pre>{{HyperIcon|bl_c|完整鏈接}}</pre><center>{{HyperIcon|bl_c|https://www.bilibili.com/}}</center><div style="padding:10%;">可用縮寫: <br>bl_c/bili_ct/bilibili_center</div>
+|-
+! scope="row" | Instagram
+| <pre>{{HyperIcon|ig|影片編號}}</pre><center>{{HyperIcon|ig|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>ig/instagram</div>
+| <pre>{{HyperIcon|ig_l|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|ig_l|https://www.instagram.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>ig_l/instagram_left</div>
+| <pre>{{HyperIcon|ig_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|ig_r|https://www.instagram.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>ig_r/instagram_rignt</div>
+| <pre>{{HyperIcon|ig_c|完整鏈接}}</pre><center>{{HyperIcon|ig_c|https://www.instagram.com/}}</center><div style="padding:10%;">可用縮寫: <br>ig_c/instagram_center</div>
+|-
+! scope="row" | Instagram 長鏈接<br>(完整鏈接)
+| <pre>{{HyperIcon|igf|編號}}</pre><center>{{HyperIcon|igf|https://www.instagram.com/}}<div style="padding:10%;">可用縮寫: <br>igf/instagramfull</div>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+|-
+! scope="row" | Niconico
+| <pre>{{HyperIcon|nc|影片編號}}</pre><center>{{HyperIcon|nc|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>nc/nico/nicovideo</div>
+| <pre>{{HyperIcon|nc|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|nc_l|https://www.nicovideo.jp/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>nc_l/nico_lf/nicovideo_left</div>
+| <pre>{{HyperIcon|nc|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|nc_r|https://www.nicovideo.jp/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>nc_r/nico_rg/nicovideo_right</div>
+| <pre>{{HyperIcon|nc|完整鏈接}}</pre><center>{{HyperIcon|nc_c|https://www.nicovideo.jp/}}</center><div style="padding:10%;">可用縮寫: <br>nc_c/nico_ct/nicovideo_center</div>
+|-
+! scope="row" | Piapro
+| <pre>{{HyperIcon|pp|音樂編號}}</pre><center>{{HyperIcon|pp|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>pp/piapro</div>
+| <pre>{{HyperIcon|pp_l|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|pp_l|https://piapro.jp/|鏈接名稱}}</center><div style="padding:10%;">可用縮寫: <br>pp_l/piapro_left</div>
+| <pre>{{HyperIcon|pp_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|pp_r|https://piapro.jp/|鏈接名稱}}</center><div style="padding:10%;">可用縮寫: <br>pp_r/piapro_rignt</div>
+| <pre>{{HyperIcon|pp_c|完整鏈接}}</pre><center>{{HyperIcon|pp_c|https://piapro.jp/}}</center><div style="padding:10%;">可用縮寫: <br>pp_c/piapro_center</div>
+|-
+! scope="row" | Twitter
+| <pre>{{HyperIcon|tw|完整鏈接}}</pre><center>{{HyperIcon|tw|https://twitter.com/}}</center><div style="padding:10%;">可用縮寫: <br>tw/tweet/twitter</div>
+| <pre>{{HyperIcon|tw_l|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|tw_l|https://twitter.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>tw_l/tweet_lf/twitter_left</div>
+| <pre>{{HyperIcon|tw_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|tw_r|https://twitter.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>tw_r/tweet_rg/twitter_right</div>
+| <pre>{{HyperIcon|tw_c|完整鏈接}}</pre><center>{{HyperIcon|tw_c|https://twitter.com/}}</center><div style="padding:10%;">可用縮寫: <br>tw_c/tweet_ct/twitter_center</div>
+|-
+! scope="row" | Twitter 僅入賬編<br>(僅影片鏈接)<br><pre>https://twitter.com/(賬號)/status/(編號)</pre>
+| <pre>{{HyperIcon|twsc|賬號|編號}}</pre><center>{{HyperIcon|twsc|XXXX|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>twsc/tweetsc/twittershortcut</div>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+|-
+! scope="row" | Twitter 短鏈接<br>(僅影片鏈接)<br><pre>https://t.co/(十位編號)</pre>
+| <pre>{{HyperIcon|tws|編號}}</pre><center>{{HyperIcon|tws|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>tws/tweetsh/twittershort</div>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+| <center>N/A (不支持)</center>
+|-
+! scope="row" | Youtube
+| <pre>{{HyperIcon|yt|編號}}</pre><center>{{HyperIcon|yt|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>yt/youtube</div>
+| <pre>{{HyperIcon|yt_l|編號|鏈接名字}}</pre><center>{{HyperIcon|yt_l|https://www.youtube.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>yt_l/youtube_left</div>
+| <pre>{{HyperIcon|yt_l|編號|鏈接名字}}</pre><center>{{HyperIcon|yt_l|https://www.youtube.com/|鏈接名字}}</center><div style="padding:10%;">可用縮寫: <br>yt_r/youtube_right</div>
+| <pre>{{HyperIcon|yt_c|編號|鏈接名字}}</pre><center>{{HyperIcon|yt_c|https://www.youtube.com/}}</center><div style="padding:10%;">可用縮寫: <br>yt_c/youtube_center</div>
+|}
+
+
+== 注釋 ==
+<references />

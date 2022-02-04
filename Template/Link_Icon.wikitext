@@ -1,0 +1,52 @@
+<includeonly><!--
+-->{{#vardefine: bili-logo | [[File:Bilibilitv-logo.png|20px|link=]] }}<!--
+-->{{#vardefine: ig-logo | [[File:Instagram_logo.png|20px|link=]] }}<!--
+-->{{#vardefine: nico-logo | [[File:Niconico-2021-black.png|20px|link=]] }}<!--
+-->{{#vardefine: piapro-logo | [[File:Piapro_icon.svg|20px|link=]] }}<!--
+-->{{#vardefine: tweet-logo | [[File:Twitte_Logo.png|20px|link=]] }}<!--
+-->{{#vardefine: yt-logo | [[File:YouTube Logo icon.png|20px|link=]] }}<!--
+
+/* Video Link */
+
+-->{{#switch:{{lc:{{{1}}}}}<!--
+-->|bl|bili|bilibili= {{plain link |url=https://www.bilibili.com/video/{{{2}}} {{#var:bili-logo}} }}<!--
+-->|ig|instagram= {{plain link |url=https://www.instagram.com/tv/{{{2}}} {{#var: ig-logo}} }}<!--
+-->|igf|instagramfull= {{plain link |url={{{2}}} {{#var: ig-logo}} }}<!--
+-->|nc|nico|nicovideo= {{plain link |url=https://www.nicovideo.jp/watch/{{{2}}} {{#var: nico-logo}} }}<!--
+-->|pp|piapro= {{plain link |url=https://piapro.jp/t/{{{2}}} {{#var: piapro-logo}} }}<!--
+-->|tw|tweet|twitter= {{plain link |url={{{2}}} {{#var: tweet-logo}} }}<!--
+-->|twsc|tweetsc|twittershortcut= {{plain link |url=https://twitter.com/{{{2}}}/status/{{{3}}} {{#var: tweet-logo}} }}<!--
+-->|tws|tweetsh|twittershort= {{plain link |url=https://t.co/{{{2}}} {{#var: tweet-logo}} }}<!--
+-->|yt|youtube= {{plain link |url=https://youtu.be/{{{2}}} {{#var:yt-logo}} }}<!--
+
+/* General Link (Logo on the left) */
+
+-->|bl_l|bili_lf|bilibili_left= {{#var: bili-logo}} [{{{2}}} {{{3|}}}]<!--
+-->|ig_l|instagram_left= {{#var: ig-logo}} [{{{2}}} {{{3|}}}]<!--
+-->|nc_l|nico_lf|nicovideo_left= {{#var: nico-logo}} [{{{2}}} {{{3|}}}]<!--
+-->|pp_l|piapro_left= {{#var: piapro-logo}} [{{{2}}} {{{3|}}}]<!--
+-->|tw_l|tweet_lf|twitter_left= {{#var: tweet-logo}} [{{{2}}} {{{3|}}}]<!--
+-->|yt_l|youtube_left= {{#var: yt-logo}} [{{{2}}} {{{3|}}}]<!--
+
+/* General Link (Logo on the right) */
+
+-->|bl_r|bili_rg|bilibili_right= [{{{2}}} {{{3|}}}] {{#var: bili-logo}}<!--
+-->|ig_r|instagram_right= [{{{2}}} {{{3|}}}] {{#var: ig-logo}} <!--
+-->|nc_r|nico_rg|nicovideo_right= [{{{2}}} {{{3|}}}] {{#var: nico-logo}}<!--
+-->|pp_r|piapro_right= [{{{2}}} {{{3|}}}] {{#var: piapro-logo}}<!--
+-->|tw_r|tweet_rg|twitter_right= [{{{2}}} {{{3|}}}] {{#var: tweet-logo}}<!--
+-->|yt_r|youtube_right= [{{{2}}} {{{3|}}}] {{#var: yt-logo}}<!--
+
+/* General Link (Logo but button) */
+
+-->|bl_c|bili_ct|bilibili_center= {{plain link |url={{{2}}} {{#var:bili-logo}} }}<!--
+-->|ig_c|instagram_center= {{plain link |url={{{2}}} {{#var: ig-logo}} }}<!--
+-->|nc_c|nico_ct|nicovideo_center= {{plain link |url={{{2}}} {{#var: nico-logo}} }}<!--
+-->|pp_c|piapro_center= {{plain link |url={{{2}}} {{#var: piapro-logo}} }}<!--
+-->|tw_c|tweet_ct|twitter_center= {{plain link |url={{{2}}} {{#var: tweet-logo}} }}<!--
+-->|yt_c|youtube_center= {{plain link |url={{{2}}} {{#var:yt-logo}} }}<!--
+
+/* Default Error Message */
+
+-->|#default= <span class="error" style="font-size:smaller;">模板網站代號變數錯誤：<code>{{{1}}}</code>本模板暫不支持此網站鏈接.</span><!--
+-->}}</includeonly><noinclude>{{Documentation}}</noinclude>
