@@ -114,10 +114,10 @@ local indexTable = {
 }
 
 local errorMessageTable = {
-    ["missingArg_1"] = linkAssamble[8] .. "缺少第1參數,請確認是否已填妥所需資料." .. linkAssamble[6],
-    ["missingArg_2"] = linkAssamble[8] .. "缺少第2參數,請確認是否已填妥所需資料." .. linkAssamble[6],
-    ["missingArg_3"] =  linkAssamble[8] .."缺少第3參數,請確認是否已填妥所需資料." .. linkAssamble[6],
-    ["tooManyArg"] = linkAssamble[8] .."請刪除多餘參數,或檢查第1參數是否錯誤." .. linkAssamble[6]
+    ["missingArg_1"] = linkAssamble[8] .. "缺少第<big>1</big>參數,請確認是否已填妥所需資料." .. linkAssamble[6],
+    ["missingArg_2"] = linkAssamble[8] .. "缺少第<big>2</big>參數,請確認是否已填妥所需資料." .. linkAssamble[6],
+    ["missingArg_3"] =  linkAssamble[8] .."缺少第<big>3</big>參數,請確認是否已填妥所需資料." .. linkAssamble[6],
+    ["tooManyArg"] = linkAssamble[8] .."請刪除多餘參數,或檢查第<big>1</big>參數是否錯誤." .. linkAssamble[6]
 }
 
 
