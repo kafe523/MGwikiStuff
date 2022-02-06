@@ -11,7 +11,6 @@ local linkAssamble = {
     "</span>",
     '<span class="plainlinks">',
     '<span class="error" style="font-size:smaller;">' -- 8
-    
 }
 
 
@@ -120,9 +119,12 @@ local errorMessageTable = {
     ["tooManyArg"] = linkAssamble[8] .."請刪除多餘參數,或檢查第<big>1</big>參數是否錯誤." .. linkAssamble[6]
 }
 
-
-function p.main(argA,argB,argC,argD)
-    if argD ~= nil then
+function p.main(frame)
+    local argA,argB,argC,argD = frame.arg[1],frame.arg[2],frame.arg[3],frame.arg[4]
+    
+    if argA == nil then
+        return errorMessageTable["missingArg_1"]
+    elseif argD ~= nil then
         return errorMessageTable["tooManyArg"]
     else
         return p._main(argA,argB,argC)
@@ -130,6 +132,8 @@ function p.main(argA,argB,argC,argD)
 end
 
 function p._main(argA,argB,argC)
+
+    local argA = tostring(argA)
 
     local translatedHeader = p.findPrefixIndex(argA)
     
@@ -141,14 +145,17 @@ function p._main(argA,argB,argC)
     end
     -- Video Link Section
     if centralTable[translatedHeader] then
+        local argB,argC = tostring(argB),tostring(argC)
         return p.videoLink(translatedHeader,argB,argC)
     end
     -- Side Logo Section
     if (leftTable[translatedHeader] or rightTable[translatedHeader]) and argC == nil then
         return errorMessageTable["missingArg_3"]
     elseif leftTable[translatedHeader] then
+        local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_leftLogo(translatedHeader,argB,argC)
     elseif rightTable[translatedHeader] then
+        local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_rightLogo(translatedHeader,argB,argC)
     end
     
@@ -157,6 +164,7 @@ function p._main(argA,argB,argC)
         if argC ~= nil then
             return errorMessageTable["tooManyArg"]
         else
+            local argB = tostring(argB)
             return p.generalLink_centralLogo(translatedHeader,argB)
         end
     end
