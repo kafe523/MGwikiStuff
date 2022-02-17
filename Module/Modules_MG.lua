@@ -12,7 +12,7 @@ local getArgs = require('Module:Arguments').getArgs
 
 local p = {}
 
---[[ Tables ]]
+-- /* Tables */
 
 local linkAssamble = {
     "", -- 1
@@ -24,7 +24,6 @@ local linkAssamble = {
     '<span class="plainlinks">',
     '<span class="error" style="font-size:smaller;">' -- 8
 }
-
 
 local iconTable = {
     ["bili-logo"] = "[[File:Bilibilitv-logo.png|20px|link=]]",
@@ -129,14 +128,13 @@ local errorMessageTable = {
     ["tooManyArg"] = linkAssamble[8] .."請刪除多餘參數,或檢查第<big>1</big>參數是否錯誤." .. linkAssamble[6]
 }
 
---[[ Main function ]]
+-- /* Main function */
 
 function p.main(frame)
     return p._main(getArgs(frame,{removeBlanks = false}),frame)
 end
 
 function p._main(args,frame)
-
     local argA,argB,argC,argD = mw.ustring.lower(args[1] or ""),args[2],args[3],args[4]
 
     if argA == "" then
@@ -144,45 +142,37 @@ function p._main(args,frame)
     elseif argD ~= nil then
         return errorMessageTable["tooManyArg"]
     end
-    
+
     local translatedHeader = p.findPrefixIndex(argA)
-    
-    if translatedHeader == false then
-        -- Default Error Message
+
+    if translatedHeader == false then    -- Default Error Message
         return linkAssamble[8] .. "模板網站代號變數錯誤：<code>" .. argA .. "</code>本模板暫不支持此網站鏈接." .. linkAssamble[6]
     elseif argB == nil then
         return errorMessageTable["missingArg_2"]
     end
-    -- Video Link Section
-    if centralTable[translatedHeader] then
-        -- local argB,argC = tostring(argB),tostring(argC)
+
+    if centralTable[translatedHeader] then    -- Video Link Section
         return p.videoLink(translatedHeader,argB,argC)
     end
-    -- Side Logo Section
-    if (leftTable[translatedHeader] or rightTable[translatedHeader]) and argC == nil then
+
+    if (leftTable[translatedHeader] or rightTable[translatedHeader]) and argC == nil then    -- Side Logo Section
         return errorMessageTable["missingArg_3"]
     elseif leftTable[translatedHeader] then
-        -- local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_leftLogo(translatedHeader,argB,argC)
     elseif rightTable[translatedHeader] then
-        -- local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_rightLogo(translatedHeader,argB,argC)
     end
     
-    -- Center Logo Section
-    if onlyLogoTable[translatedHeader] then
+    if onlyLogoTable[translatedHeader] then    -- Center Logo Section
         if argC ~= nil then
             return errorMessageTable["tooManyArg"]
         else
-            -- local argB = tostring(argB)
             return p.generalLink_centralLogo(translatedHeader,argB)
         end
     end
-
 end
 
 function p.findPrefixIndex (argA)
-
     for i , x in pairs(indexTable) do
         for j , y in pairs(x) do
             if x[j] == argA then
@@ -191,24 +181,22 @@ function p.findPrefixIndex (argA)
         end
     end
     return false
-
 end
 
 function p.videoLink(translatedHeader,argB,argC)
-
-    if translatedHeader == 7 then -- twittershortcut
+    if translatedHeader == 7 then    -- twittershortcut
         if argC == nil then
             return errorMessageTable["missingArg_3"]
         else
             return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix .. argB .. centralTable[translatedHeader].ending1 .. argC .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
         end
-    elseif translatedHeader == 8 then -- twittershort
+    elseif translatedHeader == 8 then    -- twittershort
         return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix2 .. argB .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
     elseif argC ~= nil then
         return errorMessageTable["tooManyArg"]
     end
-    return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix .. argB .. linkAssamble[2] .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
 
+    return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix .. argB .. linkAssamble[2] .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
 end
 
 function p.generalLink_leftLogo(translatedHeader,argB,argC)
@@ -222,6 +210,5 @@ end
 function p.generalLink_centralLogo(translatedHeader,argB)
     return linkAssamble[7] .. linkAssamble[3] .. argB .. linkAssamble[2] .. onlyLogoTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
 end
-
 
 return p
