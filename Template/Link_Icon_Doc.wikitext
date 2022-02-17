@@ -1,3 +1,5 @@
+{{info|text=<big>'''本模板已轉用Lua模組'''</big>|color=#010180|leftimage=[[File:Lua-logo.svg|75px]]}}
+
 圖標鏈接.<br>
 本模板縮寫為 <nowiki>{{hpi}}</nowiki>.
 
@@ -36,7 +38,7 @@
 |-
 ! 投稿序號 !! 投稿時間 !! 投稿系列 !! 名稱 !! Twitter !! Bilibili
 |-
-| #4 || 2020年08月16日 || {{lj|ヰ世界創世記}} || {{lj|「流星」}} || {{HyperIcon|tw|isekaijoucho|1294937774684958721}} || {{HyperIcon|bl|av586128057}}
+| #4 || 2020年08月16日 || {{lj|ヰ世界創世記}} || {{lj|「流星」}} || {{HyperIcon|twsc|isekaijoucho|1294937774684958721}} || {{HyperIcon|bl|av586128057}}
 |}
 
 == 説明 ==
@@ -95,7 +97,7 @@
 ! scope="row" | Piapro
 | <pre>{{HyperIcon|pp|音樂編號}}</pre><center>{{HyperIcon|pp|XXXX}}</center><div style="padding:10%;">可用縮寫: <br>pp/piapro</div>
 | <pre>{{HyperIcon|pp_l|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|pp_l|https://piapro.jp/|鏈接名稱}}</center><div style="padding:10%;">可用縮寫: <br>pp_l/piapro_left</div>
-| <pre>{{HyperIcon|pp_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|pp_r|https://piapro.jp/|鏈接名稱}}</center><div style="padding:10%;">可用縮寫: <br>pp_r/piapro_rignt</div>
+| <pre>{{HyperIcon|pp_r|完整鏈接|鏈接名字}}</pre><center>{{HyperIcon|pp_r|https://piapro.jp/|鏈接名稱}}</center><div style="padding:10%;">可用縮寫: <br>pp_r/piapro_right</div>
 | <pre>{{HyperIcon|pp_c|完整鏈接}}</pre><center>{{HyperIcon|pp_c|https://piapro.jp/}}</center><div style="padding:10%;">可用縮寫: <br>pp_c/piapro_center</div>
 |-
 ! scope="row" | Twitter
@@ -126,3 +128,4 @@
 
 == 注釋 ==
 <references />
+<noinclude>[[Category:模板说明文件]]</noinclude>
