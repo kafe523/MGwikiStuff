@@ -1,6 +1,18 @@
--- I know the code is bad, forgive me.
+--[[
+    I know the code is bad, forgive me. XP
+
+    Module:HyperIcon
+    Code by Kafe523
+
+    Modules implement to Template:HyperIcon
+    Please refrain from invoking this module directly.
+]]
+
+local getArgs = require('Module:Arguments').getArgs
 
 local p = {}
+
+--[[ Tables ]]
 
 local linkAssamble = {
     "", -- 1
@@ -19,7 +31,7 @@ local iconTable = {
     ["ig-logo"] = "[[File:Instagram_logo.png|20px|link=]]",
     ["nico-logo"] = "[[File:Niconico-2021-black.png|20px|link=]]",
     ["piapro-logo"] = "[[File:Piapro_icon.svg|20px|link=]]",
-    ["tweets-logo"] = "[[File:Twitte_Logo.png|20px|link=]]",
+    ["tweets-logo"] = "[[File:Twitte_Logo.png|20px|link=]]",  -- Yes, the file actually call "Twitte_Logo".
     ["youtube-logo"] = "[[File:YouTube Logo icon.png|20px|link=]]"
 }
 
@@ -32,9 +44,7 @@ local prefixTable = {
     ["youtube"] = {prefix = "https://youtu.be/" , icon = iconTable["youtube-logo"]}
 }
 
---[[
-    Index Start at 1
-]]
+-- Index Start at 1
 
 local centralTable = {
     -- center
@@ -83,32 +93,32 @@ local indexTable = {
     {"bl","bili","bilibili"},  -- 1
     {"ig","instagram"},
     {"igf","instagramfull"},
-    {"nc","nico","niconico"},
+    {"nc","nico","nicovideo"},
     {"pp","piapro"}, -- 5
-    {"tw","tweet","tweets"},
+    {"tw","tweet","twitter"},
     {"twsc","tweetsc","twittershortcut"},
     {"tws","tweetsh","twittershort"},
     {"yt","youtube"}, -- 9
     -- General Link (Logo on the left)
-    {"bl_l","blil_lf","bilibili_left"}, -- 10
-    {"ig_l","instagram_lf"},
-    {"nc_l","nico_lf","niconico_left"},
+    {"bl_l","bili_lf","bilibili_left"}, -- 10
+    {"ig_l","instagram_left"},
+    {"nc_l","nico_lf","nicovideo_left"},
     {"pp_l","piapro_left"},
-    {"tw_l","tweets_lf","twittersh_left"}, -- 11
+    {"tw_l","tweet_lf","twitter_left"}, -- 11
     {"yt_l","youtube_left"},
     -- General Link (Logo on the right)
-    {"bl_r","blil_rg","bilibili_right"},
-    {"ig_r","instagram_rg"},
-    {"nc_r","nico_rg","niconico_right"}, -- 15
+    {"bl_r","bili_rg","bilibili_right"},
+    {"ig_r","instagram_right"},
+    {"nc_r","nico_rg","nicovideo_right"}, -- 15
     {"pp_r","piapro_right"},
-    {"tw_r","tweets_rg","twittersh_right"},
+    {"tw_r","tweet_rg","twitter_right"},
     {"yt_r","youtube_right"},
     -- General Link (Logo but button)
-    {"bl_c","blil_ct","bilibili_center"},
-    {"ig_c","instagram_ct"}, -- 20
-    {"nc_c","nico_ct","niconico_center"},
+    {"bl_c","bili_ct","bilibili_center"},
+    {"ig_c","instagram_center"}, -- 20
+    {"nc_c","nico_ct","nicovideo_center"},
     {"pp_c","piapro_center"},
-    {"tw_c","tweets_ct","twittersh_center"},
+    {"tw_c","tweet_ct","twitter_center"},
     {"yt_c","youtube_center"} -- 24
 }
 
@@ -119,22 +129,22 @@ local errorMessageTable = {
     ["tooManyArg"] = linkAssamble[8] .."請刪除多餘參數,或檢查第<big>1</big>參數是否錯誤." .. linkAssamble[6]
 }
 
+--[[ Main function ]]
+
 function p.main(frame)
-    local argA,argB,argC,argD = frame.arg[1],frame.arg[2],frame.arg[3],frame.arg[4]
-    
-    if argA == nil then
+    return p._main(getArgs(frame,{removeBlanks = false}),frame)
+end
+
+function p._main(args,frame)
+
+    local argA,argB,argC,argD = mw.ustring.lower(args[1] or ""),args[2],args[3],args[4]
+
+    if argA == "" then
         return errorMessageTable["missingArg_1"]
     elseif argD ~= nil then
         return errorMessageTable["tooManyArg"]
-    else
-        return p._main(argA,argB,argC)
     end
-end
-
-function p._main(argA,argB,argC)
-
-    local argA = tostring(argA)
-
+    
     local translatedHeader = p.findPrefixIndex(argA)
     
     if translatedHeader == false then
@@ -145,17 +155,17 @@ function p._main(argA,argB,argC)
     end
     -- Video Link Section
     if centralTable[translatedHeader] then
-        local argB,argC = tostring(argB),tostring(argC)
+        -- local argB,argC = tostring(argB),tostring(argC)
         return p.videoLink(translatedHeader,argB,argC)
     end
     -- Side Logo Section
     if (leftTable[translatedHeader] or rightTable[translatedHeader]) and argC == nil then
         return errorMessageTable["missingArg_3"]
     elseif leftTable[translatedHeader] then
-        local argB,argC = tostring(argB),tostring(argC)
+        -- local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_leftLogo(translatedHeader,argB,argC)
     elseif rightTable[translatedHeader] then
-        local argB,argC = tostring(argB),tostring(argC)
+        -- local argB,argC = tostring(argB),tostring(argC)
         return p.generalLink_rightLogo(translatedHeader,argB,argC)
     end
     
@@ -164,7 +174,7 @@ function p._main(argA,argB,argC)
         if argC ~= nil then
             return errorMessageTable["tooManyArg"]
         else
-            local argB = tostring(argB)
+            -- local argB = tostring(argB)
             return p.generalLink_centralLogo(translatedHeader,argB)
         end
     end
@@ -192,7 +202,7 @@ function p.videoLink(translatedHeader,argB,argC)
         else
             return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix .. argB .. centralTable[translatedHeader].ending1 .. argC .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
         end
-    elseif translatedHeader == 8 then
+    elseif translatedHeader == 8 then -- twittershort
         return linkAssamble[7] .. linkAssamble[3] .. centralTable[translatedHeader].prefix2 .. argB .. centralTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
     elseif argC ~= nil then
         return errorMessageTable["tooManyArg"]
@@ -202,15 +212,15 @@ function p.videoLink(translatedHeader,argB,argC)
 end
 
 function p.generalLink_leftLogo(translatedHeader,argB,argC)
-    return leftTable[translatedHeader].icon .. linkAssamble[3] .. argB .. linkAssamble[2] .. argC .. linkAssamble[4]
+    return leftTable[translatedHeader].icon .. linkAssamble[2] .. linkAssamble[3] .. argB .. linkAssamble[2] .. argC .. linkAssamble[4]
 end
 
 function p.generalLink_rightLogo(translatedHeader,argB,argC)
-    return linkAssamble[3] .. argB .. linkAssamble[2] .. argC .. rightTable[translatedHeader].icon .. linkAssamble[4]
+    return linkAssamble[3] .. argB .. linkAssamble[2] .. argC .. linkAssamble[4] .. linkAssamble[2] .. rightTable[translatedHeader].icon
 end
 
 function p.generalLink_centralLogo(translatedHeader,argB)
-    return linkAssamble[7] .. argB .. linkAssamble[3] .. onlyLogoTable[translatedHeader].icon .. linkAssamble[6]
+    return linkAssamble[7] .. linkAssamble[3] .. argB .. linkAssamble[2] .. onlyLogoTable[translatedHeader].icon .. linkAssamble[4] .. linkAssamble[6]
 end
 
 
